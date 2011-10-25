@@ -1,0 +1,46 @@
+First
+WAAW
+2
+Economy
+WCAACW
+3
+P
+Harry Hacker
+First
+A
+P
+Susan Staples
+First
+A
+P
+Georgette Lee
+Economy
+W
+P
+John Williams
+First
+W
+G
+Venkathan Subramanian,Karl Schulz
+Economy
+P
+Waclaw Bronskij
+Economy
+W
+P
+Maryanne Moore
+First
+W
+P
+Vinh Vu
+First
+A
+C
+Vinh Vu,Waclaw Bronskij
+P
+Xiaoping Deng
+Economy
+W
+S
+M
+Q
