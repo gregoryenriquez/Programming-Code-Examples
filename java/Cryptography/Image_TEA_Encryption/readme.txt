@@ -1,0 +1,1 @@
+TEA Encryption method on an image reading byte by byte input.

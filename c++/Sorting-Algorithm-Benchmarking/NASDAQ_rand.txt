@@ -1,0 +1,4412 @@
+SHPGY, Shire Pharmaceuticals Group, plc
+METFO, Metropolitan Financial Corp.
+YORK, York Research Corporation
+MTLG, Metrologic Instruments, Inc.
+YFCB, Yonkers Financial Corporation
+EEFT, Euronet Worldwide, Inc.
+WCNX, Waste Connections Inc.
+MNRTA, Monmouth Real Estate Investment Corporation
+ATRO, Astronics Corporation
+TGAL, Tegal Corporation
+PFBI, Premier Financial Bancorp, Inc.
+FTBK, Frontier Financial Corporation
+CEPH, Cephalon, Inc.
+TOFC, Tower Financial Corporation
+METF, Metropolitan Financial Corp.
+PCCC, PC Connection, Inc.
+PSTF, Professional Staff, plc
+ASFT, Artisoft, Inc.
+OCFC, OceanFirst Financial Corp.
+VDAT, Visual Data Corporation
+SAPE, Sapient Corporation
+MRBK, Mercantile Bankshares Corporation
+MKTW, MarketWatch.com, Inc.
+IPSW, Ipswich Bancshares, Inc.
+LFUS, Littelfuse, Inc.
+SSOL, SmartServ Online, Inc.
+DEVC, Devcon International Corp.
+MARSG, Marsh Supermarkets, Inc.
+CRGN, CuraGen Corporation
+SHLO, Shiloh Industries, Inc.
+AXYS, Axsys Technologies, Inc.
+PHFCP, Pittsburgh Financial Corporation
+ADVNA, ADVANTA Corp.
+AGNT, Argonaut Technologies, Inc.
+HIFN, hi/fn, inc.
+IBSS, Integrated Business Systems and Services, Inc.
+PENN, Penn National Gaming, Inc.
+ALSK, Alaska Communications Systems Group, Inc.
+RVFD, Riviana Foods Inc.
+TORC, Torch Offshore, Inc.
+AIMM, AutoImmune Inc.
+TRNI, Trans-Industries, Inc.
+WRLS, Telular Corporation
+FFBC, First Financial Bancorp.
+PNWB, Pacific Northwest Bancorp
+RDRT, Read-Rite Corporation
+NXTL, Nextel Communications, Inc.
+NTRS, Northern Trust Corporation
+SLGN, Silgan Holdings, Inc.
+RNHDA, Reinhold Industries, Inc.
+FBSI, First Bancshares, Inc.
+SEPR, Sepracor Inc.
+PRCC, Pollution Research and Control Corp.
+CUMB, Cumberland Technologies Inc.
+FFHS, First Franklin Corporation
+ATRI, ATRION Corporation
+GEER, Geerlings & Wade, Inc.
+OSBC, Old Second Bancorp, Inc.
+IHIIW, Industrial Holdings, Inc.
+SCLD, SteelCloud Inc.
+CORR, COR Therapeutics, Inc.
+LICB, Long Island Financial Corp.
+VICMW, Vicom, Incorporated
+LIBHA, Liberty Homes, Inc.
+ABAX, ABAXIS, Inc.
+EXAC, Exactech, Inc.
+UFAB, UNIFAB International, Inc.
+ADLI, American Medical Technologies Inc.
+SABC, South Alabama Bancorporation, Inc.
+DXYN, Dixie Group, Inc. (The)
+VNWK, Visual Networks, Inc.
+QSCG, QSC  AG
+STHLY, STET Hellas Telecommunications S.A.
+DATA, DataTrak International, Inc.
+LIFC, LifeCell Corporation
+MTSP, Merrill Lynch & Co., Inc.
+PGNX, Progenics Pharmaceuticals Inc.
+GGAL, Grupo Financiero Galicia S.A.
+ALTI, Altair International, Inc.
+CYTC, CYTYC Corporation
+EPNY, E.piphany, Inc.
+COLM, Columbia Sportswear Company
+TWAV, Therma-Wave, Inc.
+PRFC, Promistar Financial Corporation
+MEDQ, MedQuist, Inc.
+CASY, Casey's General Stores, Inc.
+VCBI, Virginia Commerce Bancorp
+CNBA, Chester Bancorp, Inc.
+DCRN, Diacrin, Inc.
+PTIE, Pain Therapeutics
+PNBK, Patriot National Bancorp Inc.
+LXBK, LSB Bancshares, Inc.
+JHFT, John Hancock Financial Trends Fund, Inc.
+BRBI, Blue River Bancshares, Inc.
+NTKKQ, Net2000 Communications, Inc.
+CRDN, Ceradyne, Inc.
+THDO, 3DO Company (The)
+STKL, Stake Technology Ltd.
+MADB, Madison Bancshares Group, Ltd.
+TECUA, Tecumseh Products Company
+CTEL, City Telecom (H.K.) Limited
+EGBN, Eagle Bancorp, Inc.
+UTBI, United Tennessee Bankshares, Inc.
+PHLY, Philadelphia Consolidated Holding Corp.
+KEYS, Keystone Automotive Industries, Inc.
+SHLRG, Schuler Homes, Inc.
+NNDS, NDS Group plc.
+SNUS, SONUS Pharmaceuticals, Inc.
+DIMEZ, Dime Bancorp, Inc.
+HLYW, Hollywood Entertainment Corporation
+STNV, Statia Terminals Group N.V.
+PIXR, Pixar
+NSIT, Insight Enterprises, Inc.
+FCFC, FirstCity Financial Corporation
+USDC, USDATA Corporation
+BPTR, BrandPartners Group, Inc.
+CREAF, Creative Technology Ltd.
+ARMX, Aramex International Limited
+BGRH, Berger Holdings, Ltd.
+COGI, Cognicase Inc.
+NCRI, NCRIC Group, Inc.
+CSFL, Centerstate Banks of Florida, Inc.
+ONTR, Ontro, Inc.
+MCRL, Micrel, Incorporated
+METG, META Group, Inc.
+FSVB, Franklin Bank, National Association
+AMCRP, Amcor Limited
+BNBN, barnesandnoble.com inc.
+MICC, Millicom International Cellular S.A.
+VRTX, Vertex Pharmaceuticals Incorporated
+ENBC, Enchira Biotechnology Corporation
+ADSTW, AdStar, Inc.
+IMPH, IMPATH Inc.
+KIND, Kindred Healthcare, Inc.
+ERTS, Electronic Arts Inc.
+ALDA, Aldila, Inc.
+AOLA, America Online Latin America, Inc.
+PTEK, PTEK Holdings, Inc.
+EMRG, eMerge Interactive, Inc.
+TIXX, Tickets.com, Inc.
+MUSE, Micromuse, Inc.
+BKNG, Banknorth Group, Inc.
+NMTC, Numerical Technologies, Inc.
+CFSL, Chesterfield Financial Corp.
+ELRN, Elron Electronic Industries Ltd.
+UBSI, United Bankshares, Inc.
+PBNC, PFS Bancorp, Inc.
+DCLK, DoubleClick Inc.
+MAXY, Maxygen, Inc.
+CISC, Continental Information Systems Corporation
+HBAN, Huntington Bancshares Incorporated
+CLYS, Catalyst International, Inc.
+LAYN, Layne Christensen Company
+HFWA, Heritage Financial Corporation
+ARGY, Argosy Education Group, Inc.
+KARE, Koala Corporation
+OPTO, Optio Software, Inc.
+ENMD, EntreMed, Inc.
+BKCT, Bancorp Connecticut Inc.
+STOSY, Santos, Ltd.
+ONNN, ON Semiconductor Corporation
+USON, US Oncology, Inc.
+PTMK, Pathmark Stores, Inc.
+NEXL, Nexell Therapeutics Inc
+HYTDL, DECS Trust IV
+IPLY, Interplay Entertainment Corp.
+OTRKB, Oshkosh Truck Corporation
+CACB, Cascade Bancorp
+PDCO, Patterson Dental Company
+CWBC, Community West Bancshares
+TASR, TASER International, Inc.
+LEIX, Lowrance Electronics, Inc.
+ARMF, Armanino Foods of Distinction, Incorporated
+HIBNY, Hibernia Foods Public Limited Company
+CUBA, Herzfeld Caribbean Basin Fund, Inc. (The)
+WOLV, NetWolves Corporation
+OAKF, Oak Hill Financial, Inc.
+IGLD, Internet Gold Golden Lines Ltd.
+OTEX, Open Text Corporation
+TTEC, TeleTech Holdings, Inc.
+GNTA, Genta Incorporated
+OTFC, Oregon Trail Financial Corp.
+STRT, Strattec Security Corporation
+ALEX, Alexander & Baldwin, Inc.
+QDEL, Quidel Corporation
+HFFB, Harrodsburg First Financial Bancorp, Inc.
+BDMS, Birner Dental Management Services, Inc.
+QSND, QSound Labs, Inc.
+ABANP, Gold Banc Corporation, Inc.
+CTCI, CT Communications, Inc.
+DYNT, Dynatronics Corporation
+PRLX, Parlex Corporation
+IDCC, InterDigital Communications Corp.
+TPTH, TriPath Imaging Inc.
+YOCM, YOCREAM International Inc
+MBNK, Main Street Bancorp, Inc.
+RYOU, Ramsay Youth Services, Inc.
+JJSF, J & J Snack Foods Corp.
+NBTY, NBTY, Inc.
+CVAL, Chester Valley Bancorp Inc.
+DSWL, Deswell Industries, Inc.
+HOTT, Hot Topic, Inc.
+LUMT, Luminant Worldwide Corporation
+MRGE, Merge Technologies Inc.
+MPML, MPM Technologies, Inc.
+MXRE, Max Re Capital Ltd.
+INFM, Infinium Software, Inc.
+BNSOZ, Bonso Electronics International, Inc.
+ULBI, Ultralife Batteries, Inc.
+ONXS, ONYX Software Corporation
+PMRY, Pomeroy Computer Resources, Inc.
+MDTL, Medis Technologies Ltd.
+MGAM, Multimedia Games, Inc.
+INTG, Intergroup Corporation (The)
+IISL, I.I.S. Intelligent Information Systems Limited
+BOKF, BOK Financial Corporation
+CICI, Communication Intelligence Corporation
+RHAT, Red Hat, Inc.
+GUPB, GFSB Bancorp, Inc.
+FAME, Flamemaster Corporation (The)
+SIRI, Sirius Satellite Radio Inc.
+VPHM, ViroPharma Incorporated
+AMSG, Amsurg Corp.
+RIGS, Riggs National Corporation
+KNAN, Canaan Energy Corporation
+OBIE, Obie Media Corporation
+PRDS, Predictive Systems, Inc.
+ICCA, Internet Commerce Corp.
+AACB, Alliance Atlantis Communications, Inc.
+RGFCN, R&G Financial Corporation
+PARS, Pharmos Corporation
+EDGR, EDGAR Online, Inc.
+VOLVY, A B Volvo
+EVST, Everlast Worldwide Inc.
+LOUD, Loudeye Technologies, Inc.
+VLTS, Valentis, Inc.
+ABTL, Autobytel Inc.
+NTGX, net.Genesis Corporation
+STAD, Student Advantage, Inc.
+MOLX, Molex Incorporated
+LDIG, Liberty Digital, Inc.
+PMTR, Pemstar Inc.
+REVU, Princeton Review, Inc. (The)
+FPWR, Fountain Powerboat Industries, Inc.
+UNSRW, Uniservice Corporation
+FUTR, IFX Corporation
+NMUS, Net4Music, Inc.
+BFLY, Bluefly, Inc.
+CMLH, Chromaline Corporation (The)
+CRDS, Crossroads Systems, Inc.
+REGI, Renaissance Worldwide Inc.
+FSTP, Frontstep Inc.
+EFTC, EFTC Corporation
+PPRO, PurchasePro.com, Inc.
+ONSPC, OnSpan Networking Inc.
+DGIT, Digital Generation Systems, Inc.
+UPCPO, Union Planters Corporation
+LQID, Liquid Audio, Inc.
+INIT, Interliant, Inc.
+PFBX, Peoples Financial Corporation
+PURE, Innovative Medical Services
+AVCC, Acorn Holding Corp.
+HCBK, Hudson City Bancorp, Inc.
+CFCP, Coastal Financial Corporation
+UBCP, United Bancorp, Inc.
+ACMTA, ACMAT Corporation
+ELOQ, Eloquent, Inc.
+FRSH, Fresh Brands, Inc.
+GNCMA, General Communication, Inc.
+PESI, Perma-Fix Environmental Services, Inc.
+ICCC, ImmuCell Corporation
+DRAM, Dataram Corporation
+ELAS, Elastic Networks Inc.
+DHULZ, Dorchester Hugoton, Ltd.
+SPGLA, Spiegel, Inc.
+LTRX, Lantronix, Inc.
+MFLO, Moldflow Corporation
+CPSS, Consumer Portfolio Services, Inc.
+CMNT, Computer Network Technology Corporation
+MBRW, MBC Holding Company
+DYAX, Dyax Corporation
+BRDG, Bridge Technology, Inc.
+LNBB, LNB Bancorp, Inc.
+QCRH, QCR Holdings, Inc.
+LTUS, Garden Fresh Restaurant Corp.
+REGS, Regus plc
+APLX, Applix, Inc.
+VCSTW, ViewCast.com Inc
+VWPT, Viewpoint Corporation
+OMCL, Omnicell, Inc.
+RCKY, Rocky Shoes & Boots, Inc.
+VIAN, Viant Corporation
+CLDN, Celadon Group, Inc.
+SRSL, SRS Labs, Inc.
+FWBN, First Western Bank
+CHDN, Churchill Downs, Incorporated
+RSTI, Rofin-Sinar Technologies, Inc.
+LANV, LanVision Systems, Inc.
+FSBI, Fidelity Bancorp, Inc.
+CRGO, Motor Cargo Industries, Inc.
+MESG, MessageMedia Inc.
+TAGS, Tarrant Apparel Group
+DCBK, Desert Community Bank
+ANLY, Analysts International Corporation
+ALXN, Alexion Pharmaceuticals, Inc.
+FCBP, First Community Bancorp
+FORTY, Formula Systems (1985) Ltd.
+VTSS, Vitesse Semiconductor Corporation
+APHT, Aphton Corp.
+FTHL, FLAG Telecom Holdings Limited
+SOTR, SouthTrust Corporation
+OPTV, OpenTV Corp.
+AMBCP, American Bancorporation
+OTTR, Otter Tail Corporation
+SOSS, SOS Staffing Services, Inc.
+SPDE, SpeedUs.com Inc.
+HEAL, HealthWatch, Inc.
+RCII, Rent-A-Center Inc.
+WBKC, WestBank Corporation
+ARMHY, ARM Holdings, plc
+MNRO, Monro Muffler Brake, Inc.
+HCOW, Horizon Organic Holding Corporation
+SONW, Song Networks Holding AB
+ITRA, Intraware, Inc.
+XTRM, Brass Eagle, Inc.
+ORBK, Orbotech Ltd.
+NCLIP, North Coast Life Insurance Company
+LIPD, Lipid Sciences Incorporated
+FNFI, First Niles Financial, Inc.
+FARO, FARO Technologies, Inc.
+ATCO, American Technology Corporation
+IBOC, International Bancshares Corporation
+GBCOA, Greif Bros. Corporation
+MRXX, Marex, Inc.
+WGNR, Wegener Corporation
+CMSB, Commonwealth Bancorp, Inc.
+BTGC, Bio-Technology General Corp.
+LRCX, Lam Research Corporation
+CARS, Capital Automotive REIT
+BIORY, Biora AB
+SHFL, Shuffle Master, Inc.
+BYND, Beyond.com Corporation
+EMBT, Embarcadero Technologies, Inc.
+IDSY, I.D. Systems, Inc.
+CCBT, CCBT Financial Companies Inc.
+PTRY, Pantry, Inc. (The)
+MAPS, MapInfo Corporation
+DRTE, Dendrite International, Inc.
+GSBNZ, Golden State Bancorp, Inc.
+SPAB, SPACEHAB, Incorporated
+MAIR, Mesaba Holdings, Inc.
+GIGA, Giga-tronics Incorporated
+WCST, Wescast Industries Inc.
+LCAV, LCA-Vision Inc.
+ADBI, ADB Systems International Inc.
+IBIS, Ibis Technology Corporation
+BRKT, Brooktrout, Inc.
+ROOM, Hotel Reservations Network, Inc.
+GRDN, Guardian Technologies International, Inc.
+CALP, Caliper Technologies Corp.
+FNSR, Finisar Corporation
+MCDTA, McDATA Corporation
+CGUL, Margate Industries, Inc.
+NPBC, National Penn Bancshares, Inc.
+NEWH, New Horizons Worldwide, Inc.
+DAVX, Davox Corporation
+JACO, Jaco Electronics, Inc.
+MPWR, Mpower Holding Corporation
+HYPR, HyperFeed Technologies, Inc.
+SHEL, Sheldahl, Inc.
+MARY, St. Mary Land & Exploration Company
+CNDL, Candlewood Hotel Company, Inc.
+CRDM, Cardima, Inc.
+EBTI, eBT International Inc.
+ASKJ, Ask Jeeves, Inc.
+CCOW, Capital Corp of the West
+RIMM, Research in Motion Limited
+BWEB, BackWeb Technologies Ltd.
+RNWK, RealNetworks, Inc.
+GENBB, Genesee Corporation
+OKSBO, Southwest Bancorp, Inc.
+DENHY, Denison International plc
+TSFG, South Financial Group Inc. (The)
+DNDN, Dendreon Corporation
+TRDR, Trader.com N.V.
+PDSG, PDS Gaming Corporation
+XATA, XATA Corporation
+BEIQ, BEI Technologies, Inc.
+VWKS, VitalWorks, Inc.
+TRAK, Canterbury Park Holding Corporation
+AWRE, Aware, Inc.
+SSSS, Stewart & Stevenson Services, Inc.
+GBTB, GB&T Bancshares
+TRBC, Three Rivers Bancorp, Inc.
+VLCT, ValiCert, Inc.
+MOGN, MGI PHARMA, Inc.
+INMT, Intermet Corporation
+ROIAK, Radio One, Inc.
+EXJF, Exchange National Bancshares, Inc.
+ISFC, Innes Street Financial Corporation
+SCTCG, Systems & Computer Technology Corporation
+TUNE, Microtune, Inc.
+LDCL, Loudcloud, Inc.
+POWL, Powell Industries, Inc.
+RPTR, Repeater Technologies, Inc.
+ABRI, Abrams Industries, Inc.
+SUSQ, Susquehanna Bancshares, Inc.
+IRETS, Investors Real Estate Trust
+ACME, ACME Communications, Inc.
+WLSN, Wilsons The Leather Experts Inc.
+RACN, Racing Champions Corporation
+ISRL, Isramco, Inc.
+BSTW, Bestway, Inc.
+ABCO, Advisory Board Company (The)
+NESY, NEON Systems, Inc.
+BMTC, Bryn Mawr Bank Corporation
+FBANP, F.N.B. Corporation
+CBSAO, Coastal Bancorp Inc.
+GZTC, Genzyme Transgenics Corporation
+IUBC, Indiana United Bancorp
+THQI, THQ Inc.
+ICBX, Independent Community Bankshares, Inc.
+IPAR, Inter Parfums, Inc.
+BMRC, Bank of Marin
+FISI, Financial Institutions, Inc.
+MTXC, Matrix Bancorp, Inc
+DBLE, Double Eagle Petroleum Company
+CNFL, Citizens Financial Corporation
+GLUX, Great Lakes Aviation, Ltd.
+IFNY, Infinity, Inc.
+ODWA, Odwalla, Inc.
+INMRY, Instrumentarium Corporation
+DOLL, Middleton Doll Company (The)
+MATX, Matrix Pharmaceutical, Inc.
+ECGI, Envoy Communications Group, Inc.
+ASBI, Ameriana Bancorp
+BCGI, Boston Communications Group, Inc.
+ASPM, Aspect Medical Systems, Inc.
+FCAP, First Capital, Inc.
+MDBK, Medford Bancorp, Inc.
+ALLB, Greater Delaware Valley Savings Bank
+UFMG, Universal Mfg. Co.
+BYBI, Back Yard Burgers, Inc.
+IVTA, InfoVista S.A.
+KIDD, First Years, Inc. (The)
+GTIV, Gentiva Health Services, Inc.
+HITK, Hi-Tech Pharmacal Co., Inc.
+GTIM, Good Times Restaurants Inc.
+CURN, Curon Medical, Inc.
+CURA, CareCentric Inc.
+TSIC, Tropical Sportswear Int'l Corporation
+ISIG, Insignia Systems, Inc.
+SNBCO, Sun Bancorp, Inc.
+ACDO, Accredo Health, Incorporated
+ICOC, ICO, Inc.
+AFFX, Affymetrix, Inc.
+MCCC, Mediacom Communications Corporation
+TCHC, 21st Century Holding Company
+MRVC, MRV Communications, Inc.
+RHBT, RHBT Financial Corporation
+MDDS, Monarch Dental Corporation
+TELOZ, TEL Offshore Trust
+MCDT, McDATA Corporation
+FSST, FASTNET Corporation
+AXCA, Axcan Pharma Inc.
+SPCT, Spectrian Corporation
+GCFC, Grand Central Financial Corporation
+BUSE, First Busey Corporation
+SYNC, Synalloy Corporation
+IGCA, Innovative Gaming Corporation of America
+ATVI, Activision, Inc.
+GIVN, Given Imaging Ltd.
+SUFI, Superior Financial Corporation
+TBIO, Transgenomic, Inc.
+TGIC, Triad Guaranty Inc.
+NMIL, NewMil Bancorp, Inc.
+AMFH, American Financial Holdings, Inc.
+RSLN, Roslyn Bancorp, Inc.
+PMRP, PMR Corporation
+INNO, Innovo Group, Inc.
+ZONA, Zonagen, Inc.
+DORL, Doral Financial Corporation
+GRKA, GREKA Energy Corporation
+GDYS, Goody's Family Clothing, Inc.
+DRCO, Dynamics Research Corporation
+ORYX, Oryx Technolgy Corp.
+FFLC, FFLC Bancorp, Inc.
+ASRV, AmeriServ Financial Inc.
+VIDA, VidaMed, Inc.
+DGICB, Donegal Group, Inc.
+VRTL, Vertel Corporation
+CELL, Brightpoint, Inc.
+RWAV, Rogue Wave Software, Inc.
+ESBF, ESB Financial Corporation
+SPIR, Spire Corporation
+FESX, First Essex Bancorp, Inc.
+EELN, E-Loan, Inc.
+IGOC, iGo Corporation
+VRSA, VersaTel Telecom International N.V.
+AIND, Arnold Industries, Inc.
+ILMN, Illumina, Inc.
+MKTY, Mechanical Technology Incorporated
+DAKT, Daktronics, Inc.
+OVTI, OmniVision Technologies, Inc.
+NOGWF, Noga Electro-Mechanical Industries (1986) Ltd
+FNFN, Franklin Financial Corporation
+GSOF, Group 1 Software Inc.
+SRNA, SERENA Software Inc.
+MAHI, Monarch Avalon, Inc.
+PTIX, Performance Technologies, Incorporated
+HDIIU, Hypertension Diagnostics, Inc.
+EXPO, Exponent, Inc.
+HMGCQ, HMG Worldwide Corporation
+AHMH, American Home Mortgage Holdings, Inc.
+EDMC, Education Management Corporation
+WNMLA, Winmill & Co Incorporated
+MDCA, MDC Corporation Inc.
+SLXP, Salix Pharmaceuticals, Ltd.
+BEAR, Vermont Teddy Bear Co., Inc. (The)
+TMIC, Trend Micro Incorporated
+FCFS, First Cash Financial Services, Inc.
+BSML, Britesmile, Inc.
+KTEC, Key Technology, Inc.
+MRAE, Mirae Corporation
+FFED, Fidelity Federal Bancorp
+PROV, Provident Financial Holdings, Inc.
+CDEN, Coast Dental Services, Inc.
+GFLSP, Greater Community Bancorp
+IFCI, International FiberCom, Inc.
+PFDC, Peoples Bancorp
+IMKTA, Ingles Markets, Incorporated
+PTCH, Pacer Technology
+FSTH, First Southern Bancshares, Inc
+PANRA, Panhandle Royalty Company
+GNTX, Gentex Corporation
+ENTU, Entrust, Inc.
+AMCR, Amcor Limited
+SVCW, ServiceWare Technologies, Inc.
+FEIC, FEI Company
+CTOO, C2, Inc.
+PHLI, PacificHealth Laboratories, Inc.
+STNR, Steiner Leisure Limited
+ATMI, ATMI Inc.
+CXIM, Criticare Systems, Inc.
+EGNI, EganaGoldpfeil (Holdings) Ltd.
+HELE, Helen of Troy Limited
+CIBI, Community Investors Bancorp, Inc.
+HDTV, SpatiaLight, Inc.
+MILT, Miltope Group, Inc.
+THER, TheraSense, Inc.
+VASO, Vasomedical, Inc.
+MMPT, Modem Media Inc
+ANGN, Angeion Corporation
+LNET, LodgeNet Entertainment Corporation
+TECUB, Tecumseh Products Company
+BPFH, Boston Private Financial Holdings, Inc.
+FRNT, Frontier Airlines, Inc.
+KVIKB, Industriforvaltnings AB Kinnevik
+CBKN, Capital Bank Corporation
+RGFCO, R&G Financial Corporation
+CLEC, US LEC Corp.
+FFCH, First Financial Holdings, Inc.
+UCOMA, UnitedGlobalCom, Inc.
+UVSL, Universal Automotive Industries, Inc.
+NGAS, Daugherty Resources, Inc.
+CEDC, Central European Distribution Corporation
+DLTK, Deltek Systems, Inc.
+HGMCY, Harmony Gold Mining Co. Ltd.
+MSTR, MicroStrategy Incorporated
+AVGN, Avigen, Inc.
+DALN, Daleen Technologies, Inc.
+NIKU, Niku Corporation
+KOSN, Kosan Biosciences Incorporated
+CCUR, Concurrent Computer Corporation
+ELNK, EarthLink, Inc.
+NURM, Nur Macroprinters, Ltd
+ATHY, AppliedTheory Corporation
+IVAN, Ivanhoe Energy, Inc.
+ITIG, Intelligroup, Inc.
+FAVS, First Aviation Services, Inc.
+WWCA, Western Wireless Corporation
+SGDE, Sportsman's Guide, Inc. (The)
+CVGR, Covalent Group, Inc.
+INDB, Independent Bank Corp.
+AGIX, AtheroGenics, Inc.
+HPOL, Harris Interactive, Inc.
+VRTA, Virata Corporation
+DATC, Datatec Systems, Inc.
+WSBC, WesBanco, Inc.
+WASH, Washington Trust Bancorp, Inc.
+FLSC, Florsheim Group Inc.
+FLWS, 1-800 FLOWERS.COM, Inc.
+SBGI, Sinclair Broadcast Group, Inc.
+BCRX, BioCryst Pharmaceuticals, Inc.
+ICLR, ICON plc
+ANEN, Anaren Microwave, Inc.
+IFLO, I-Flow Corporation
+CDCO, Cidco Incorporated
+AUGT, August Technology Corporation
+PBFI, Paris Corporation
+FORR, Forrester Research, Inc.
+ALHY, Alpha Hospitality Corporation
+ITXI, Integrated Telecom Express, Inc.
+PNBC, Princeton National Bancorp, Inc.
+BPOPP, Popular, Inc.
+VNTR, Ventro Corporation
+FCCNW, Frontline Communications Corporation
+YANB, Yardville National Bancorp
+DMED, Diametrics Medical, Inc.
+ACMR, A.C. Moore Arts & Crafts, Inc.
+CSWC, Capital Southwest Corporation
+WLFC, Willis Lease Finance Corporation
+TAYD, Taylor Devices, Inc.
+CRIO, Corio, Inc.
+CFCI, CFC International, Inc.
+FCSE, FOCUS Enhancements, Inc.
+ATRK, @Track Communications, Inc.
+CNVLZ, City Investing Company Liquidating Trust
+AINN, Applied Innovation Inc.
+MATR, Matria Healthcare, Inc.
+RMIX, U.S. Concrete, Inc.
+GGUY, Good Guys Inc.
+IGEN, IGEN International Inc.
+CALC, California Coastal Communities Inc
+STFR, St. Francis Capital Corporation
+ALCI, Allcity Insurance Company
+PQUE, Petroquest Energy Inc
+MTXCP, Matrix Bancorp, Inc
+CPTH, Critical Path, Inc.
+LPNT, LifePoint Hospitals, Inc.
+CERG, Ceres Group Inc.
+WVCM, Wavecom S.A.
+NSSC, Napco Security Systems, Inc.
+KNSY, Kensey Nash Corporation
+EUFA, Eufaula BancCorp, Inc.
+SBAS, StarBase Corporation
+CMPC, CompuCom Systems, Inc.
+GRMN, Garmin Ltd.
+HWEN, Home Financial Bancorp
+AVTRG, Avatar Holdings Inc.
+AACE, Ace Cash Express, Inc.
+PWEI, PW Eagle Inc.
+FRIZ, Frisby Technologies, Inc.
+DELT, Delta Galil Industries Ltd.
+DAIEY, Dai'ei, Inc.
+SMDK, SmartDisk Corporation
+GBBKP, Greater Bay Bancorp
+CTCOB, Commonwealth Telephone Enterprises, Inc.
+RFHIW, Richfood Holdings, Inc.
+PSSI, PSS World Medical Inc.
+KELYA, Kelly Services, Inc.
+TRPS, Tripos, Inc.
+MNDO, MIND C.T.I. Ltd.
+IIVI, II-VI Incorporated
+DCSR, DISC Inc.
+MATW, Matthews International Corporation
+SAMC, Samsonite Corporation
+LGND, Ligand Pharmaceuticals Incorporated
+TLTOA, Tele2 AB
+XYBR, Xybernaut Corporation
+TRUE, TrueTime, Inc.
+WTRS, Waters Instruments, Inc.
+LBIX, Leading Brands Inc
+TEKC, Teknowledge Corporation
+SOHU, Sohu.com Inc.
+DOCC, DocuCorp International, Inc.
+UNBJ, United National Bancorp
+SRCH, US SEARCH.com Inc.
+WSTC, West Corporation
+FBAN, F.N.B. Corporation
+SWMAY, Swedish Match AB Frueher Svenska Taendsticks AB
+TBWC, TB Wood's Corporation
+EQIX, Equinix, Inc.
+PSEM, Pericom Semiconductor Corporation
+SCOR, Syncor International Corporation
+APCS, Alamosa Holdings, Inc.
+PENX, Penford Corporation
+CRAY, Cray Inc
+BLSC, Bio-Logic Systems Corp.
+EUNI, eUniverse, Inc.
+HYGS, Hydrogenics Corporation
+HERBA, Herbalife International, Inc.
+CBUK, Cutter & Buck Inc.
+NUFO, New Focus, Inc.
+ASPX, Auspex Systems, Inc.
+FBNKO, First Banks, Inc.
+SRDX, SurModics, Inc.
+CECE, CECO Environmental Corp.
+RBOT, Computer Motion, Inc.
+ILXO, ILEX Oncology, Inc.
+CPTS, Conceptus, Inc.
+GENU, Genuity Inc.
+SNAK, Poore Brothers, Inc.
+INHL, Inhale Therapeutic Systems, Inc.
+DMIF, DMI Furniture, Inc.
+MARPS, Marine Petroleum Trust
+JCDA, Jacada Ltd.
+SSSW, SilverStream Software, Inc.
+WVFC, WVS Financial Corp.
+STSI, Star Scientific, Inc.
+INFY, Infosys Technologies Limited
+CCEL, Cryo-Cell International, Inc.
+IART, Integra LifeSciences Holdings Corporation
+TTRE, TTR Technologies, Inc.
+ABIX, Abatix Corp.
+FHCC, First Health Group Corp.
+STAR, Lone Star Steakhouse & Saloon, Inc.
+RADS, Radiant Systems, Inc.
+NSEC, National Security Group, Inc.
+ELTK, Eltek Ltd.
+ENDP, Endo Pharmaceuticals Holdings Inc.
+PTSI, P.A.M. Transportation Services, Inc.
+PWOD, Penns Woods Bancorp, Inc.
+SOBI, Sobieski Bancorp, Inc.
+XXIA, Ixia
+RSTN, Riverstone Networks, Inc.
+SILW, Silent Witness Enterprises Ltd.
+CATY, Cathay Bancorp, Inc.
+UMBF, UMB Financial Corporation
+DCTM, Documentum, Inc.
+SGEN, Seattle Genetics, Inc.
+BETA, Beta Oil & Gas, Inc.
+QFAB, Quaker Fabric Corporation
+MRGO, Margo Caribe Inc.
+GUMM, GumTech International, Inc.
+ALDV, Allied Devices Corporation
+ECLG, eCollege.com
+GNSC, Genaissance Pharmaceuticals, Inc.
+USPL, U. S. Plastic Lumber Corporation
+LKFNP, Lakeland Financial Corporation
+RADNW, Radyne ComStream, Inc.
+SGRP, SPAR Group, Inc.
+WGAT, Worldgate Communications, Inc.
+EGHT, 8x8 Inc
+DYII, Dynacq International, Inc.
+NEOF, Neoforma Inc.
+DSCM, drugstore.com, inc.
+MTLC, Metalclad Corporation
+RTWI, RTW, Inc.
+COTT, Cott Corporation
+ROME, Rome Bancorp, Inc.
+ALPH, AlphaNet Solutions, Inc.
+SLTI, Surgical Laser Technologies, Inc.
+FFDB, FirstFed Bancorp, Inc.
+SBEI, SBE, Inc.
+PSAI, Pediatric Services of America, Inc.
+CLKB, Clark/Bardes Inc.
+ARTC, ArthroCare Corporation
+ARDI, At Road, Inc.
+MDRX, Allscripts Healthcare Solutions Inc
+ICCI, Insight Communications Company, Inc.
+UBET, Youbet.com, Inc.
+FKKY, Frankfort First Bancorp, Inc.
+CLGY, Cellegy Pharmaceuticals, Inc.
+SMTS, Somanetics Corporation
+BWINB, Baldwin & Lyons, Inc.
+SMIT, Schmitt Industries, Inc.
+ACSEF, ACS-Tech80 Limited
+NPBCP, National Penn Bancshares, Inc.
+SQST, SciQuest, Inc.
+TRMM, TRM Corporation
+MTEK, Metretek Technologies, Inc.
+UBIX, UBICS, Inc.
+CEBK, Central Bancorp, Inc
+CTHR, Charles & Colvard Ltd
+TELT, Teltronics, Inc.
+VANS, Vans, Inc.
+REDF, Rediff.com India Limited
+TORM, TOR Minerals International Inc
+ORCC, Online Resources Corporation
+NCOG, NCO Group, Inc.
+SYBB, SYNSORB Biotech Inc.
+AMCC, Applied Micro Circuits Corporation
+TBFCP, E*TRADE Group, Inc.
+MONT, Montgomery Financial Corporation
+CACS, Carrier Access Corporation
+CRNT, Ceragon Networks Ltd.
+ADLAC, Adelphia Communications Corporation
+CFWY, Consolidated Freightways Corporation
+GAIA, Gaiam, Inc.
+IFSB, Independence Federal Savings Bank
+ANTR, Antares Pharma, Inc.
+GNSS, Genesis Microchip Inc.
+SANG, SangStat Medical Corporation
+OWWI, Omega Worldwide, Inc.
+AKLM, Acclaim Entertainment, Inc.
+GAIT, Langer Inc.
+CUNO, CUNO Incorporated
+ULGX, Urologix, Inc.
+DIGL, Digital Lightwave, Inc.
+CCBG, Capital City Bank Group
+USHP, United Shipping & Technology, Inc.
+UTHR, United Therapeutics Corporation
+FFBH, First Federal Bancshares of Arkansas, Inc.
+CLTK, Celeritek, Inc.
+ZEUS, Olympic Steel, Inc.
+INFA, Informatica Corporation
+HAKI, Hall, Kinion & Associates, Inc.
+CRIS, Curis, Inc.
+PRSE, Precise Software Solutions Ltd.
+SLVN, Sylvan Learning Systems, Inc.
+GNSY, Genesys S.A.
+FLBC, Finger Lakes Bancorp, Inc.
+FTEC, Firetector Inc.
+GSBI, Granite State Bankshares, Inc.
+EMLTF, EMCO Limited
+FORD, Forward Industries, Inc.
+XTND, Extended Systems Incorporated
+GZMO, Genzyme Corporation
+UFPI, Universal Forest Products, Inc.
+TWMC, Trans World Entertainment Corp.
+CHBS, Christopher & Banks Corporation
+REXL, Rexhall Industries, Inc.
+GEMS, Glenayre Technologies, Inc.
+DKWD, D & K Healthcare Resources Inc
+EXTR, Extreme Networks, Inc.
+DYOLF, Dynamic Oil & Gas Inc.
+BKUNA, BankUnited Financial Corporation
+BBSI, Barrett Business Services, Inc.
+NSFC, Northern States Financial Corporation
+GLDBO, Gold Banc Corporation, Inc.
+LVCI, Laser Vision Centers, Inc.
+STST, Sensytech Inc.
+MMAN, Minuteman International Inc.
+ANIK, Anika Therapeutics Inc.
+LPAC, Laser-Pacific Media Corporation
+KLIC, Kulicke and Soffa Industries, Inc.
+TELK, Telik, Inc.
+BRCD, Brocade Communications Systems, Inc.
+ATPX, Advanced Technical Products, Inc.
+SEMX, SEMX Corp.
+CMTN, Copper Mountain Networks, Inc.
+PIII, PECO II, Inc.
+ACTP, ActionPoint Inc
+BFFC, Big Foot Financial Corp.
+MODT, Modtech Holdings Inc.
+EITI, Emergent Information Technologies, Inc.
+NWPX, Northwest Pipe Company
+NVGN, Novogen Limited
+DZTK, Daisytek International Corporation
+THFF, First Financial Corporation Indiana
+RENN, Renaissance Capital Growth & Income Fund III, In
+CRZY, Crazy Woman Creek Bancorp Incorporated
+VVUS, Vivus, Inc.
+CASH, First Midwest Financial, Inc.
+QMRK, QualMark Corporation
+MBRS, MemberWorks, Inc.
+CBSAP, Coastal Bancorp Inc.
+CNBB, CNB Florida Bancshares, Inc.
+CPKI, California Pizza Kitchen, Inc.
+ZIGO, Zygo Corporation
+FCNBP, FCNB Corp.
+FAIM, FairMarket, Inc.
+HNCS, HNC Software Inc.
+GLCBY, Globo Cabo S.A.
+SCSC, ScanSource, Inc.
+CMKG, CoActive Marketing Group Inc
+PRCP, Perceptron, Inc.
+WILCF, G. Willi-Food International,  Ltd.
+PBKBP, People's Bancshares, Inc.
+HWLLP, Howell Corporation
+AETC, Applied Extrusion Technologies, Inc.
+HOOV, Hoover's, Inc.
+DJCO, Daily Journal Corp. (S.C.)
+TIII, TII Industries, Inc.
+SELB, Sel-Leb Marketing, Inc.
+PECS, PEC Solutions, Inc.
+WYPT, Waypoint Financial Corp.
+APPS, Appiant Technologies, Inc.
+CYCO, Cypress Communications Inc.
+ABCB, ABC Bancorp
+WBPR, W Holding Company Incorporated
+NTST, Netsmart Technologies, Inc.
+WEFNW, WebFinancial Corporation
+ERICY, LM Ericsson Telephone Company
+VMIXQ, Valley Media, Inc.
+HOWT, Howtek, Inc.
+HBEK, Humboldt Bancorp
+ANTV, Antenna TV S.A.
+ALCD, Alcide Corporation
+SKYE, SkyePharma PLC
+SALNC, Salon Media Group, Inc.
+GISX, Global Imaging Systems, Inc.
+COHR, Coherent, Inc.
+NTLO, NTELOS Inc
+NAUT, Nautica Enterprises, Inc.
+CKFB, CKF Bancorp, Inc.
+HCTL, Healthcare Technologies Ltd.
+JAMS, Jameson Inns, Inc.
+RAVN, Raven Industries, Inc.
+CATG, Cambridge Antibody Technology Group plc
+PPDI, Pharmaceutical Product Development, Inc.
+DTAGY, Digitale Telekabel AG
+LTBG, Lightbridge, Inc.
+NSTK, Nastech Pharmaceutical Company, Inc.
+LNTY, L90, Inc.
+MONE, MatrixOne, Inc.
+BOOM, Dynamic Materials Corporation
+DAGR, Daniel Green Company
+FTGX, Fibernet Telecom Group, Inc.
+CTBC, CTB International Corp.
+ADGO, Adams Golf, Inc.
+APOG, Apogee Enterprises, Inc.
+MCEL, Millennium Cell Inc.
+XRIT, X-Rite, Incorporated
+ADAT, Authentidate Holding Corp.
+FAST, Fastenal Company
+USFC, USFreightways Corporation
+NTSC, National Technical Systems, Inc.
+FRME, First Merchants Corporation
+IMGC, Intermagnetics General Corporation
+AVAN, Avant Immunotherapeutics, Inc.
+DRRX, Durect Corporation
+TTEK, Tetra Tech, Inc.
+ULAB, Unilab Corporation
+CERO, Concero Inc
+PBIX, Patriot Bank Corp.
+LJPC, La Jolla Pharmaceutical Company
+BNHN, Benihana Inc.
+TCDN, Techdyne, Inc.
+RGFC, R&G Financial Corporation
+MACC, MACC Private Equities Inc.
+JEFFP, JeffBanks, Inc.
+SCFS, Seacoast Financial Services Corporation
+QGLY, Quigley Corporation (The)
+NENG, Network Engines, Inc
+CTBI, Community Trust Bancorp, Inc.
+PVLS, Provalis plc
+VXGN, VaxGen, Inc.
+RADX, Radiance Medical Systems, Inc.
+LOOK, LookSmart, Ltd.
+FMAR, First Mariner Bancorp
+ADSX, Applied Digital Solutions, Inc.
+WINA, Winmark Corporation
+PPHM, Peregrine Pharmaceuticals Inc.
+NWFI, Northway Financial Inc.
+FFKT, Farmers Capital Bank Corporation
+BBII, Boston Biomedica, Inc.
+USLM, United States Lime & Minerals, Inc.
+YDNT, Young Innovations, Inc.
+VABT, Valencia Bank & Trust
+INTO, Initio, Inc.
+CMCSA, Comcast Corporation
+CVTX, CV Therapeutics, Inc.
+FBBC, First Bell Bancorp, Inc.
+NEOT, NeoTherapeutics, Inc.
+QVDX, Quovadx Inc.
+VIRS, Triangle Pharmaceuticals, Inc.
+BSRTS, Banyan Strategic Realty Trust SBI
+USHS, U.S. Home Systems, Inc.
+AAII, aaiPharma Inc
+SSLI, Southern Security Life Insurance Company
+CFBXL, Community First Bankshares, Inc.
+GRIL, Grill Concepts Inc.
+DEAR, Dearborn Bancorp, Inc.
+SYMM, Symmetricom, Inc.
+CBNV, Community Bank of Northern Virginia
+MANA, Manatron, Inc.
+DOCX, Document Sciences Corporation
+NGEN, Nanogen, Inc.
+HORT, Hines Horticulture, Inc.
+RBKV, Resource Bankshares Corporation
+NDSN, Nordson Corporation
+PTEN, Patterson-UTI Energy, Inc.
+NETE, Netegrity, Inc.
+ADVS, Advent Software, Inc.
+VRTY, Verity, Inc.
+BCII, Bone Care International, Inc.
+VSEC, VSE Corporation
+IMNY, I-many, Inc.
+AVCI, Avici Systems Inc.
+TSAI, Transaction Systems Architects , Inc.
+LBRT, Liberate Technologies
+SFBC, Slade's Ferry Bancorp
+CWLD, CrossWorlds Software, Inc.
+DRTN, Data Return Corporation
+ZVXI, Zevex International, Inc.
+PETD, Petroleum Development Corporation
+NOVN, Noven Pharmaceuticals, Inc.
+BRZZ, Briazz, Inc.
+SPLI, Spectra-Physics, Inc.
+AVGE, Aviation General, Inc.
+SCTC, Systems & Computer Technology Corporation
+PCIS, Precis Inc.
+SMSI, Smith Micro Software, Inc.
+LOGC, Logic Devices Incorporated
+SRCEP, 1st Source Corporation
+AVNT, Avant! Corporation
+OAKT, Oak Technology, Inc.
+BFUN, BAM! Entertainment, Inc.
+VDSI, VASCO Data Security International, Inc.
+WRLD, World Acceptance Corporation
+PHOC, Photo Control Corporation
+HELX, Helix Technology Corporation
+FCEL, FuelCell Energy, Inc.
+SPLN, SportsLine.com, Inc.
+DRTK, Duratek, Inc.
+SLMD, Spacelabs Medical, Inc.
+PLCM, Polycom, Inc.
+BIOI, BioSource International Inc.
+WTFC, Wintrust Financial Corporation
+PCLN, priceline.com Incorporated
+ODETB, Odetics, Inc.
+HWKN, Hawkins, Inc.
+MLMT, Merrill Lynch & Co., Inc.
+SLAM, Suburban Lodges of America, Inc.
+HOLX, Hologic, Inc.
+FIFS, First Investors Financial Services Group
+RFMD, RF Micro Devices, Inc.
+SLAB, Silicon Laboratories, Inc.
+PEBK, Peoples Bancorp of North Carolina, Inc.
+TFINP, Team Financial, Inc.
+MXIM, Maxim Integrated Products, Inc.
+VGIN, Visible Genetics, Inc.
+FKAN, First Kansas Financial Corporation
+SOFN, Softnet Systems, Inc.
+CNMD, CONMED Corporation
+PMID, Pyramid Breweries, Inc.
+MCHP, Microchip Technology Incorporated
+XEIK, Xeikon, N.V.
+LVID, Leitch Technology Corporation
+GBCIP, Glacier Bancorp, Inc.
+NKSH, National Bankshares, Inc.
+CTCQ, Check Technology Corporation
+XTEL, XeTel Corporation
+NSANY, Nissan Motor Co., Ltd.
+RNBO, Rainbow Technologies, Inc.
+AMLN, Amylin Pharmaceuticals, Inc.
+VTIV, Ventiv Health, Inc.
+NTFYW, Notify Technology Corporation
+MFNX, Metromedia Fiber Network, Inc.
+HFGI, Harrington Financial Group, Inc.
+REBC, Redwood Empire Bancorp
+CHRB, China Resources Development, Inc.
+ASML, ASML Holding N.V.
+PFNC, Progress Financial Corporation
+DSIT, DSI Toys, Inc.
+COLL, Collins Industries, Inc.
+MFBC, MFB Corp.
+YORW, York Water Company (The)
+CTXS, Citrix Systems, Inc.
+TSTN, Turnstone Systems
+CPBI, CPB Inc.
+CRUS, Cirrus Logic, Inc.
+NUAN, Nuance Communications, Inc.
+PMCS, PMC - Sierra, Inc.
+SBGIP, Sinclair Broadcast Group, Inc.
+HOFF, Horizon Offshore, Inc.
+VIFL, Food Technology Service, Inc.
+SAFE, Invivo Corporation
+MAGZ, Magnum Sports & Entertainment Inc.
+MANC, Manchester Technologies, Inc.
+INOW, InfoNow Corporation
+STKR, StockerYale Inc.
+INSM, Insmed, Inc.
+COMX, Comtrex Systems Corporation
+ESIO, Electro Scientific Industries, Inc.
+IDXX, IDEXX Laboratories, Inc.
+DCTHW, Delcath Systems, Inc.
+VERA, Veramark Technologies Inc
+TXBI, Texas Biotechnology Corporation
+WOFC, Western Ohio Financial Corporation
+ASFD, Ashford.com, Inc.
+MNTG, MTR Gaming Group, Inc.
+ANST, Ansoft Corporation
+WHRT, World Heart Corporation
+KERX, Keryx Biopharmaceuticals, Inc.
+POZN, Pozen, Inc.
+TIVO, TiVo Inc.
+TSTF, TeamStaff, Inc.
+DSGR, Disc Graphics, Inc.
+NVLD, Novel Denim Holdings Limited
+CRRR, Captec Net Lease Realty, Inc.
+REFR, Research Frontiers Incorporated
+EPRS, Eprise Corporation
+DTRX, Detrex Corporation
+UTGI, United Trust Group, Inc.
+RDEN, Elizabeth Arden, Inc.
+LWAY, Lifeway Foods, Inc.
+DFXI, Direct Focus, Inc.
+SPTN, Spartan Stores, Inc.
+TENT, Total Entertainment Restaurant Corp.
+AERTA, Advanced Environmental Recycling Technologies, I
+OPWV, Openwave Systems Inc
+TFIN, Team Financial, Inc.
+RLCOW, Realco, Inc.
+TLCP, TeleCorp PCS Inc CL A
+ASFI, Asta Funding, Inc.
+COLB, Columbia Banking System, Inc.
+WEDX, Westaim Corporation (The)
+FFSL, First Independence Corporation
+HEPH, Hollis-Eden Pharmaceuticals, Inc.
+MLTX, Multex.com, Inc.
+AMFI, Amcore Financial, Inc.
+PATH, AmeriPath, Inc.
+FBCI, Fidelity Bancorp, Inc.
+PBTC, Peoples BancTrust Company, Inc. (The)
+HGMCW, Harmony Gold Mining Co. Ltd.
+UBMT, United Financial Corp
+PNFTW, Penn Traffic Company (The)
+GLDC, Golden Enterprises, Inc.
+ORCL, Oracle Corporation
+LVEL, Level 8 Systems, Inc.
+IDBE, ID Biomedical Corporation
+TRPH, Tripath Technology, Inc.
+YAVY, Yadkin Valley Bank and Trust Company
+PHCC, Priority Healthcare Corporation
+REMC, REMEC, Inc.
+DGJLW, DG Jewelry, Inc.
+GNWR, Genesee & Wyoming Inc.
+CVNS, Covansys Corporation
+ANDR, Andersen Group, Inc.
+USOL, USOL Holdings Inc.
+LWIRA, Liberty Livewire Corp
+LXNT, Lexent Inc.
+IVGN, Invitrogen Corporation
+AMIE, Ambassadors International, Inc.
+RICK, Rick's Cabaret International, Inc.
+INET, Instinet Group Incorporated
+NLCI, Nobel Learning Communities, Inc.
+OTEC, ORATEC Interventions, Inc.
+PLXS, Plexus Corp.
+QGENF, Qiagen N.V.
+AIQT, Active IQ Technologies, Inc.
+OPOF, Old Point Financial Corporation
+ENDO, Endocare, Inc.
+ENMCW, Encore Medical Corporation
+FWRD, Forward Air Corporation
+DHOM, Dominion Homes Inc.
+SNPS, Synopsys, Inc.
+ARQL, ArQule, Inc.
+WCOM, WorldCom, Inc.
+JDEC, J.D. Edwards & Company
+TSMA, Tesma International, Inc.
+LAWS, Lawson Products, Inc.
+SHLR, Schuler Homes, Inc.
+RRRR, Rare Medium Group Inc.
+GMXRZ, GMX Resources, Inc.
+SPRX, Spectrx, Inc.
+SYMC, Symantec Corporation
+NICH, Nitches, Inc.
+DRXR, Drexler Technology Corporation
+NMSS, NMS Communications Corporation
+CREE, Cree, Inc.
+PTMKW, Pathmark Stores, Inc.
+SWBD, Switchboard Incorporated
+AFCE, AFC Enterprises, Inc.
+BROAQ, Brokat Aktiengesellschaft
+MADGF, Madge Networks, N. V.
+CACOA, Cato Corporation (The)
+EGOV, National Information Consortium, Inc.
+KEYN, Keynote Systems, Inc.
+ACPW, Active Power, Inc.
+MFCO, Microwave Filter Company, Inc.
+SPNT, Shopnet.com Inc.
+ONCOZ, On Command Corporation
+SFAM, SpeedFam-IPEC Inc.
+KBALB, Kimball International, Inc.
+RGBK, Regions Financial Corporation
+CLRNE, Clarent Corporation
+SNDV, SoundView Technology Group, Inc.
+BUSEP, First Busey Corporation
+ARCC, Allied Riser Communications Corporation
+SBSIP, Southside Bancshares, Inc.
+FNBP, FNB Corporation
+NETA, Network Associates, Inc.
+STLD, Steel Dynamics, Inc.
+VCNT, Vicinity Corporation
+PCBK, Pacific Continental Corporation (Ore)
+BFEN, BF Enterprises, Inc.
+CURE, Curative Health Services, Inc.
+ZAPP, ZAP
+JNIC, JNI Corporation
+QEPC, Q.E.P. Co., Inc.
+COBZ, CoBiz, Inc.
+ARNA, Arena Pharmaceuticals, Inc.
+LPSN, LivePerson, Inc.
+ZICA, Zi Corporation
+PFGC, Performance Food Group Company
+DWCH, Datawatch Corporation
+NETZ, Netzee, Inc.
+CCOM, Colonial Commercial Corp.
+LECT, LecTec Corporation
+CRAI, Charles River Associates Incorporated
+MSSN, Mission Resources Corporation
+MANU, Manugistics Group, Inc.
+ERES, eResearch Technology Inc.
+ELBO, Electronics Boutique Holdings Corp.
+TXCC, TranSwitch Corporation
+NVAL, New Valley Corporation
+META, Metatec International, Inc.
+TRAD, TradeStation Group Inc
+GCFBW, Founders Food & Firkins, Ltd.
+USBI, United Security Bancshares, Inc.
+NICK, Nicholas Financial, Inc.
+CMRC, Commerce One, Inc.
+USAI, USA Networks, Inc.
+AMAT, Applied Materials, Inc.
+ENGA, Engage, Inc.
+INTA, Intasys Corporation
+GSLI, GSI Lumonics Inc.
+IFIN, Investors Financial Services Corp.
+OVER, Overture Services Inc.
+ISYS, Integral Systems, Inc.
+INSP, InfoSpace, Inc.
+MSCC, Microsemi Corporation
+SVVS, SAVVIS Communications Corporation
+IHIIZ, Industrial Holdings, Inc.
+SMBC, Southern Missouri Bancorp, Inc.
+NEWCW, New China Homes, Ltd.
+QUIZ, Quizno's Corporation (The)
+MKIE, Mackie Designs, Inc.
+ABER, Aber Diamond Corporation
+SORC, Source Information Management Company (The)
+ONCOW, On Command Corporation
+ONTC, ON Technology Corporation
+TRFDF, Tramford International Limited
+WBST, Webster Financial Corporation
+GLGC, Gene Logic Inc.
+CTLM, Centillium Communications, Inc.
+IPCR, IPC Holdings, Limited
+RBNCP, Republic Bancorp Inc.
+DSGX, Descartes Systems Group Inc. (The)
+ELCO, Elcom International, Inc.
+CRXA, Corixa Corporation
+OATS, Wild Oats Markets, Inc.
+ONDI, Ontrack Data International, Inc.
+CAFI, Camco Financial Corporation
+BMRA, Biomerica Inc.
+ESMC, Escalon Medical Corp.
+RTIX, Regeneration Technologies, Inc.
+INFS, InFocus Corporation
+EMITF, Elbit Medical Imaging Ltd.
+ESNJ, Esenjay Exploration Incorporated
+KELLE, Kellstrom Industries, Inc.
+YELL, Yellow Corporation
+NVAX, Novavax, Inc.
+PETM, PETsMART, Inc.
+CHRZ, Computer Horizons Corp.
+WAVEW, NuWave Technologies, Inc.
+OVRL, Overland Data, Inc.
+ADVP, AdvancePCS
+WIKS, Wickes Inc.
+NTPA, Netopia, Inc.
+CSCO, Cisco Systems, Inc.
+MRYP, Merry Land Properties, Inc.
+SEAC, SeaChange International, Inc.
+UBFO, United Security Bancshares
+ALTM, Alternate Marketing Networks, Inc.
+ASCX, Advanced Switching Communications, Inc.
+JAMSO, Jameson Inns, Inc.
+SRCL, Stericycle, Inc.
+AEGGF, Agnico-Eagle Mines Limited
+HAIN, The Hain Celestial Group, Inc.
+IBPI, IntraBiotics Pharmaceuticals, Inc.
+IBCPP, Independent Bank Corporation
+UTCI, Uniroyal Technology Corporation
+SUPC, Superior Consultant Holdings Corporation
+CKSW, ClickSoftware Technologies Ltd.
+ATTY, 1-800-ATTORNEY, Inc.
+JOUT, Johnson Outdoors Inc.
+SLOT, Anchor Gaming
+TALX, TALX Corporation
+HAND, Handspring, Inc.
+PVII, Princeton Video Image, Inc.
+PFCO, PAULA Financial
+KNAP, Knape & Vogt Manufacturing Company
+LNUX, VA Software Corporation
+RFMI, RF Monolithics, Inc.
+HADV, Havas Advertising
+ARTD, ARTISTdirect, Inc.
+SAND, Sandata Technologies, Inc.
+WPEC, Western Power & Equipment Corp.
+STRD, Strategic Distribution, Inc.
+AEGN, AeroGen, Inc.
+RVST, RAVISENT Technologies Inc.
+AMEN, Crosswalk.com Inc.
+PSCO, ProtoSource Corporation
+TROY, Troy Group, Inc.
+FSBK, First South Bancorp Inc
+MTMS, Made2Manage Systems, Inc.
+NVIC, N-Viro International Corporation
+NTFYU, Notify Technology Corporation
+PSUN, Pacific Sunwear of California, Inc.
+BPNT, BarPoint.com, Inc.
+PTNX, Printronix, Inc.
+MATK, Martek Biosciences Corporation
+IMNR, Immune Response Corporation (The)
+BYFC, Broadway Financial Corporation
+SSCCP, Smurfit-Stone Container Corporation
+CCBN, Central Coast Bancorp
+ALTH, Allos Therapeutics, Inc.
+APCFY, Atlas Pacific Limited
+HPLA, HPL Technologies, Inc.
+TIBB, TIB Financial Corporation
+MESA, Mesa Air Group, Inc.
+TRCI, Technology Research Corporation
+NASI, North American Scientific, Inc.
+SUBK, Suffolk Bancorp
+BUCA, BUCA, Inc.
+PSFI, PS Financial, Inc.
+CARN, Carrington Laboratories, Inc.
+AMNB, American National Bankshares, Inc.
+PVFC, PVF Capital Corp.
+NESCQ, NESCO Inc.
+UVEW, uniView Technologies Corporation
+ALCO, Alico, Inc.
+MDLI, MedicaLogic/Medscape Inc
+ADCT, ADC Telecommunications, Inc.
+DLGS, Dialog Semiconductor Plc
+VIRGY, Virgin Express Holdings plc
+HDNG, Hardinge, Inc.
+DIGF, Digital Fusion, Inc.
+HOOK, Redhook Ale Brewery, Incorporated
+USLB, U.S. Laboratories, Inc.
+MEDC, Med-Design Corporation (The)
+ECMV, E Com Ventures, Inc.
+CMCSK, Comcast Corporation
+COPY, Copytele, Inc.
+NHTBP, New Hampshire Thrift Bancshares, Inc.
+BSXT, BOE Financial Services of Virginia Inc.
+JADE, LJ International, Inc.
+NXRA, Nextera Enterprises, Inc.
+CMOS, Credence Systems Corporation
+VRYA, ViryaNet Ltd.
+CAMD, California Micro Devices Corporation
+ABLE, Able Energy, Inc.
+IMOS, ChipMOS TECHNOLOGIES (Bermuda) LTD.
+EMKR, EMCORE Corporation
+ACRU, Accrue Software, Inc.
+ITXC, ITXC Corp.
+CLKS, Click2learn Inc
+SWWI, Simon Worldwide Inc.
+TPTI, TippingPoint Technologies, Inc.
+MNTE, Mentergy, Ltd.
+CTEC, Cholestech Corporation
+NICE, NICE-Systems Limited
+KCIN, KPMG Consulting, Inc.
+ARRO, Arrow International, Inc.
+COBR, Cobra Electronics Corporation
+APII, Action Products International, Inc.
+IIIM, i3 Mobile, Inc.
+EMLX, Emulex Corporation
+SWBT, Southwest Bancorporation of Texas, Inc.
+KELYB, Kelly Services, Inc.
+CYBE, CyberOptics Corporation
+LARS, Larscom Incorporated
+MCLDP, McLeodUSA Incorporated
+MLNM, Millennium Pharmaceuticals, Inc.
+PFBIP, Premier Financial Bancorp, Inc.
+ECOM, Ecometry Corporation
+CAMP, California Amplifier, Inc.
+TATTF, TAT Technologies Ltd.
+ADEX, ADE Corporation
+CHINA, chinadotcom corporation
+DORLP, Doral Financial Corporation
+RZYM, Ribozyme Pharmaceuticals, Inc.
+WLKS, Westlinks Resources, Ltd.
+SYPR, Sypris Solutions, Inc.
+CACI, CACI International, Inc.
+MPET, Magellan Petroleum Corporation
+NGPS, NovAtel Inc.
+GRIC, Gric Communications, Inc.
+CBSS, Compass Bancshares, Inc.
+EXAP, Exchange Applications, Inc.
+DPMI, DuPont Photomasks, Inc.
+BFSB, Bedford Bancshares, Inc.
+PATR, Patriot Transportation Holding, Inc.
+CBIZ, Century Business Services, Inc
+OPHM, OraPharma, Inc.
+AWBC, AmericanWest Bancorporation
+GLDB, Gold Banc Corporation, Inc.
+ANPI, Angiotech Pharmaceuticals, Inc.
+CFNB, California First National Bancorp
+CTIC, Cell Therapeutics, Inc.
+HDWR, Headwaters Incorporated
+MIHL, MIH Limited
+ININ, Interactive Intelligence, Inc.
+FNCM, Finet.com Inc.
+GSBCP, Great Southern Bancorp, Inc.
+BLUD, Immucor, Inc.
+ORBT, Orbit International Corporation
+HBHC, Hancock Holding Company
+MHUT, Medi-Hut Co., Inc.
+CFSB, Citizens First Financial Corporation
+GWBK, Gulf West Banks, Inc.
+CCRD, Concord Communications, Inc.
+BSBN, BSB Bancorp, Inc.
+ANSR, answerthink inc.
+TRCD, Tricord Systems, Inc.
+WBSN, Websense, Inc.
+GLDBP, Gold Banc Corporation, Inc.
+TANN, Tanning Technology Corporation
+RETK, Retek Inc.
+ATAXZ, America First Tax Exempt Investors, L.P.
+LMNE, Luminent, Inc.
+PCDI, PCD Inc.
+PKSI, Primus Knowledge Solutions, Inc.
+CTRY, Century Bancshares, Inc.
+CPTL, CTC Communications Corp.
+MRTN, Marten Transport, Ltd.
+CSGS, CSG Systems International, Inc.
+TVIA, TVIA, Inc.
+NEXT, NextHealth, Inc.
+WBPRM, W Holding Company Incorporated
+FCCG, Fog Cutter Capital Group, Inc.
+ASGN, On Assignment, Inc.
+LSCO, LESCO, Inc.
+INFT, Inforte Corp.
+BMHC, Building Materials Holding Corporation
+WVVI, Willamette Valley Vineyards, Inc.
+INTI, Inet Technologies, Inc.
+KNGT, Knight Transportation, Inc.
+PMIX, PRIMIX Solutions, Inc.
+GLBL, Global Industries, Ltd.
+FALC, FalconStor Software, Inc.
+TCLPZ, TC PipeLines, LP
+HTEK, Hytek Microsystems, Inc.
+CLAI, Claimsnet.com Inc.
+BARI, Bancorp Rhode Island, Inc.
+MVBIP, Mississippi Valley Bancshares, Inc.
+COSN, CoSine Communications, Inc.
+PDLI, Protein Design Labs, Inc.
+SABI, Swiss Army Brands Inc.
+FFHH, FSF Financial Corp.
+VNBC, Vineyard National Bancorp
+SWFT, Swift Transportation Co., Inc.
+HMSL, Hemosol, Inc.
+AVSR, Avistar Communications Corporation
+FLAG, FLAG Financial Corporation
+CFCM, Chief Consolidated Mining Company
+OMNYE, OmniSky Corporation
+ENDPW, Endo Pharmaceuticals Holdings Inc.
+NCEM, Nevada Chemicals, Inc.
+LYNX, Lynx Therapeutics, Inc.
+CWCO, Consolidated Water Co. Ltd.
+TRVS, Travis Boats & Motors, Inc.
+TTPA, Trintech Group PLC
+SCHN, Schnitzer Steel Industries, Inc.
+CNCT, Connetics Corporation
+PRFT, Perficient, Inc.
+ACLS, Axcelis Technologies, Inc.
+LNCE, Lance, Inc.
+EWEBW, Euroweb International Corp.
+TNZR, Tranz Rail Holdings, Limited
+CALM, Cal-Maine Foods, Inc.
+TSCM, TheStreet.com, Inc.
+STOK, Stockwalk Group, Inc.
+ACAP, American Physicians Capital, Inc.
+SBYN, SeeBeyond Technology Corporation
+BDOG, Big Dog Holding, Inc.
+VICM, Vicom, Incorporated
+OICO, O. I. Corporation
+GBNK, Gaston Federal Bancorp, Inc.
+MVCOW, Meadow Valley Corporation
+AEPI, AEP Industries Inc.
+ISONZ, Isonics Corporation
+FFFD, North Central Bancshares, Inc.
+SUPG, SuperGen, Inc.
+HTHR, Hawthorne Financial Corporation
+ALOG, Analogic Corporation
+LRNS, LearningStar Corp.
+DSWT, Duraswitch Industries, Inc.
+CCOMP, Colonial Commercial Corp.
+MCGC, MCG Capital Corporation
+CECO, Career Education Corporation
+KRSC, Kaiser Ventures, Inc.
+CHEL, Chell Group Corporation
+OLOG, Offshore Logistics, Inc.
+RESR, Research, Incorporated
+PHYX, Physiometrix, Inc.
+AMGN, Amgen Inc.
+VONE, V-ONE Corporation
+FAUX, Premier Concepts, Inc.
+GCFB, Founders Food & Firkins, Ltd.
+SPNTW, Shopnet.com Inc.
+BKUNZ, BankUnited Financial Corporation
+WIND, Wind River Systems, Inc.
+GBBK, Greater Bay Bancorp
+ITRU, Intertrust Technologies Corporation
+TESS, TESSCO Technologies Incorporated
+MRBA, Marimba, Inc.
+MALL, PC Mall, Inc.
+IMMT, Immtech International Inc.
+TTLA, Tarantella Inc.
+ITGR, Integrity Incorporated
+KOPN, Kopin Corporation
+CIVC, Civic BanCorp
+SNSG, Sense Technologies, Inc.
+PSFT, PeopleSoft, Inc.
+EGPT, Eagle Point Software Corporation
+RYFL, Family Steak Houses of Florida, Inc.
+AMPL, Ampal-American Israel Corporation
+FFIC, Flushing Financial Corporation
+SINA, sina.com
+BSRR, Sierra Bancorp
+NXXI, Nutrition 21 Inc.
+LEXG, Lexicon Genetics Incorporated
+USEG, U.S. Energy Corp.
+NXTP, Nextel Partners, Inc.
+LUME, Lumenis Ltd.
+ABWG, A B Watley Group, Inc.
+CAMT, Camtek Ltd.
+BNCC, Bnccorp, Inc.
+ACAT, Arctic Cat Inc.
+PERY, Perry Ellis International Inc.
+CHFN, Charter Financial Corp.
+EXEL, Exelixis, Inc.
+WSBI, Warwick Community Bancorp, Inc
+GOAM, GoAmerica, Inc.
+CSCC, CenterSpan Communications Corporation
+CIBN, California Independent Bancorp
+EXCOP, EXCO Resources, Inc.
+NRCI, National Research Corporation
+JOYG, Joy Global Inc.
+HAFC, Hanmi Financial Corporation
+PSFC, Peoples-Sidney Financial Corporation
+RFGI, Rushmore Financial Group, Inc.
+FDTR, Federal Trust Corporation
+GNBT, Generex Biotechnology Corporation
+CATZ, Computer Access Technology Corporation
+PMACA, PMA Capital Corporation
+APFC, American Pacific Corporation
+PZZI, Pizza Inn, Inc.
+NGRU, netguru inc
+CNTL, Cantel Medical Corp.
+TAIT, Taitron Components Incorporated
+BVRS, BVR Systems Ltd.
+HLEX, HealthExtras, Inc.
+HOST, Arlington Hospitality, Inc
+IMGN, ImmunoGen, Inc.
+RDWR, Radware Ltd.
+CAPX, Capital Crossing Bank
+MITY, MITY Enterprises Inc.
+CBES, CBES Bancorp, Inc.
+FOBB, First Oak Brook Bancshares, Inc.
+WEDC, White Electronic Designs Corporation
+PBKB, People's Bancshares, Inc.
+BOTX, Bontex Inc.
+AAON, AAON, Inc.
+CGPI, CollaGenex Pharmaceuticals, Inc.
+ANDW, Andrew Corporation
+WMUX, Western Multiplex Corporation
+SKFB, S & K Famous Brands, Inc.
+SCBHF, Stirling Cooke Brown Holdings Limited
+GADZ, Gadzooks, Inc.
+SYBR, Synergy Brands Inc.
+EMAK, Equity Marketing, Inc.
+SBTV, SBS Broadcasting SA
+ATRM, Aetrium Incorporated
+XOXO, XO Communications, Inc.
+RGCO, RGC Resources Inc.
+VESC, Vestcom International, Inc.
+WAVC, WaveRider Communications Inc.
+ZOLL, Zoll Medical Corporation
+APSA, Alto Palermo S.A.
+ATML, Atmel Corporation
+WBPRN, W Holding Company Incorporated
+IVIL, iVillage, Inc.
+VRST, Verisity Ltd.
+ZRAN, Zoran Corporation
+VINT, Golden State Vintners, Inc.
+TRYF, Troy Financial Corporation
+CEDR, Cedar Income Fund Ltd
+TVLY, Travelocity.com Inc.
+WCFB, Webster City Federal Bancorp
+TKCI, Keith Companies, Inc. (The)
+EBIX, ebix.com Inc
+OPMR, Optimal Robotics Corp.
+IMMU, Immunomedics, Inc.
+TMPW, TMP Worldwide Inc.
+CBIN, Community Bank Shares of Indiana, Inc.
+MODI, Modine Manufacturing Company
+QUOT, Quotesmith.com, Inc.
+STTS, ST Assembly Test Services Ltd.
+OLAB, Oralabs Holding Corp.
+BEXP, Brigham Exploration Company
+MERQ, Mercury Interactive Corporation
+BLCA, Borel Bank & Trust Company
+ROAC, Rock of Ages Corporation
+TWTR, Tweeter Home Entertainment Group, Inc
+MTLK, Metalink, Ltd.
+CERS, Cerus Corporation
+GSOL, Global Sources Ltd.
+HOTJ, HotJobs.com, Ltd.
+BCON, Beacon Power Corporation
+WWIN, Waste Holdings, Inc.
+PORT, Port Financial Corporation
+PSCX, PSC Inc.
+SLTC, Selectica, Inc.
+LION, Fidelity National Corporation
+RVEE, Holiday RV Superstores, Incorporated
+ARRS, Arris Group Inc
+FMARP, First Mariner Bancorp
+PRCM, Procom Technology Incorporated
+GIGM, GigaMedia Limited
+CIPH, Ciphergen Biosystems, Inc.
+TWSTY, Telewest Communications plc
+SKYW, SkyWest, Inc.
+OSTX, Ostex International, Inc.
+LINK, Interlink Electronics
+ATEA, Astea International, Inc.
+PARL, Parlux Fragrances, Inc.
+SONE, S1 Corporation
+UNAM, Unico American Corporation
+UPCOY, United Pan-Europe Communications N.V.
+GBTVK, Granite Broadcasting Corporation
+FBMI, Firstbank Corporation
+EXBT, Exabyte Corporation
+NPRO, NaPro BioTherapeutics, Inc.
+NPSP, NPS Pharmaceuticals, Inc.
+ICOCZ, ICO, Inc.
+SIAL, Sigma-Aldrich Corporation
+SUPX, Supertex, Inc.
+ELIX, Electric Lightwave, Inc.
+ELMG, EMS Technologies, Inc.
+QSFT, Quest Software, Inc.
+AMPB, American Pacific Bank
+KMGB, KMG Chemicals, Inc.
+CHRS, Charming Shoppes, Inc.
+IBAS, iBasis, Inc.
+MDCC, Molecular Devices Corporation
+JAZZ, Jazztel plc
+ACLO, Accelio Corporation
+CREO, Creo Products, Inc.
+MYGN, Myriad Genetics, Inc.
+TRGNY, Transgene S.A.
+NARA, Nara Bancorp, Inc.
+DAIO, Data I/O Corporation
+RGIS, Regis Corporation
+ACTL, Actel Corporation
+XSON, Claxson Interactive Group, Inc.
+CLSCQ, Classic Communications, Inc.
+SGNTE, Sagent Technology, Inc.
+NOVL, Novell, Inc.
+LSCC, Lattice Semiconductor Corporation
+HTRN, HealthTronics Surgical Services, Inc.
+SCIX, Scitex Corporation Ltd.
+FBEI, First Bancorp of Indiana, Inc.
+GENXY, Genset
+BNKUZ, Bank United Corp. Litigation Contingent Payment
+ISWIW, Interactive Systems Worldwide Inc.
+SSPE, Software Spectrum, Inc.
+STAA, STAAR Surgical Company
+SMTX, SMTC Corporation
+LACO, Lakes Gaming, Inc.
+SYLN, Sylvan Inc.
+TGBR, Trans-Global Interactive Limited ADR
+GROW, U.S. Global Investors, Inc.
+EPIC, Epicor Software Corporation
+SYNM, Syntroleum Corporation
+PFIN, P & F Industries, Inc.
+MLRC, Mallon Resources Corporation
+CTIM, Childtime Learning Centers, Inc.
+ECIL, ECI Telecom Ltd.
+CECX, Castle Energy Corporation
+QDIN, Quality Dining, Inc.
+MARSA, Marsh Supermarkets, Inc.
+WBPRO, W Holding Company Incorporated
+NMTXZ, Novametrix Medical Systems Inc.
+EBKR, ebookers.com plc
+VTEK, Vodavi Technology, Inc.
+DBRN, Dress Barn, Inc. (The)
+MDCO, Medicines Company (The)
+PHON, ChoiceTel Communications, Inc.
+ITLA, ITLA Capital Corporation
+MIKR, Mikron Instrument Company, Inc.
+GMTC, GameTech International, Inc.
+AMPLP, Ampal-American Israel Corporation
+STBA, S&T Bancorp, Inc.
+SBMC, Connecticut Bancshares, Inc.
+RDTA, Raining Data Corporation
+CRFT, Craftmade International, Inc.
+PHMD, PhotoMedex, Inc.
+ICTS, ICTS International N.V.
+SIPX, SIPEX Corporation
+CCBP, Comm Bancorp, Inc.
+CNXS, CNS, Inc.
+ITMN, InterMune, Inc.
+VLGEA, Village Super Market, Inc.
+PBCP, Provident Bancorp, Inc.
+RBNF, Rurban Financial Corp
+FPHC, Fisher & Paykel Healthcare Corporation Limited
+INCY, Incyte Genomics Inc.
+FLDR, Flanders Corporation
+SYNT, Syntel, Inc.
+ACGL, Arch Capital Group Ltd.
+PSMT, PriceSmart, Inc.
+IVIS, ICOS Vision Systems Corporation N.V.
+VOXX, Audiovox Corporation
+IBUY, Styleclick, Inc.
+SFNCP, Simmons First National Corporation
+MINI, Mobile Mini, Inc.
+BBUC, Big Buck Brewery & Steakhouse Inc.
+AORGB, Allen Organ Company
+UNEWY, United Business Media plc
+PCAG, PrimaCom AG
+ADTN, ADTRAN, Inc.
+RCNC, RCN Corporation
+ARRW, MindArrow Systems, Inc.
+APAGF, APCO Argentina Inc.
+HFBC, HopFed Bancorp, Inc.
+CYGN, Cygnus, Inc.
+INTM, INT Media Group Incorporated
+FYII, F.Y.I. Incorporated
+FORG, VTEL Corporation
+TRCMB, Transcom WorldWide S.A.
+CTWS, Connecticut Water Service, Inc.
+CWCI, Crosswave Communications Inc.
+VIBC, VIB Corp
+CINF, Cincinnati Financial Corporation
+DAGM, DAG Media, Inc.
+WFHC, Women First HealthCare, Inc.
+ISONL, Isonics Corporation
+IMIC, Industri-Matematik International Corporation
+TRMK, Trustmark Corporation
+WEBM, webMethods, Inc.
+IFCN, INFICON Holding AG
+VCFC, Virginia Commonwealth Financial Corporation
+STHK, Startech Environmental Corporation
+RDCM, Radcom Ltd.
+PWAV, Powerwave Technologies, Inc.
+MEXP, Miller Exploration Company
+SGSF, SignalSoft Corporation
+ELEC, eLEC Communications Corporation
+SCUR, Secure Computing Corporation
+HSTM, HealthStream, Inc.
+LSBC, Large Scale Biology Corporation
+ERMS, eRoom System Technologies, Inc.
+TWRI, Trendwest Resorts, Inc.
+EPEN, East Penn Bank PA
+AIRT, Air T, Inc.
+THOR, Thoratec Corporation
+PDGM, Paradigm Genetics, Inc.
+AXYX, Axonyx, Inc.
+BIGT, Pinnacle Holdings, Inc.
+ONEV, One Voice Technologies, Inc.
+SBRG, Santa Barbara Restaurant Group, Inc.
+SPLX, Simplex Solutions, Inc.
+SLNK, SpectraLink Corporation
+CIMT, Cimatron, Limited
+INSUA, Insituform Technologies, Inc.
+HYBR, Hybrid Networks, Inc.
+UTOB, UTEK Corporation
+PZZA, Papa John's International, Inc.
+IBNK, Integra Bank Corporation
+PACT, PacificNet.com, Inc.
+DNEX, Dionex Corporation
+HABK, Hamilton Bancorp, Inc.
+PREDW, Orlando Predators Entertainment, Inc. (The)
+UBCD, UnionBancorp, Inc
+TREE, Lending Tree, Inc.
+SLGK, Smartlogik Group plc
+OZRKP, Bank of the Ozarks
+ECHO, Electronic Clearing House, Inc.
+IDPH, IDEC Pharmaceuticals Corporation
+AVIR, Aviron
+ELSE, Electro-Sensors, Inc.
+PCTI, PC-Tel, Inc.
+NEIB, Northeast Indiana Bancorp, Inc.
+OSIP, OSI Pharmaceuticals Inc.
+ACTI, ActivCard S.A.
+KTECW, Key Technology, Inc.
+FSRV, FirstService Corporation
+FFIV, F5 Networks, Inc.
+RWDT, RWD Technologies, Inc.
+JCBSG, Jacobson Stores Inc.
+AEOS, American Eagle Outfitters, Inc.
+SFTYE, eSAFETYWORLD, Inc.
+CTCH, Commtouch Software Ltd.
+FLML, Flamel Technologies S.A.
+POSS, Possis Medical, Inc.
+PLLL, Parallel Petroleum Corporation
+GNTY, Guaranty Bancshares, Inc.
+OLGC, Orthologic Corp.
+MEDI, MedImmune, Inc.
+ASYT, Asyst Technologies, Inc.
+ASGR, America Service Group Inc.
+INTU, Intuit Inc.
+ONCY, Oncolytics Biotech, Inc.
+ESREF, ESG Re Limited
+TECH, Techne Corporation
+USAK, USA Truck, Inc.
+PILL, ProxyMed, Inc.
+AMMD, American Medical Systems Holdings, Inc.
+FASH, fashionmall.com, Inc.
+WGOV, Woodward Governor Company
+ARTG, Art Technology Group, Inc.
+ITRI, Itron, Inc.
+WTNY, Whitney Holding Corporation
+ASBC, Associated Banc-Corp
+LYTS, LSI Industries Inc.
+AETH, Aether Systems, Inc.
+SEHI, Southern Energy Homes, Inc.
+NVTL, Novatel Wireless, Inc.
+LFUSW, Littelfuse, Inc.
+RBMG, Resource Bancshares Mortgage Group, Inc.
+FSBC, 1st State Bancorp, Inc.
+MSBK, Main Street Banks, Inc.
+SMHG, Sanders Morris Harris Group, Inc.
+CPAK, CPAC, Inc.
+SFFBP, Southern Financial Bancorp, Inc.
+HEII, HEI, Inc.
+EXTN, Extensity, Inc.
+USEYW, U.S. Energy Systems, Inc.
+PRRR, Pioneer Railcorp
+PXXI, Prophet 21, Inc.
+JAPNY, Japan Air Lines Company, Ltd.
+CASB, Cascade Financial Corp.
+NOVI, Novitron International, Inc.
+AXSI, Axcess, Inc.
+ATAC, Aftermarket Technology Corp.
+UHCP, United Heritage Corporation
+SYMBA, Symbollon Pharmaceuticals, Inc.
+PRGN, Peregrine Systems, Inc.
+SWIM, Anthony & Sylvan Pools Corporation
+MILB, The Millbrook Press, Inc.
+CRNS, Cronos Group (The)
+SOSA, Stolt Offshore S.A.
+MAXE, Max & Erma's Restaurants, Inc.
+BCIS, Bancinsurance Corporation
+MWGP, Midwest Grain Products, Inc.
+SPEX, Spherix Incorporated
+SNRA, Sonera Corporation
+IMCO, IMPCO Technologies, Inc
+AVTR, Avatar Holdings Inc.
+WEBK, West Essex Bancorp, Inc.
+DCPI, dick clark productions, inc.
+CSNT, Crescent Banking Company
+RVSB, Riverview Bancorp Inc
+TCBK, TriCo Bancshares
+UMPQ, Umpqua Holdings Corporation
+INPH, Interphase Corporation
+GAFC, Greater Atlantic Financial Corp.
+FLYA, CHC Helicopter Corporation
+MCBC, Macatawa Bank Corporation
+SAFC, SAFECO Corporation
+MTNT, Motient Corporation
+ONSS, On-Site Sourcing, Inc.
+SPZN, Speizman Industries, Inc.
+ARDM, Aradigm Corporation
+TFSM, 24/7 Media, Inc.
+ROBV, Robotic Vision Systems, Inc.
+LNCB, Lincoln Bancorp
+AKZOY, Akzo Nobel N.V.
+MOLXA, Molex Incorporated
+SFFS, Sound Federal Bancorp
+ODFL, Old Dominion Freight Line, Inc.
+TPPP, Triple P, N.V.
+BBQZ, Barbeques Galore Limited
+CTGI, Capital Title Group, Inc.
+CARD, PubliCARD, Inc.
+CNAF, Commercial National Financial Corporation
+PRES, Preserver Group Inc.
+SUBI, Sun Bancorp, Inc. (SUN)
+BKSC, Bank of South Carolina Corp.
+DROOY, Durban Roodeport Deep, Ltd.
+HLTH, WebMD Corporation
+SPEC, Spectrum Control, Inc.
+QBAK, Qualstar Corporation
+CAND, Candie's, Inc.
+MIKN, Mikohn Gaming Corporation
+APPB, Applebee's International, Inc.
+VIDE, Video Display Corporation
+ALFA, Alfa Corporation
+MSLV, MetaSolv Inc
+FLIC, First of Long Island Corporation (The)
+GMXR, GMX Resources, Inc.
+SMRA, Somera Communications, Inc.
+LTRE, Learning Tree International, Inc.
+AMRI, Albany Molecular Research, Inc.
+LSTR, Landstar System, Inc.
+SERV, Stratus Services Group, Inc.
+STFC, State Auto Financial Corporation
+LMIN, lastminute.com plc
+AKAM, Akamai Technologies, Inc.
+SPNC, Spectranetics Corporation (The)
+OMED, Oxboro Medical, Inc.
+APWR, ASTROPOWER, Inc.
+SNHY, Sun Hydraulics Corporation
+FCOM, Focal Communications Corporation
+JDAS, JDA Software Group, Inc.
+SCHL, Scholastic Corporation
+PMIC, Pacific Magtron International Corp.
+TLCV, TLC Laser Eye Centers, Inc.
+VLGC, ViroLogic, Inc.
+ESRX, Express Scripts, Inc.
+SUPVA, Super Vision International, Inc.
+REPB, Republic Bancshares, Inc.
+ANAD, ANADIGICS, Inc.
+PEAK, Peak International Limited
+WGBC, Willow Grove Bancorp, Inc.
+QCOM, QUALCOMM Incorporated
+VYYO, Vyyo, Inc.
+EQTX, Equitex, Inc.
+HORC, Horizon Health Corporation
+ATTC, AT&T Canada, Inc.
+NTAI, Nam Tai Electronics, Inc.
+CSRE, Comshare, Incorporated
+CITY, Avalon Correctional Services, Inc.
+GALN, Galen Holdings plc
+MTIC, MTI Technology Corporation
+SMTC, Semtech Corporation
+SPSS, SPSS Inc.
+BPMI, Badger Paper Mills, Inc.
+SCBL, Sun Community Bancorp, Limited
+SCMM, SCM Microsystems, Inc.
+NSIL, NETsilicon, Inc.
+IMGX, ImageX, Inc.
+GENR, Genaera Corporation
+OGNC, Organic, Inc.
+CBRL, CBRL Group Inc.
+EZEN, Ezenia! Incorporated
+ANFI, American National Financial, Inc.
+FTEK, Fuel-Tech, N.V.
+RAIL, RailAmerica, Inc.
+TERN, Terayon Communication Systems, Inc.
+OPTK, Optika Inc.
+ABGX, Abgenix, Inc.
+DRRAP, Dura Automotive Systems, Inc.
+CNLGW, Conolog Corporation
+NWAC, Northwest Airlines Corporation
+ATMS, Tidel Technologies, Inc.
+DSGIF, DSG International Limited
+SAVB, Savannah Bancorp, Inc. (The)
+EBTB, eB2B Commerce Inc.
+BANCH, BankAtlantic Bancorp, Inc.
+TROW, T. Rowe Price Group, Inc.
+FSTR, L.B. Foster Company
+FILE, FileNet Corporation
+NEWP, Newport Corporation
+EPMN, Epimmune, Inc.
+IICR, IIC Industries Inc.
+WQNI, WorldQuest Networks, Inc.
+USNA, USANA Health Sciences Inc.
+DASTY, Dassault Systemes, S.A.
+SMTR, SmarTire Systems Inc.
+TRCR, Transcend Services, Inc.
+GEPT, Global ePoint, Inc.
+FUELW, Streicher Mobile Fueling, Inc.
+SAGI, Sage, Inc.
+ATGN, AltiGen Communications, Inc.
+IPIX, Internet Pictures Corporation
+EVTC, Environmental Technologies Corp.
+CVST, Covista Communications, Inc.
+ACAM, Acambis plc
+REPBP, Republic Bancshares, Inc.
+MVCO, Meadow Valley Corporation
+ICTG, ICT Group, Inc.
+SANM, Sanmina Corporation
+MUEL, Paul Mueller Company
+TWLB, Twinlab Corporation
+FECC, First Ecom.Com Inc
+MCTR, Mercator Software Inc
+PHGN, Photogen Technologies, Inc.
+CTAC, 1-800 Contacts, Inc.
+VRSN, VeriSign, Inc.
+NYMX, Nymox Pharmaceutical Corporation
+TEKSW, TekInsight.Com Inc.
+CORS, CORUS Bankshares, Inc.
+VION, Vion Pharmaceuticals Inc.
+HRSH, Hirsch International Corp.
+ADSK, Autodesk, Inc.
+NTEC, Neose Technologies, Inc.
+NSAT, Norsat International Inc.
+NYER, Nyer Medical Group, Inc.
+SMRT, Stein Mart, Inc.
+FLXS, Flexsteel Industries, Inc.
+RTLX, Retalix Ltd.
+BSYS, BISYS Group, Inc. (The)
+UPFC, United PanAm Financial Corporation
+PVTBP, PrivateBancorp, Inc.
+AMEV, Applied Molecular Evolution, Inc.
+WLDA, World Airways, Inc.
+EVSN, Elbit Vision Systems, Limited
+ZION, Zions Bancorporation
+SMDI, Sirenza Microdevices, Inc.
+OXGN, OXiGENE, Inc.
+FONR, Fonar Corporation
+PLPC, Preformed Line Products Company
+PRVT, Private Media Group, Inc.
+CPRT, Copart, Inc.
+FITB, Fifth Third Bancorp
+DRYR, Dreyer's Grand Ice Cream, Inc.
+LCCI, LCC International, Inc.
+MXWL, Maxwell Technologies, Inc.
+QDELW, Quidel Corporation
+AAME, Atlantic American Corporation
+ROBO, Robo Group TEK, Ltd.
+CDDD, Constellation 3D, Inc.
+PAYX, Paychex, Inc.
+UPCS, UbiquiTel Inc.
+GABC, German American Bancorp
+HHGP, Harris & Harris Group, Inc.
+EVBN, Evans Bancorp, Inc.
+ZOOX, Gadzoox Networks, Inc.
+CTAS, Cintas Corporation
+TKGF, Tekgraf, Inc.
+MAZL, Mazel Stores, Inc.
+IAWK, iAsiaWorks, Inc.
+VSNX, Visionics Corporation
+QUIK, QuickLogic Corporation
+GSPN, GlobeSpan, Inc.
+ARIA, ARIAD Pharmaceuticals, Inc.
+WTBK, Westerbeke Corporation
+HOMF, Home Federal Bancorp
+NXUS, Nexus Telocation Systems, Ltd.
+TALK, Talk America Holdings Inc.
+LGTO, Legato Systems, Inc.
+BUNZ, Schlotzsky's, Inc.
+NITE, Knight Trading Group, Inc.
+CCTVY, Carlton Communications Plc
+NTII, Neurobiological Technologies, Inc.
+ITCD, ITC DeltaCom, Inc.
+BREL, BioReliance Corporation
+JMXI, Jupiter Media Metrix Inc.
+DSCP, Datascope Corp.
+MONM, Monmouth Capital Corporation
+ARLC, Arel Communications & Software Ltd.
+PEET, Peet's Coffee & Tea, Inc.
+ROST, Ross Stores, Inc.
+CBCF, Citizens Banking Corporation
+XNVA, Xenova Group plc
+MMSI, Merit Medical Systems, Inc.
+PCNTF, Pacific Internet Limited
+LXMO, Lexington B & L Financial Corporation
+CWLZ, Cowlitz Bancorporation
+IAAI, Insurance Auto Auctions, Inc.
+CBMD, Columbia Bancorp
+TGEN, Targeted Genetics Corporation
+DGICA, Donegal Group, Inc.
+CFBX, Community First Bankshares, Inc.
+FUND, Royce Focus Trust, Inc.
+CBAN, Colony Bankcorp, Inc.
+ABFI, American Business Financial Services, Inc.
+DCAI, Dialysis Corporation of America
+NVALW, New Valley Corporation
+MWAV, M-WAVE, Inc.
+MWRK, Mothers Work, Inc.
+RCOT, Recoton Corporation
+FMST, FinishMaster, Inc.
+BHAG, BHA Group Holdings, Inc.
+NHTB, New Hampshire Thrift Bancshares, Inc.
+ASBP, ASB Financial Corp.
+FIRE, FirePond, Inc.
+NMPS, Matritech, Inc.
+NMTX, Novametrix Medical Systems Inc.
+PEBO, Peoples Bancorp Inc.
+MATV, Matav-Cable Systems Media Ltd.
+RAND, Rand Capital Corporation
+COMM, CoreComm Limited
+CHCOP, City Holding Company
+ABBK, Abington Bancorp Inc.
+EGLE, Eagle Food Centers, Inc.
+NMGC, NeoMagic Corporation
+PMTI, Palomar Medical Technologies, Inc.
+VGNX, Variagenics, Inc.
+IBCP, Independent Bank Corporation
+SRTI, Sunrise Telecom Incorporated
+LCBM, Lifecore Biomedical, Inc.
+OGLE, Oglebay Norton Company
+CMCO, Columbus McKinnon Corporation
+NBSI, North Bancshares, Inc.
+ARGN, Amerigon Incorporated
+GRTS, Gart Sports Company
+CHGOW, Chicago Pizza & Brewery, Inc.
+FCNCA, First Citizens BancShares, Inc.
+BOSC, B.O.S. Better Online Solutions
+SPPTY, Southern Pacific Petroleum N.L
+EEGL, Eagle Supply Group, Inc.
+GRAN, Bank of Granite Corporation
+HNBC, Harleysville National Corporation
+SCIL, Scientific Learning Corporation
+DWYR, Dwyer Group, Inc. (The)
+MEAD, Meade Instruments Corp.
+NEXLW, Nexell Therapeutics Inc
+HRLY, Herley Industries, Inc.
+SNOW, Snowball.com, Inc.
+ABIZ, Adelphia Business Solutions, Inc.
+IFRS, IFR Systems, Inc.
+AAUK, Anglo American plc
+INOV, Innoveda, Inc.
+TACT, TransAct Technologies Incorporated
+SILCF, Silicom Ltd
+ZOMX, Zomax Incorporated
+HSIC, Henry Schein, Inc.
+TRKN, Trikon Technologies, Inc.
+PRFS, Pennrock Financial Services Corp
+UNIB, University Bancorp Inc Michigan
+PCLE, Pinnacle Systems, Inc.
+IWOV, Interwoven, Inc.
+BFOH, BancFirst Ohio Corp.
+CMED, Colorado MEDtech, Inc.
+NATR, Nature's Sunshine Products, Inc.
+PSBI, PSB Bancorp, Inc.
+TELM, Tellium, Inc.
+NVDC, NAVIDEC, Inc.
+ISHP, INTERSHOP Communications AG
+ECBE, ECB Bancorp Inc
+ALNC, Alliance Financial Corporation
+BBOX, Black Box Corporation
+ULCM, Ulticom, Inc.
+PEGS, Pegasus Solutions Inc
+GMXRW, GMX Resources, Inc.
+POOL, SCP Pool Corporation
+ADBL, Audible, Inc.
+PRXL, PAREXEL International Corporation
+TMWD, Tumbleweed Communications Corp.
+FGHC, First Georgia Holding, Inc.
+SSNC, SS&C Technologies, Inc.
+ARBA, Ariba, Inc.
+PRHC, Province Healthcare Company
+PBCI, Pamrapo Bancorp, Inc.
+AUTH, Authoriszor, Inc.
+LLTC, Linear Technology Corporation
+CTSH, Cognizant Technology Solutions Corporation
+WRPC, WRP Corporation
+CFBXZ, Community First Bankshares, Inc.
+MEDX, Medarex, Inc.
+BEAS, BEA Systems, Inc.
+WSBK, Wilshire State Bank
+ISSI, Integrated Silicon Solution, Inc.
+EFDS, eFunds Corporation
+VVTV, ValueVision International, Inc.
+WFSL, Washington Federal, Inc.
+DGAS, Delta Natural Gas Company, Inc.
+ESAN, Entrada Networks, Inc.
+QCBC, Quaker City Bancorp, Inc.
+HURC, Hurco Companies, Inc.
+NYCB, New York Community Bancorp, Inc.
+PRKR, ParkerVision, Inc.
+FLYR, Navigant International, Inc.
+USIX, USinternetworking, Inc.
+DTII, DT Industries, Inc.
+SERO, Serologicals Corporation
+ECSI, Endocardial Solutions, Inc.
+ACRI, Acacia Research Corporation
+ONVI, Onvia.com, Inc.
+NERAY, Nera ASA
+OTWO, o2wireless Solutions, Inc.
+NMRX, Numerex Corp.
+CMDL, Comdial Corporation
+DIGI, Digital Impact, Inc.
+OUTL, Outlook Group Corp.
+SYNL, Syntellect Inc.
+CRLTS, Century Realty Trust
+NWSB, Northwest Bancorp, Inc.
+UNCA, Radio Unica Communications Corp.
+IFGM, Infogrames, Inc.
+CHCO, City Holding Company
+GETY, Getty Images, Inc.
+CYBX, Cyberonics, Inc.
+EBIO, Epoch Biosciences Inc
+EXLN, eXcelon Corporation
+RTEL, Raytel Medical Corporation
+ANSS, ANSYS, Inc.
+IECE, IEC Electronics Corp.
+UBSH, Union Bankshares Corporation
+COLT, COLT Telecom Group plc
+CAPA, Captaris Inc.
+ULTK, Ultrak, Inc.
+LUCY, Lucille Farms, Inc.
+JTWO, J2 Communications
+TSCO, Tractor Supply Company
+FFBI, First Federal Bancshares, Inc.
+NVLS, Novellus Systems, Inc.
+TRIB, Trinity Biotech plc
+SPWC, Speedcom Wireless Corporation
+DGSE, DGSE Companies, Inc.
+KCLI, Kansas City Life Insurance Company
+MOVI, Movie Gallery, Inc.
+ROCM, Rochester Medical Corporation
+CESI, Catalytica Energy Systems, Inc.
+DENT, InterDent, Inc.
+INGN, Introgen Therapeutics, Inc.
+CHTR, Charter Communications, Inc.
+RACNW, Racing Champions Corporation
+INTC, Intel Corporation
+SBIBP, Sterling Bancshares, Inc.
+LKFN, Lakeland Financial Corporation
+ADIC, Advanced Digital Information Corporation
+BOBE, Bob Evans Farms, Inc.
+CWTR, Coldwater Creek, Inc.
+TGIS, Thomas Group, Inc.
+CMBC, Community Bancorp Inc.
+FXEN, FX Energy, Inc.
+LAMR, Lamar Advertising Company
+CLAC, ClickAction Inc.
+UNWR, US Unwired, Inc.
+CHUX, O'Charley's Inc.
+INDG, Indigo N.V.
+ZOLT, Zoltek Companies, Inc.
+BSQR, BSQUARE Corporation
+TMTA, Transmeta Corporation
+ZSEV, Z-Seven Fund, Inc.
+CNRD, Conrad Industries, Inc.
+ELBT, Elbit Ltd.
+LMIA, LMI Aerospace, Inc.
+DICE, Dice, Inc.
+RMCF, Rocky Mountain Chocolate Factory, Inc.
+JLMC, JLM Couture Inc.
+CAVB, Cavalry Bancorp, Inc.
+ESBFP, ESB Financial Corporation
+ACTT, ACT Teleconferencing, Inc.
+TCSI, TCSI Corporation
+PRTN, Proton Energy Systems, Inc.
+ORLY, O'Reilly Automotive, Inc.
+MRVT, Miravant Medical Technologies
+DPII, Discovery Partners International, Inc.
+CVBK, Central Virginia Bankshares, Inc.
+FFFLP, Fidelity Bankshares, Inc.
+IREP, Interep National Radio Sales, Inc.
+HUBG, Hub Group, Inc.
+AHAA, Alpha Industries, Inc.
+NRIM, Northrim Bank
+IHII, Industrial Holdings, Inc.
+HDII, Hypertension Diagnostics, Inc.
+OSKY, Mahaska Investment Company
+DLTR, Dollar Tree Stores, Inc.
+GBIX, Globix Corporation
+JBSS, John B. Sanfilippo & Son, Inc.
+RCOM, Register.com, Inc.
+EPIX, EPIX Medical, Inc.
+LIOX, Lionbridge Technologies, Inc.
+PLXT, PLX Technology, Inc.
+XMSR, XM Satellite Radio Holdings Inc.
+ACNAF, Air Canada
+HSKA, Heska Corporation
+TEAM, National TechTeam, Inc.
+WLHN, Wolohan Lumber Company
+UGLY, Ugly Duckling Corporation
+DFCT, D F China Technology Inc
+NWRE, Neoware Systems Inc.
+TESOF, Tesco Corporation
+FCGI, First Consulting Group, Inc.
+TWTC, Time Warner Telecom Inc.
+POSO, ProsoftTraining.com
+PCYC, Pharmacyclics, Inc.
+INTT, inTest Corporation
+TRDO, Intrado Inc.
+CMVT, Comverse Technology, Inc.
+PANL, Universal Display Corporation
+METFP, Metropolitan Financial Corp.
+SBSA, Spanish Broadcasting System, Inc.
+EVBS, Eastern Virginia Bankshares, Inc.
+PRTL, Primus Telecommunications Group, Inc.
+BELFA, Bel Fuse Inc.
+OPTN, OPTION CARE, Inc.
+ICBC, Independence Community Bank Corp.
+MSFT, Microsoft Corporation
+YBTVA, Young Broadcasting, Inc.
+LPTH, LightPath Technologies, Inc.
+FSFF, First SecurityFed Financial Inc.
+BSTC, BioSpecifics Technologies Corp
+WRNB, Warren Bancorp, Inc.
+ELOY, eLoyalty Corporation
+COOP, Cooperative Bankshares, Inc.
+CVBF, CVB Financial Corporation
+MACE, Mace Security International, Inc.
+AHCI, Ambanc Holding Co., Inc.
+SITE, SpectraSite Holdings, Inc.
+PFSB, PennFed Financial Services, Inc.
+DESI, Designs, Inc.
+SWHI, SonomaWest Holdings, Inc.
+JCBS, Jacobson Stores Inc.
+CLPA, Cell Pathways, Inc.
+EXEE, EXE Technologies, Inc.
+GENE, Genome Therapeutics, Corp
+SRCE, 1st Source Corporation
+DIGX, Digex, Inc.
+RSYS, RadiSys Corporation
+BVRT, B.V.R. Technologies Limited
+FNLY, Finlay Enterprises, Inc.
+EWEB, Euroweb International Corp.
+VVVQE, Viasource Communications, Inc.
+ALGI, American Locker Group, Inc.
+RMKR, Rainmaker Systems, Inc.
+DDDC, deltathree Inc
+WSFS, WSFS Financial Corporation
+UCFC, United Community Financial Corp.
+JAMSP, Jameson Inns, Inc.
+NXCD, NextCard, Inc.
+VIZY, Vizacom, Inc.
+NWFL, Norwood Financial Corp.
+TRBS, Texas Regional Bancshares, Inc.
+INCR, Incara Pharmaceuticals Corporation
+SDNA, Sedona Corporation
+UBOH, United Bancshares, Inc.
+PENG, Prima Energy Corporation
+FBAY, Frisco Bay Industries Ltd.
+ARWM, Arrow-Magnolia International, Inc.
+TMBR, Tom Brown, Inc.
+SAFM, Sanderson Farms, Inc.
+BOOT, LaCrosse Footwear, Inc.
+FSNM, First State Bancorporation
+PUMA, Pumatech, Inc.
+CCBL, C-COR.net Corporation
+EFTD, ftd.com, inc.
+FTFN, First Financial Corp.
+TRNS, Transmation, Inc.
+CRHCY, CRH PLC
+FMKT, FreeMarkets, Inc.
+AERS, Aero Systems Engineering, Inc.
+SPRT, Support.com, Inc.
+EFCX, Electric Fuel Corporation
+CVLY, Codorus Valley Bancorp, Inc
+CBSA, Coastal Bancorp Inc.
+RBNC, Republic Bancorp Inc.
+LGASP, Louisville Gas and Electric Company
+MITK, Mitek Systems, Inc.
+TMTV, Team Communications Group, Inc.
+MARSB, Marsh Supermarkets, Inc.
+NTCT, NetScout Systems, Inc.
+CLHL, Carlisle Holdings Ltd.
+NAVI, NaviSite, Inc.
+AMKR, Amkor Technology, Inc.
+UCBC, Union Community Bancorp
+ACRN, Acorn Products, Inc.
+UFHIP, United Financial Holdings, Inc.
+RGEN, Repligen Corporation
+WLKSW, Westlinks Resources, Ltd.
+UHAL, Amerco
+YRKG, The York Group, Inc.
+WERN, Werner Enterprises, Inc.
+KTII, K-Tron International, Inc.
+TTMI, TTM Technologies, Inc.
+EFBC, Empire Federal Bancorp, Inc.
+NAII, Natural Alternatives International, Inc.
+RUBO, Rubio's Restaurants, Inc.
+PRIA, PRI Automation, Inc.
+EIDSY, Eidos plc
+RNDC, Raindance Communications, Inc.
+TASRW, TASER International, Inc.
+LABS, LabOne, Inc. New
+EPEX, Edge Petroleum Corporation
+CVAS, Corvas International, Inc.
+LITE, Vari-Lite International, Inc.
+FLPB, First Leesport Bancorp, Inc.
+AIRM, Air Methods Corporation
+POLXF, Polydex Pharmaceuticals Limited
+GVHR, Staff Leasing, Inc.
+BONZ, Interpore International
+FBNW, FirstBank NW Corp.
+OCAS, Ohio Casualty Corporation
+EXEG, eXegenics Inc.
+OMTL, Omtool, Ltd.
+PREM, Premier Community Bankshares Inc
+TRFX, Traffix, Inc.
+DMAX, DrugMax, Inc.
+SIGY, Signet Group plc
+DFIB, Cardiac Science, Inc.
+BNBCP, Independence Community Bank Corp.
+COGN, Cognos Incorporated
+WAYN, Wayne Savings Bancshares Inc.
+DIAN, DIANON Systems, Inc.
+HOMS, HomeStore.com, Inc.
+ALAN, Alanco Technologies Inc.
+CBNJ, Community Bancorp of New Jersey
+OLGR, Oilgear Company (The)
+LIFE, Lifeline Systems, Inc.
+IBNKP, Integra Bank Corporation
+DMRC, Digimarc Corporation
+DIOD, Diodes Incorporated
+BEERF, Big Rock Brewery Ltd.
+OSUR, OraSure Technologies, Inc.
+NOGAF, Noga Electro-Mechanical Industries (1986) Ltd
+SNCI, Sonic Innovations, Inc.
+ARCAF, Arcadis NV
+UBSC, Union Bankshares, Ltd.
+SSOLW, SmartServ Online, Inc.
+ASFC, Astoria Financial Corporation
+PALM, Palm, Inc.
+TOPP, Topps Company, Inc. (The)
+VENXC, Venus Exploration, Inc.
+SNET, SourcingLink.net, Inc.
+AHLS, AHL Services, Inc.
+FRGB, First Regional Bancorp
+WCBO, West Coast Bancorp
+VITA, Orthovita, Inc.
+USVI, U.S. Vision, Inc.
+CAKE, Cheesecake Factory Incorporated (The)
+AVIIZ, AVI BioPharma, Inc.
+CDSW, Cedara Software Corp.
+ALGX, Allegiance Telecom, Inc.
+USOLW, USOL Holdings Inc.
+STSA, Sterling Financial Corporation
+ODSY, Odyssey Healthcare, Inc.
+ESCC, Evans & Sutherland Computer Corporation
+ONIS, ONI Systems Corp.
+IINT, Indus International, Inc.
+POVT, Provant, Inc.
+GCBC, Greene County Bancorp, Inc.
+SCNT, Scient, Inc.
+TLRK, Tularik Inc.
+REXI, Resource America, Inc.
+TARO, Taro Pharmaceutical Industries Ltd
+ETOP, Entropin, Inc.
+UVSLW, Universal Automotive Industries, Inc.
+PCTY, Party City Corporation
+LFIN, Local Financial Corporation
+PAGI, Pemco Aviation Group, Inc.
+PFFC, Peoples Financial Corporation
+PVTL, Pivotal Corporation
+RBAK, Redback Networks Inc.
+SENEB, Seneca Foods Corp.
+UTCIW, Uniroyal Technology Corporation
+ISTN, Interstate National Dealer Services, Inc.
+PRVL, Provell Inc.
+BSMD, BioSphere Medical, Inc.
+UNFI, United Natural Foods, Inc.
+FUJIY, Fuji Photo Film Co., Ltd.
+STEI, Stewart Enterprises, Inc.
+DIRI, Direct Insite Corporation
+MMTM, Momentum Business Applications, Inc.
+NHCI, National Home Centers, Inc.
+GTTLB, GT Group Telecom, Inc.
+ALLEP, Allegiant Bancorp, Inc.
+OCPI, Optical Communication Products, Inc.
+SPOT, PanAmSat Corporation
+NTBK, Net.B@nk, Inc.
+JADEW, LJ International, Inc.
+INVN, InVision Technologies, Inc.
+AFCI, Advanced Fibre Communications
+FTUS, Factory 2-U Stores, Inc.
+MOSY, Monolithic System Technology, Inc.
+ANDE, Andersons, Inc. (The)
+BANR, Banner Corporation
+SEBL, Siebel Systems, Inc.
+CYTO, Cytogen Corporation
+EBNX, eBenX, Inc.
+VITR, Vitria Technology, Inc.
+REXMY, Rexam, Plc
+FVCX, First Virtual Communications, Inc.
+LTFD, Littlefield Corporation
+NTAP, Network Appliance, Inc.
+PWHS, Paper Warehouse, Inc.
+MEMH, MEEMIC Holdings, Inc.
+MAXF, Maxcor Financial Group Inc.
+CORL, Corel Corporation
+CHFC, Chemical Financial Corporation
+NWLL, New Tel Limited
+PLSK, Pulaski Savings Bank
+MTGNY, Modern Times Group MTG AB
+DLEX, Datalex, plc
+BBUCW, Big Buck Brewery & Steakhouse Inc.
+GLBZ, Glen Burnie Bancorp
+SSRI, Silver Standard Resources, Inc
+JBHT, J.B. Hunt Transport Services, Inc.
+CCMP, Cabot Microelectronics Corporation
+BASI, Bioanalytical Systems, Inc.
+AESP, Advanced Electronic Support Products, Inc.
+ASPT, Aspect Communications Corporation
+DXCPO, Dynex Capital Inc.
+VITL, Vital Signs, Inc.
+SIGA, SIGA Technologies Inc.
+MEDM, MedAmicus, Inc.
+FLSH, M-Systems Flash Disk Pioneers Ltd.
+SECD, Second Bancorp, Incorporated
+LIHRY, Lihir Gold, Limited
+SHOO, Steven Madden, Ltd.
+AUDC, AudioCodes Ltd.
+BOBJ, Business Objects S.A.
+ALSC, Alliance Semiconductor Corporation
+IFLY, 800 Travel Systems, Inc.
+EQSB, Equitable Bank
+GZTC, Genzyme Transgenics Corporation
+GYMB, Gymboree Corporation (The)
+MAFB, MAF Bancorp, Inc.
+CHKR, Checkers Drive-In Restaurants, Inc.
+MBLAP, National Mercantile Bancorp
+BWINA, Baldwin & Lyons, Inc.
+PNFT, Penn Traffic Company (The)
+BABY, Natus Medical Incorporated
+EXCO, EXCO Resources, Inc.
+AANB, Abigail Adams National Bancorp, Inc.
+STIZ, Scientific Technologies, Incorporated
+TCCO, Technical Communications Corporation
+AROW, Arrow Financial Corporation
+KESI, Kentucky Electric Steel, Inc.
+ICOS, ICOS Corporation
+CCPCP, Capital Crossing Preferred Corporation
+CEFT, Concord EFS, Inc.
+OLDB, Old National Bancorp
+PRST, Presstek, Inc.
+BLMT, Belmont Bancorp.
+QUIX, Quixote Corporation
+FMSB, First Mutual Bancshares, Inc.
+CEBC, Centennial Bancorp
+CFFI, C&F Financial Corporation
+ABBKP, Abington Bancorp Inc.
+IMPT, IMPSAT Fiber Networks, Inc.
+GBTS, Gateway Financial Holdings, Inc.
+RSNT, Resonate, Inc.
+GSBC, Great Southern Bancorp, Inc.
+AFOP, Alliance Fiber Optic Products, Inc.
+DOLLP, Middleton Doll Company (The)
+ONFC, Oneida Financial Corp.
+BRID, Bridgford Foods Corporation
+TRBR, Trailer Bridge, Inc.
+GENZ, Genzyme Corporation
+FNBF, FNB Financial Services Corporation
+NUCO, NuCo2 Inc.
+CRVL, CorVel Corp.
+AVID, Avid Technology, Inc.
+TRSI, T/R Systems, Inc.
+LIBB, Liberty Bancorp, Incorporated
+GCAP, Global Capital Partners Inc
+PCBI, Peoples Community Bancorp, Inc.
+RAZF, Razorfish, Inc.
+WSTF, Westaff Inc.
+IMAN, iManage, Inc.
+IOMT, Isomet Corporation
+DTPI, DiamondCluster International, Inc.
+QRSI, QRS Corporation
+NAVG, Navigators Group, Inc. (The)
+PLMD, PolyMedica Corporation
+SIVB, Silicon Valley Bancshares
+CDCY, CompuDyne Corporation
+INGR, Intergraph Corporation
+SFCC, SFBC International, Inc.
+ABFS, Arkansas Best Corporation
+RTEC, Rudolph Technologies, Inc.
+PULB, Pulaski Financial Corporation
+RAGS, Rag Shops, Inc.
+IYCOY, Ito-Yokado Co., Ltd.
+SNRS, Sunrise Technologies International Inc.
+XETA, XETA Technologies, Inc.
+DAWKE, Daw Technologies, Inc.
+BPLS, Bank Plus Corporation
+OGSI, Oxford GlycoSciences plc
+ACLA, ACLARA BioSciences, Inc.
+DECA, Decoma International, Inc.
+CLCT, Collectors Universe, Inc.
+GNVC, GenVec, Inc.
+TBDI, TMBR/Sharp Drilling, Inc.
+LOGN, Logansport Financial Corp.
+RMHT, RMH Teleservices, Inc.
+VRSO, Verso Technologies, Inc.
+BNSO, Bonso Electronics International, Inc.
+FOOD, Pierre Foods, Inc.
+KRON, Kronos Incorporated
+MOBI, Mobius Management Systems, Inc
+CADA, CAM Commerce Solutions, Inc.
+POPEZ, Pope Resources
+CDIC, CardioDynamics International Corporation
+DRRA, Dura Automotive Systems, Inc.
+AUTN, Autonomy Corporation plc
+AMRB, American River Holdings
+CFIC, Community Financial Corp.
+PDEX, Pro-Dex, Inc.
+PUBB, Pacific Union Bank
+NTWK, NetSol International, Inc.
+HICKA, Hickok Incorporated
+CSTR, Coinstar, Inc.
+EXFO, EXFO Electro-Optical Engineering
+SIGI, Selective Insurance Group, Inc.
+HYDL, Hydril Company
+SNSTA, Sonesta International Hotels Corporation
+ECLP, Eclipsys Corporation
+POCI, Precision Optics Corporation, Inc.
+AMTD, Ameritrade Holding Corporation
+FHRX, First Horizon Pharmaceutical Corporation
+QXLC, QXL ricardo plc
+DLTDF, Delphi International Ltd.
+EMMSP, Emmis Communications Corporation
+LGVN, LogicVision, Inc.
+IMPXC, IMP, Inc.
+AELA, AEterna Laboratories Inc.
+STLY, Stanley Furniture Company, Inc.
+AREA, Area Bancshares Corporation
+EWBC, East West Bancorp, Inc.
+CTIB, CTI Industries Corporation
+TBCC, TBC Corporation
+PGTV, Pegasus Communications Corporation
+WHGB, WHG Bancshares Corporation
+LSPN, Lightspan, Inc.
+RLRN, Renaissance Learning, Inc.
+PNNW, Pennichuck Corporation
+WEYS, Weyco Group, Inc.
+CWBSP, Commonwealth Bankshares, Inc.
+HPAC, Hawker Pacific Aerospace
+OYOG, OYO Geospace Corporation
+LCUT, Lifetime Hoan Corporation
+UTMD, Utah Medical Products, Inc.
+LABL, Multi-Color Corporation
+CANI, Carreker Corporation
+PURW, Pure World, Inc.
+AGII, Argonaut Group, Inc.
+MGRC, McGrath RentCorp
+SPIL, Siliconware Precision Industries Company, Ltd.
+NETP, Net Perceptions, Inc.
+ADRX, Andrx Group
+BMRN, BioMarin Pharmaceutical Inc.
+GBND, General Binding Corporation
+IARC, Information Architects Corporation
+TBAC, Tandy Brands Accessories, Inc.
+LOGIY, Logitech International S.A.
+CSGP, CoStar Group, Inc.
+FIMG, Fischer Imaging Corporation
+CMLS, Cumulus Media Inc.
+NANO, Nanometrics Incorporated
+CHRT, Chartered Semiconductor Manufacturing Ltd.
+ATRX, Atrix Laboratories, Inc.
+LMLP, LML Payment Systems, Inc.
+MERX, Merix Corporation
+XLNX, Xilinx, Inc.
+TIGA, Tioga Technologies Ltd.
+SBSIO, Southside Bancshares, Inc.
+PSCD, Philip Services Corporation
+FBTC, First BancTrust Corporation
+PRCS, PRAECIS PHARMACEUTICALS INCORPORATED
+XLTC, Excel Technology, Inc.
+CTBK, City Bank
+HCFC, Home City Financial Corporation
+OPTS, Opta Food Ingredients, Inc.
+RTRSY, Reuters Group PLC
+ARTI, Artisan Components, Inc.
+BRKL, Brookline Bancorp, Inc.
+AXTI, AXT Inc
+TCNO, Tecnomatix Technologies Ltd.
+VICL, Vical Incorporated
+MIMS, MIM Corporation
+LBAI, Lakeland Bancorp, Inc.
+PCAR, PACCAR Inc
+HOLL, Hollywood Media Corp.
+VSAT, ViaSat, Inc.
+HAMP, Hampshire Group, Limited
+ASYS, Amtech Systems, Inc.
+TLGD, Tollgrade Communications, Inc.
+TLTOB, Tele2 AB
+RBCAA, Republic Bancorp, Inc.
+RESC, Roanoke Electric Steel Corporation
+ARKR, Ark Restaurants Corp.
+AMHC, American Healthways, Inc.
+CRWN, Crown Media Holdings, Inc.
+NEWRZ, New England Realty Associates Limited Partnershi
+SVNX, 724 Solutions
+TWED, Tumbleweed, Inc.
+ENSI, EnergySouth, Inc.
+HUMC, Hummingbird Ltd
+CMRO, COMARCO, Inc.
+OMNI, OMNI Energy Services Corp.
+BRLI, Bio-Reference Laboratories, Inc.
+EAGL, EGL, Inc.
+COKE, Coca-Cola Bottling Co. Consolidated
+SNWL, SonicWALL, Inc.
+EPRE, ePresence, Inc.
+PHONW, ChoiceTel Communications, Inc.
+KNDL, Kendle International Inc.
+KNBWY, Kirin Brewery Company, Limited
+FTCG, First Colonial Group, Inc.
+SIGM, Sigma Designs, Inc.
+CPMNY, Central Pacific Minerals N.L.
+AATK, American Access Technologies, Inc.
+MLIN, Micro Linear Corporation
+ENGSY, Energis Plc
+HGIC, Harleysville Group Inc.
+RAWA, Rent-A-Wreck of America, Inc.
+JAGI, Janus Hotels and Resorts, Inc.
+PTEC, Phoenix Technologies Ltd.
+FUNCP, First United Corporation
+PIXT, PixTech, Inc.
+LODG, ShoLodge, Inc.
+PCHM, PharmChem, Inc.
+KLAC, KLA-Tencor Corporation
+TUTS, Tut Systems, Inc.
+CONE, Carrier 1 International S.A.
+ELTE, ELITE Information Group Inc.
+KOSP, Kos Pharmaceuticals, Inc.
+OVBC, Ohio Valley Banc Corp.
+ROCLF, Royal Olympic Cruise Lines, Inc.
+ADSC, Atlantic Data Services, Inc.
+HPCCP, Huntington Preferred Capital, Inc.
+JCTCF, Jewett-Cameron Trading Company
+NASB, NASB Financial Inc.
+CRTQ, Cortech, Inc.
+KTCC, Key Tronic Corporation
+ACTN, Action Performance Companies, Inc.
+VRTS, VERITAS Software Corporation
+RSTR, rStar Corporation
+PLUS, ePlus Inc.
+STEC, SimpleTech Inc
+CITI, Canterbury Consulting Group Inc.
+MISI, Metro Information Services, Inc.
+OREX, Isolyser Company, Inc.
+DECT, Dectron International, Inc.
+MHMY, M. H. Meyerson & Co., Inc.
+GSLC, Guaranty Financial Corporation
+CMIN, Commonwealth Industries, Inc.
+NCEN, New Century Financial Corp.
+VBNJ, Vista Bancorp, Inc.
+CBCLP, Capitol Bancorp Ltd.
+GLYN, Galyan's Trading Company, Inc.
+BEAV, BE Aerospace, Inc.
+EVRC, Evercel, Inc.
+MTON, Metro One Telecommunications, Inc.
+INDBO, Independent Bank Corp.
+VLFG, Valley Forge Scientific Corp.
+PLCCE, Paulson Capital Corp.
+MSEX, Middlesex Water Company
+HTBK, Heritage Commerce Corp
+NCFC, North Country Financial Corporation
+EXGP, ExperTelligence, Inc.
+SNBCP, Sun Bancorp, Inc.
+ESLT, Elbit Systems Ltd.
+CHST, Creative Host Services, Inc.
+RLCO, Realco, Inc.
+DECK, Deckers Outdoor Corporation
+BLDP, Ballard Power Systems, Inc.
+HSVLY, Highveld Steel and Vanadium Corporation Limited
+ARDNA, Arden Group, Inc.
+WSTL, Westell Technologies, Inc.
+WDHD, Woodhead Industries, Inc.
+DTEC, Delano Technology Corporation
+SPCH, Sport Chalet, Inc.
+VICR, Vicor Corporation
+VIVO, Meridian Bioscience Inc.
+BJCT, Bioject Medical Technologies Inc.
+NBIX, Neurocrine Biosciences, Inc.
+VIXL, Vixel Corporation
+ALAB, Alabama National BanCorporation
+DGJL, DG Jewelry, Inc.
+TMNG, Management Network Group, Inc. (The)
+CLAR, Clarion Technologies, Inc.
+DCGN, deCODE genetics, Inc.
+ERTH, EarthShell Corporation
+RMCI, Right Management Consultants, Inc.
+PLCE, Children's Place Retail Stores, Inc. (The)
+WEFC, Wells Financial Corp.
+FCBC, First Community Bancshares, Inc.
+OPTC, Optelecom, Inc.
+TEKSP, TekInsight.Com Inc.
+MICT, Microcell Telecommunications Inc.
+HRVE, Harvey Electronics, Inc.
+HGSI, Human Genome Sciences, Inc.
+TTWO, Take-Two Interactive Software, Inc.
+TNOX, Tanox, Inc.
+TMAX, Toymax International, Inc.
+SWIR, Sierra Wireless, Inc.
+EQTY, Equity Oil Company
+MGRP, Morton Industrial Group, Inc.
+SQNM, Sequenom, Inc.
+PBCT, People's Bank
+GDPAP, Goodrich Petroleum Corporation
+AMCN, American Coin Merchandising, Inc.
+SCRI, SICOR Inc.
+GILTF, Gilat Satellite Networks Ltd.
+APSG, Applied Signal Technology, Inc.
+METHB, Methode Electronics, Inc.
+EXPE, Expedia, Inc.
+NWSBP, Northwest Bancorp, Inc.
+SNDS, Sands Regent (The)
+CNQR, Concur Technologies, Inc.
+ISCA, International Speedway Corporation
+TLAB, Tellabs, Inc.
+APGT, Apogee Technology, Inc.
+CAFEW, Host America Corporation
+LAKE, Lakeland Industries, Inc.
+SMTL, Semitool, Inc.
+FIBR, Sorrento Networks Corporation
+AMCT, AMRESCO Capital Trust
+TKSS, TechSys Inc.
+UTSI, UTStarcom, Inc.
+PIOS, Pioneer-Standard Electronics, Inc.
+GLDN, Golden Telecom, Inc.
+JILL, J. Jill Group Inc. (The)
+JPST, JPS Industries Inc.
+ADLR, Adolor Corporation
+ECOL, American Ecology Corporation
+DIIBF, Dorel Industries, Inc.
+AMPH, American Physicians Service Group, Inc.
+ZCOM, Impreso, Inc.
+IONN, Ion Networks Inc
+FNIS, Fidelity National Information Solutions, Inc.
+HDIIZ, Hypertension Diagnostics, Inc.
+AEIS, Advanced Energy Industries, Inc.
+MFUN, Morgan FunShares, Inc.
+GBCB, GBC Bancorp
+EGLS, Electroglas, Inc.
+SISI, S I Technologies Inc.
+CSPLF, Canada Southern Petroleum Ltd.
+CMSV, Community Savings Bankshares, Inc.
+LFED, Leeds Federal Bankshares, Inc.
+AAPL, Apple Computer, Inc.
+ARLP, Alliance Resource Partners, L.P.
+CATS, Catalyst Semiconductor, Inc.
+CLWTW, Euro Tech Holdings Company Limited
+FWHT, Findwhat.com
+UOPX, Apollo Group, Inc.
+ASCL, Ascential Software Corporation
+KIDS, Childrens Comprehensive Services Inc.
+DCEL, Dobson Communications Corporation
+PRENP, Price Legacy Corporation
+HTLD, Heartland Express, Inc.
+WAVEZ, NuWave Technologies, Inc.
+MKTG, Marketing Services Group, Inc.
+CLPT, CellPoint, Inc.
+VINA, VINA Technologies, Inc.
+HOMZ, Home Products International, Inc.
+TSRI, TSR, Inc.
+ALDN, Aladdin Knowledge Systems Limited
+MDTH, MedCath Corporation
+PLUG, Plug Power, Inc.
+QLTI, QLT Inc.
+DDRX, Diedrich Coffee
+GBCOB, Greif Bros. Corporation
+ELXS, ELXSI Corporation
+INVX, Innovex, Inc.
+ENZN, Enzon, Inc.
+CCEQ, Ceyoniq AG ADS
+RYAAY, Ryanair Holdings plc
+CTBIP, Community Trust Bancorp, Inc.
+LATD, Latitude Communications, Inc.
+ONYX, Onyx Acceptance Corporation
+CRAN, Crown Andersen Inc.
+BRKC, Bracknell Corporation
+PRSP, Prosperity Bancshares, Inc.
+PMED, Paradigm Medical Industries, Inc.
+OTCM, Royce Micro-Cap Trust, Inc.
+XICO, Xicor, Inc.
+BFAM, Bright Horizons Family Solutions Inc.
+FBSS, Fauquier Bankshares, Inc.
+ULTI, Ultimate Software Group, Inc. (The)
+BEOS, Be Incorporated
+PBKSP, Provident Bankshares Corporation
+CSCQ, Correctional Services Corporation
+NSDB, NSD Bancorp, Inc.
+ATGCE, ATG Inc.
+JMAR, JMAR Technologies, Inc.
+OSTE, Osteotech, Inc.
+ENTG, Entegris, Inc.
+ISTA, Ista Pharmaceuticals, Inc.
+EXAS, EXACT Sciences Corporation
+MSDXO, Mason-Dixon Bancshares, Inc.
+HFFC, HF Financial Corp.
+SUNW, Sun Microsystems, Inc.
+RDGE, Reading Entertainment Inc.
+CXSN, Counsel Corporation
+CITZ, CFS Bancorp, Inc.
+ASHW, Ashworth, Inc.
+DORLO, Doral Financial Corporation
+TESI, Tangram Enterprise Solutions, Inc.
+NRGN, Neurogen Corporation
+PUBO, Pubco Corporation
+OPTI, OPTi Inc.
+HANA, Hanaro Telecom, Inc.
+IGTE, iGate Capital Corporation
+GEOI, GeoResources, Inc.
+XOSY, iXOS Software AG
+PDII, PDI, Inc.
+NBSC, New Brunswick Scientific Co., Inc.
+MVSN, Macrovision Corporation
+DCOM, Dime Community Bancshares, Inc.
+VLCCF, Knightsbridge Tankers, Limited
+USPI, United Surgical Partners International, Inc.
+PFSL, Pocahontas Bancorp, Inc.
+MIPS, MIPS Technologies, Inc.
+HFBA, HFB Financial Corporation
+PLAB, Photronics, Inc.
+RURL, Rural/Metro Corporation
+HANS, Hansen Natural Corporation
+EVOL, Evolving Systems, Inc.
+WJCI, WJ Communications, Inc.
+CAMZ, Caminus Corporation
+DCNT, Docent, Inc.
+PRSPP, Prosperity Bancshares, Inc.
+MDWV, Medwave, Inc.
+SASOY, Sasol Ltd.
+FMDAY, Futuremedia Public Limited Company
+IRIX, IRIDEX Corporation
+ESFT, eSoft, Inc.
+WMAR, West Marine, Inc.
+VMDC, VantageMed Corporation
+TWTI, Third Wave Technologies, Inc.
+ZIXI, ZixIt Corporation
+ASMI, ASM International N.V.
+POWI, Power Integrations, Inc.
+PRTW, Printware, Inc.
+ALKS, Alkermes, Inc.
+PTNR, Partner Communications Company Ltd.
+CYAN, Cyanotech Corporation
+SMNS, Seminis, Inc.
+WITS, Witness Systems, Inc.
+BLPG, Boron, LePore & Associates, Inc.
+VAIL, Vail Banks, Inc.
+LNTE, Lante Corporation
+NCPM, NCO Portfolio Management Inc
+CCRT, CompuCredit Corporation
+MDCVU, MedicalCV, Inc.
+VLNC, Valence Technology, Inc.
+MTDW, Merrill Lynch & Co., Inc.
+PVTB, PrivateBancorp, Inc.
+INKT, Inktomi Corporation
+SGMA, SigmaTron International, Inc.
+DGLV, Digital Lava Inc.
+GTPS, Great American Bancorp, Inc.
+MSDXP, Mason-Dixon Bancshares, Inc.
+UNSRA, Uniservice Corporation
+BTRN, BioTransplant, Inc.
+NUTR, Nutraceutical International Corporation
+ERIE, Erie Indemnity Company
+URGI, United Retail Group, Inc.
+EDAP, EDAP TMS S.A.
+CLAS, Classic Bancshares, Inc.
+GTGO, GETGO, Inc.
+SPOR, Sport-Haley, Inc.
+SBIB, Sterling Bancshares, Inc.
+MOYC, Moyco Technologies, Inc.
+DSTM, Datastream Systems, Inc.
+FFEX, Frozen Food Express Industries, Inc.
+BESI, BE Semiconductor Industries NV
+ATTU, Attunity Ltd.
+WABC, Westamerica Bancorporation
+CASA, Mexican Restaurants, Inc.
+CSAR, Caraustar Industries, Inc.
+AVNX, Avanex Corporation
+ENVG, Envirogen, Inc.
+MOND, Robert Mondavi Corporation (The)
+GSPT, Global Sports, Inc.
+AVCT, Avocent Corporation
+RSCR, Res-Care, Inc.
+VISG, Viisage Technology, Inc.
+CYBR, CyberCare Inc.
+TRMS, Trimeris, Inc.
+ANNB, Annapolis Bancorp Inc.
+GRIF, Griffin Land & Nurseries, Inc.
+CYMI, Cymer, Inc.
+SFNCA, Simmons First National Corporation
+BCOR, Biacore International AB
+AMLJ, AML Communications, Inc.
+INMX, InforMax, Inc.
+ACRT, Actrade Financial Technologies, Ltd.
+QUIP, Quipp, Inc.
+VTRAO, Zions Bancorporation
+GNLB, Genelabs Technologies, Inc.
+SALD, Fresh Choice, Inc.
+TSBK, Timberland Bancorp, Inc.
+MDSN, Madison Gas and Electric Company
+CAMH, Cambridge Heart, Inc.
+FMER, FirstMerit Corporation
+WATFZ, Waterford Wedgwood PLC
+AMPD, Amplidyne, Inc.
+CLTL, CompleTel Europe N.V.
+REAL, Reliability Incorporated
+ICUI, ICU Medical, Inc.
+ROIL, Remington Oil and Gas Corporation
+ABCW, Anchor BanCorp Wisconsin Inc.
+GISH, Gish Biomedical, Inc.
+IASIA, Asiacontent.com, Ltd
+CRYP, Cryptologic, Inc.
+WEBB, WEBB Interactive Services Inc.
+AAAB, Admiralty Bancorp, Inc.
+ENMC, Encore Medical Corporation
+CRED, Credo Petroleum Corporation
+MTROB, Metro International SA
+UFCS, United Fire & Casualty Company
+MLNKW, Multi-Link Telecommunications, Inc.
+NCEB, North Coast Energy, Inc.
+FUEL, Streicher Mobile Fueling, Inc.
+ILXI, Interlogix Inc
+VSEA, Varian Semiconductor Equipment Associates, Inc.
+BLTI, BioLase Technology, Inc.
+TQNT, TriQuint Semiconductor, Inc.
+QLNX, Quintalinux Limited
+ALBY, Community Capital Bancshares, Inc.
+IMAT, Imatron Inc.
+AKSY, Aksys, Ltd.
+LANC, Lancaster Colony Corporation
+AMSC, American Superconductor Corporation
+ELRC, Electro Rent Corporation
+ALVR, Alvarion Ltd.
+ENER, Energy Conversion Devices, Inc.
+MLAN, Midland Company (The)
+GZBX, Genzyme Corporation
+STMP, Stamps.com Inc.
+LARL, Laurel Capital Group, Inc.
+FRTG, Fortress Group, Inc. (The)
+DIGM, Control Chief Holdings, Inc.
+MOBE, Mobility Electronics, Inc.
+TCGI, Classica Group Incorporated (The)
+NPSI, North Pittsburgh Systems, Inc.
+RADA, Radica Games Limited
+PPCCP, People's Preferred Capital Corporation
+BPUR, Biopure Corporation
+HMLK, Hemlock Federal Financial Corporation
+EGAN, eGain Communications Corporation
+PKTR, Packeteer, Inc.
+EMBX, Embrex, Inc.
+RGLD, Royal Gold, Inc.
+FFDF, FFD Financial Corporation
+ANII, Advanced Nutraceuticals, Inc.
+OCENY, Oce NV
+CARE, CareScience, Inc.
+FFSX, First Federal Bankshares, Inc.
+TSCC, Technology Solutions Company
+CRYS, Crystal Systems Solutions, Ltd.
+AMWD, American Woodmark Corporation
+CBTE, Commonwealth Biotechnologies, Inc.
+TRGL, Toreador Resources Corporation
+TECD, Tech Data Corporation
+PBHC, Pathfinder Bancorp, Inc.
+ONPR, One Price Clothing Stores, Inc.
+SIFY, Satyam Infoway Limited
+ATIS, Advanced Tissue Sciences, Inc.
+LUMM, Lumenon Innovative Lightwave Technology, Inc.
+RITT, RIT Technologies Ltd.
+RMTI, Rockwell Medical Technologies, Inc.
+PSIT, PSi Technologies Holdings, Inc.
+BNHNA, Benihana Inc.
+MIKE, Michaels Stores, Inc.
+SBSI, Southside Bancshares, Inc.
+RMBS, Rambus, Inc.
+IIJI, Internet Initiative Japan, Inc.
+OIIM, 02Micro International Limited
+AVCS, American Vantage Companies
+PHTN, Photon Dynamics, Inc.
+POCC, Penn Octane Corporation
+SIEB, Siebert Financial Corp.
+CBIV, Community Bankshares Incorporated
+DNFCP, D&N Financial Corporation
+KANA, Kana Software, Inc.
+ALOY, Alloy, Inc.
+PSTI, Per-Se Technologies, Inc.
+ASTE, Astec Industries, Inc.
+MANH, Manhattan Associates, Inc.
+TRLY, Terra Networks, S.A.
+NWIR, National Wireless Holdings Inc.
+CHRW, C.H. Robinson Worldwide, Inc.
+IMCL, ImClone Systems Incorporated
+ONCO, On Command Corporation
+ICII, Imperial Credit Industries, Inc.
+GMST, Gemstar-TV Guide International Inc.
+IAIA, Intier Automotive  Inc.
+DTAS, Digitas, Inc.
+INMD, IntegraMed America, Inc.
+WSCI, WSI Industries Inc.
+HRBT, Hudson River Bancorp, Inc.
+TGCIP, TGC Industries, Inc.
+STAT, i-STAT Corporation
+SFSW, State Financial Services Corporation
+BKMU, Bank Mutual Corporation
+PVSW, Pervasive Software Inc.
+SSPI, Spectrum Signal Processing Inc.
+FTHR, Featherlite, Inc.
+SIMG, Silicon Image, Inc.
+CLSR, CLOSURE Medical Corporation
+FMBN, F & M Bancorp
+SKYF, Sky Financial Group, Inc.
+PGEO, Paradigm Geophysical Ltd.
+AFAM, Almost Family Inc
+STEL, Stellent, Inc.
+SCNYA, Saucony, Inc.
+CHPC, ChipPAC, Inc.
+ELANW, Elan Corporation, plc
+INOC, Innotrac Corporation
+MBVT, Merchants Bancshares, Inc.
+DELL, Dell Computer Corporation
+JUNO, Juno Lighting, Inc.
+DSCO, Discovery Laboratories Inc.
+THRD, TF Financial Corporation
+SALM, Salem Communications Corporation
+MCLS, MediChem Life Sciences, Inc.
+PROG, Programmer's Paradise, Inc.
+SLHN, Stearns & Lehman, Inc.
+STCO, Signal Technology Corporation
+NMHC, National Medical Health Card Systems, Inc.
+CHIR, Chiron Corporation
+DMCX, DataMirror Corporation
+ULTE, Ultimate Electronics, Inc.
+TNSI, Triton Network Systems, Inc.
+NTAIW, Nam Tai Electronics, Inc.
+PCCI, Pacific Crest Capital, Inc.
+GORX, Go2Pharmacy, Inc.
+EDSN, Edison Schools, Inc.
+DDDP, 3-Dimensional Pharmaceuticals, Inc.
+CPWR, Compuware Corporation
+AMFC, AMB Financial Corp.
+NIAG, Niagara Corporation
+VATA, Versata, Inc.
+VIGN, Vignette Corporation
+ASTSF, ASE Test, Limited
+MTMC, Micros to Mainframes, Inc.
+QMDC, QuadraMed Corporation
+MERB, Merrill Merchants Bancshares, Inc.
+NATI, National Instruments Corporation
+GTNR, Gentner Communications Corp.
+LDSH, Ladish Co., Inc.
+NATHW, Nathan's Famous, Inc.
+MTEX, Mannatech, Incorporated
+ISSX, Internet Security Systems Inc
+PATK, Patrick Industries, Inc.
+OCHS, Orchestream Holdings Plc
+ARRY, Array BioPharma Inc.
+CNBC, Center Bancorp, Inc.
+FNDT, Fundtech Ltd.
+TEKS, TekInsight.Com Inc.
+CVTI, Covenant Transport, Inc.
+GLBK, GLB Bancorp, Inc.
+PTRO, Petrominerals Corporation
+RSTO, Restoration Hardware, Inc.
+CHMP, Champion Industries, Inc.
+WTFCO, Wintrust Financial Corporation
+TSEM, Tower Semiconductor Ltd.
+METHA, Methode Electronics, Inc.
+APTI, Advanced Power Technology, Inc.
+TRCMA, Transcom WorldWide S.A.
+ETRX, Essential Therapeutics, Inc.
+HHLF, Hurricane Hydrocarbons Ltd.
+RITA, RITA Medical Systems, Inc.
+INCU, Planet Zanett Inc.
+BBBY, Bed Bath & Beyond Inc.
+FFBZ, First Federal Bancorp, Inc.
+DECTW, Dectron International, Inc.
+CHGO, Chicago Pizza & Brewery, Inc.
+VSRC, Vsource, Inc.
+AFCO, Applied Films Corporation
+VCMP, VCampus Corporation
+SNSA, Stolt-Nielsen S.A.
+FULL, H. B. Fuller Company
+EPMD, EP MedSystems, Inc.
+WHES, W-H Energy services, Inc.
+ALLP, Alliance Pharmaceutical Corp.
+CLST, Cellstar Corporation
+SONO, SonoSite, Inc.
+ZMBA, Zamba Corporation
+ATYT, ATI Technologies Inc.
+AMTR, Amtran, Inc.
+RFIL, RF Industries, Inc.
+ESLR, Evergreen Solar, Inc.
+USAP, Universal Stainless & Alloy Products, Inc.
+HIBB, Hibbett Sporting Goods, Inc.
+TMBS, Timberline Software Corporation
+SBUX, Starbucks Corporation
+IWAV, InterWAVE Communications International, Ltd.
+DGIN, Digital Insight Corporation
+MGIC, Magic Software Enterprises Ltd
+UNBO, UNB Corp.
+RMTIW, Rockwell Medical Technologies, Inc.
+SPWX, SpeechWorks International, Inc.
+MCTI, Micro Component Technology, Inc.
+ORCH, Orchid Biosciences, Inc.
+GLYT, Genlyte Group Incorporated (The)
+FDEF, First Defiance Financial Corp.
+GMAI, Greg Manning Auctions, Inc.
+GLAR, Glas-Aire Industries Group, Ltd.
+PEGA, Pegasystems Inc.
+SPNS, Sapiens International Corporation N.V.
+UNTY, Unity Bancorp, Inc.
+MFDE, DECS Trust VI
+FMTI, Forbes Medi-Tech Inc.
+RIGL, Rigel Pharmaceuticals, Inc.
+SHBK, Shore Financial Corporation
+DANKY, Danka Business Systems PLC
+MBFI, MB Financial Inc.
+ENCD, ENCAD, Inc.
+FBNC, First Bancorp
+ITWO, i2 Technologies, Inc.
+NOVT, Novoste Corporation
+KRSL, Kreisler Manufacturing Corporation
+HAST, Hastings Entertainment, Inc.
+PPCO, Penwest Pharmaceuticals Co.
+ORFR, ORBIT/FR, Inc.
+FCFCO, FirstCity Financial Corporation
+SYKE, Sykes Enterprises, Incorporated
+VITX, V. I. Technologies, Inc.
+BULL, Bull Run Corporation
+UACA, Union Acceptance Corporation
+FLOW, Flow International Corporation
+DGII, Digi International Inc.
+SFFB, Southern Financial Bancorp, Inc.
+ZTEL, Z-Tel Technologies, Inc.
+BCSB, BCSB Bankcorp, Inc.
+PDLPY, Pacific Dunlop Limited
+DVXE, DevX Energy, Inc.
+IRIC, Information Resources, Inc.
+MBWM, Mercantile Bank Corporation
+GOJO, GraphOn Corporation
+AMSY, American Management Systems, Incorporated
+LEON, LION bioscience Aktiengesellschaft
+CSKKY, CSK Corporation
+NSPR, INSpire Insurance Solutions, Inc.
+CFFC, Community Financial Corp.
+FSBIP, Fidelity Bancorp, Inc.
+TKLC, Tekelec
+IDSA, Industrial Services of America, Inc.
+VELCF, Velcro Industries N.V.
+GCOM, Globecomm Systems Inc.
+INTZ, Intrusion Inc
+CHKP, Check Point Software Technologies Ltd.
+KAMNA, Kaman Corporation
+ROFO, Rockford Corporation
+FNFG, First Niagara Financial Group Inc.
+USPH, U.S. Physical Therapy, Inc.
+MCICP, WorldCom, Inc.
+UNTD, United Online, Inc.
+EIMO, Eimo Oyj
+CYCL, Centennial Communications Corporation
+NVDM, Novadigm, Inc.
+FSII, FSI International, Inc.
+MXBIF, MFC Bancorp Ltd.
+IDXC, IDX Systems Corporation
+ATPG, ATP Oil & Gas Corporation
+ROIA, Radio One, Inc.
+LCVRZ, Elan Corporation, plc
+ANLT, Analytical Surveys, Inc.
+AVIIW, AVI BioPharma, Inc.
+CORI, Corillian Corporation
+MCRI, Monarch Casino & Resort, Inc.
+NOBH, Nobility Homes, Inc.
+HCBC, High Country Bancorp, Inc.
+CDTS, Conductus, Inc.
+APMC, Applied Microsystems Corporation
+FLCG, Frontline Capital Group
+BUTL, Butler International, Inc.
+GMGC, General Magic, Inc.
+INSW, InsWeb Corporation
+JXSB, Jacksonville Savings Bank
+FMXI, Foamex International, Inc.
+MABA, American Biogenetic Sciences, Inc.
+SURW, SureWest Communications
+SECDP, Second Bancorp, Incorporated
+SKIL, SkillSoft Corporation
+SSFT, ScanSoft, Inc.
+ROHN, ROHN Industries Inc.
+ROCK, Gibraltar Steel Corporation
+EMEX, Emex Corporation
+LTXX, LTX Corporation
+APTM, Aptimus Inc
+HCSG, Healthcare Services Group, Inc.
+FBCE, Fibercore Inc
+WKGP, Workgroup Technology Corporation
+CDMS, Cadmus Communications Corporation
+TMCS, Ticketmaster
+PFED, Park Bancorp, Inc.
+ESCA, Escalade, Incorporated
+RANGY, Randgold & Exploration Company, Limited
+DFBS, DutchFork Bancshares, Inc.
+CCCG, CCC Information Services Group  Inc.
+KENT, Kent Financial Services, Inc.
+TBUS, Digital Recorders, Inc.
+NVNW, Novo Networks Inc
+INLD, Interland, Inc.
+MCKC, MCK Communications, Inc.
+PFSBP, PennFed Financial Services, Inc.
+SVBF, SVB Financial Services, Inc.
+INTV, InterVoice-Brite, Inc.
+KTECP, Key Technology, Inc.
+LECO, Lincoln Electric Holdings, Inc.
+DHTI, Dynamic Healthcare Technologies Inc.
+ESPR, Esperion Therapeutics, Inc.
+EMMS, Emmis Communications Corporation
+LGTY, Logility, Inc.
+TRID, Trident Microsystems, Inc.
+FNIN, Financial Industries Corporation
+COCO, Corinthian Colleges, Inc.
+CWEI, Clayton Williams Energy, Inc.
+SNTKY, Senetek PLC
+PMSI, Prime Medical Services, Inc.
+CRFH, Crayfish Co., Ltd.
+GLIA, Gliatech Inc.
+CALGZ, California Federal Bank, FSB
+BOSA, Boston Acoustics, Inc.
+GLAD, Gladstone Capital Corporation
+SIDE, Associated Materials Corporation
+RMTR, Ramtron International Corporation
+PHEL, Petroleum Helicopters, Inc.
+ADTK, Adept Technology, Inc.
+NFLD, Northfield Laboratories, Inc.
+IUBCP, Indiana United Bancorp
+EWEBZ, Euroweb International Corp.
+EASY, EasyLink Services Corporation
+ASRVP, AmeriServ Financial Inc.
+CSLI, Cotton States Life Insurance Company
+KILN, Kirlin Holding Corporation
+WWVY, Warwick Valley Telephone Company
+INTD, InteliData Technologies Corporation
+SKFR, Skf Ab
+MTIX, Micro Therapeutics, Inc.
+SHOE, Shoe Pavilion, Inc
+MPWRP, Mpower Holding Corporation
+ISRG, Intuitive Surgical, Inc.
+UEIC, Universal Electronics Inc.
+AVII, AVI BioPharma, Inc.
+BLLS, Billserv, Inc.
+NNBR, NN, Inc.
+AGAM, Acres Gaming Incorporated
+HMGNW, Hemagen Diagnostics, Inc.
+DEBS, Deb Shops, Inc.
+AULT, Ault Incorporated
+RELM, RELM Wireless Corporation
+NUHC, Nu Horizons Electronics Corp.
+TBNC, Banc Corporation (The)
+FARM, Farmer Brothers Company
+INKP, Inkine Pharmaceutical Company Inc.
+KVIKA, Industriforvaltnings AB Kinnevik
+FRGO, Fargo Electronics, Inc.
+PEDE, Great Pee Dee Bancorp, Inc.
+AMCE, American Claims Evaluation, Inc.
+MDSI, MDSI Mobile Data Solutions, Inc.
+SCSS, Select Comfort Corporation
+USEY, U.S. Energy Systems, Inc.
+MNTR, Mentor Corporation
+PFCB, P.F.Chang's China Bistro, Inc.
+HYSL, Hyperion Solutions Corporation
+PACW, Pac-West Telecomm, Inc.
+EQUI, Equivest Finance, Inc.
+BPRX, Bradley Pharmaceuticals, Inc.
+SPRI, Sports Resorts International, Inc.
+CPST, Capstone Turbine Corporation
+NETM, NetManage, Inc.
+BTUI, BTU International, Inc.
+GLGS, GlycoGenesys Inc.
+TMOSE, TEAM Mucho Inc.
+VMTI, Vista Medical Technologies, Inc.
+VBAC, Virbac Corporation
+BPOP, Popular, Inc.
+CBST, Cubist Pharmaceuticals, Inc.
+METB, MetroBanCorp
+PCCIP, Pacific Crest Capital, Inc.
+CPCL, Clare Inc
+BRIO, Brio Software, Inc.
+WOOF, VCA Antech, Inc.
+PHSY, PacifiCare Health Systems, Inc.
+FCTR, First Charter Corporation
+BCICF, Bell Canada International, Inc.
+PFGI, Provident Financial Group, Inc.
+XING, Qiao Xing Universal Telephone, Inc.
+ADLT, Advanced Lighting Technologies Inc.
+QLNXW, Quintalinux Limited
+ANAT, American National Insurance Company
+CYBA, Andrx Group
+SEGU, Segue Software, Inc.
+GNRL, General Bearing Corporation
+BMED, BEI Medical Systems Company, Inc.
+CYSV, Cysive, Inc.
+EASI, Engineered Support Systems, Inc.
+OHMCG, OHM Corporation
+MSON, MISONIX, Inc.
+PHHM, Palm Harbor Homes, Inc.
+MSEL, Merisel, Inc.
+CNBKP, Century BanCorp, Inc.
+ACAI, Atlantic Coast Airlines Holdings, Inc.
+CPCI, Ciprico Inc.
+HPOW, H Power Corporation
+OMEF, Omega Financial Corporation
+CATA, Capitol Transamerica Corporation
+BORL, Borland Software Corporation
+PMFG, Peerless Manufacturing Company
+NEOL, NeoPharm, Inc.
+MRNT, MERANT plc
+CROS, Crossmann Communities, Inc.
+RARE, RARE Hospitality International  Inc.
+GRLL, Roadhouse Grill, Inc.
+CNVR, Convera Corporation
+GSLA, GS Financial Corp.
+OPLK, Oplink Communications, Inc.
+CSLMF, Consolidated Mercantile Corp.
+CBBO, Columbia  Bancorp
+ORCT, Orckit Communications, Limited
+GRIN, Grand Toys International, Inc.
+FCZA, First Citizens Banc Corp.
+PAAS, Pan American Silver Corp.
+VERS, Versicor, Inc.
+PCSA, AirGate PCS, Inc.
+INHO, Independence Holding Company
+NADX, National Dentex Corporation
+STLW, Stratos Lightwave, Inc.
+CSII, Communications Systems, Inc.
+CSTL, Castelle
+MTWV, Metawave Communications Corporation
+CDWC, CDW Computer Centers, Inc.
+ACCL, Accelerated Networks, Inc.
+ADVNB, ADVANTA Corp.
+WFII, Wireless Facilities, Inc.
+EXLT, Exult, Inc.
+CTSC, Cellular Technical Services Company, Inc.
+RIMG, Rimage Corporation
+LSCP, Laserscope
+CFNL, Cardinal Financial Corporation
+VOCL, VocalTec Communications Ltd.
+ANCC, AirNet Communications Corporation
+ELMS, Elmer's Restaurants, Inc.
+UTEK, Ultratech Stepper, Inc.
+STTX, Steel Technologies Inc.
+BBIOY, British Biotech plc
+SGMO, Sangamo BioSciences, Inc.
+MRCY, Mercury Computer Systems
+ADBE, Adobe Systems Incorporated
+SILI, Siliconix Incorporated
+BRNC, Braun Consulting, Inc.
+AIRN, Airspan Networks Inc.
+EATS, Eateries, Inc.
+TALR, Talarian Corporation
+MBHI, Midwest Banc Holdings, Inc.
+EXAR, Exar Corporation
+ATGI, Alpha Technologies Group, Inc.
+NTIQ, NetIQ Corporation
+LEAP, Leapnet, Inc.
+IAAC, International Assets Holding Corporation
+FFKY, First Federal Financial Corporation of Kentucky
+KQIP, KPNQwest N.V.
+CDIR, Concepts Direct, Inc.
+HBIO, Harvard Bioscience, Inc.
+NOLD, Noland Company
+GFED, Guaranty Federal Bancshares, Inc.
+DSPG, DSP Group, Inc.
+NATH, Nathan's Famous, Inc.
+FBNKN, First Banks, Inc.
+DPTR, Delta Petroleum Corporation
+MKTAY, Makita Corp.
+UAXS, Universal Access Global Holdings Inc.
+THTL, Thistle Group Holdings, Co.
+CTRA, Centra Software, Inc.
+CULS, Cost-U-Less, Inc.
+HCRI, Healthcare Recoveries, Inc.
+OSIS, OSI Systems, Inc.
+FBNKM, First Banks, Inc.
+OCCF, Optical Cable Corporation
+FULT, Fulton Financial Corporation
+MONI, Marconi plc
+GLFD, Guilford Pharmaceuticals Inc.
+PLFE, Presidential Life Corporation
+AMTA, Amistar Corporation
+MTSN, Mattson Technology, Inc.
+HMNF, HMN Financial, Inc.
+SMANP, Standard Management Corporation
+LSBX, LSB Corporation
+CINFG, Cincinnati Financial Corporation
+CWST, Casella Waste Systems, Inc.
+FKFS, First Keystone Financial, Inc.
+DSLN, DSL.net, Inc.
+TIMBZ, U.S. Timberlands Company, L.P.
+IMAX, Imax Corporation
+CHLN, Chalone Wine Group, Ltd. (The)
+KAMNG, Kaman Corporation
+AHPI, Allied Healthcare Products, Inc.
+JUNI, Juniper Group, Inc.
+BELM, Bell Microproducts Inc.
+EZPW, EZCORP, Inc.
+NTWO, N2H2, Inc.
+CDIS, Cal Dive International, Inc.
+MACR, Macromedia, Inc.
+NOBL, Noble International, Ltd.
+ADYN, AVIDYN Inc.
+CNXT, Conexant Systems, Inc.
+OAOT, OAO Technology Solutions, Inc.
+CYPB, Cypress Bioscience Inc.
+SBLK, Seabulk International, Inc.
+SSPX, SSP Solutions, Inc.
+ICPT, InterCept Group, Inc. (The)
+MEDW, MEDIWARE Information Systems, Inc.
+IFOX, Infocrossing, Inc.
+MLTC, Multilink Technology Corporation
+QEKG, Q-Med, Inc.
+MLNK, Multi-Link Telecommunications, Inc.
+CWON, Choice One Communications Inc.
+MTEC, Meridian Medical Technologies Inc.
+WINK, Wink Communications
+FCIN, Flour City International, Inc.
+FBST, Fiberstars, Inc.
+OUSA, Omni U.S.A., Inc.
+SVIN, Scheid Vineyards, Inc.
+KOOL, THERMOGENESIS Corp.
+COVB, CoVest Bancshares, Inc.
+FCFN, First Community Financial Corporation
+LFCO, Life Financial Corporation
+MROI, MRO Software, Inc.
+HSAC, High Speed Access Corp.
+RYAN, Ryan's Family Steak Houses, Inc.
+NSSI, Network-1 Security Solutions, Inc.
+VIRL, Virage Logic Corporation
+AFREZ, America First Real Estate Investment Partners, L
+NOIZ, Micronetics Wireless, Inc.
+UTIW, UTi Worldwide Inc.
+CSON, Cohesion Technologies, Inc.
+ELANZ, Elan Corporation, plc
+MEOH, Methanex Corporation
+JUDG, Judge Group, Inc. (The)
+VCST, ViewCast.com Inc
+AWLD, Activeworlds Corporation
+FELE, Franklin Electric Co., Inc.
+AESPW, Advanced Electronic Support Products, Inc.
+DECC, D&E Communications, Inc.
+OKSB, Southwest Bancorp, Inc.
+EFII, Electronics for Imaging, Inc.
+HAUP, Hauppauge Digital, Inc.
+GSTRF, Globalstar Telecommunications, Limited
+OPAY, Official Payments Corporation
+DACG, DA Consulting Group, Inc.
+NTRT, NetRatings, Inc.
+LCOR, Landacorp, Inc.
+PRTS, PartsBase, Inc.
+NRGY, Inergy, L.P.
+PPTV, PPT Vision Inc.
+DKEY, Datakey, Inc.
+MTSC, MTS Systems Corporation
+KROL, Kroll Inc.
+TIWI, Telesystem International Wireless Inc.
+GTRC, Guitar Center, Inc.
+HARB, Harbor Florida Bancshares Inc
+EMCI, EMC Insurance Group, Inc.
+AMBC, American Bancorporation
+ICGE, Internet Capital Group, Inc.
+VERT, VerticalNet, Inc.
+IPRT, iPrint Technologies inc.
+CVSN, ChromaVision Medical Systems, Inc.
+DITC, Ditech Communications Corporation
+NTOP, Net2Phone
+HTCO, Hickory Tech Corporation
+APPA, AP Pharma, Inc.
+QADI, QAD Inc.
+AVEA, Avenue A, Inc.
+NABI, Nabi
+SURE, SureBeam Corporation
+WACLY, Wacoal Corp.
+FACT, First Albany Companies, Inc.
+PVAT, Paravant Inc.
+INRG, Inrange Technologies Corporation
+DMCO, Detwiler, Mitchell & Co.
+MROE, Monroe Bancorp
+IFLYW, 800 Travel Systems, Inc.
+PHELK, Petroleum Helicopters, Inc.
+BFRE, Be Free, Inc.
+NNCI, NetNation Communications Inc
+INSG, Insignia Solutions, plc
+REPT, Reptron Electronics, Inc.
+OSCA, OSCA, Inc.
+MRVL, Marvell Technology Group, Ltd.
+BKBK, Britton & Koontz Capital Corporation
+ASCA, Ameristar Casinos, Inc.
+SHBI, Shore Bancshares Inc
+MTRX, Matrix Service Company
+FMBI, First Midwest Bancorp, Inc.
+HOEN, Hoenig Group Inc.
+APCC, American Power Conversion Corporation
+VMSI, Ventana Medical Systems, Inc.
+RANKY, Rank Group Plc. (The)
+SNTO, Sento Corporation
+ALTR, Altera Corporation
+BINX, Bionx Implants, Inc.
+ACTR, Acterna Corp.
+MYST, Mystic Financial, Inc.
+LSBI, LSB Financial Corp.
+ISON, Isonics Corporation
+ESITZ, Express Scripts Automatic Exchange Security Trus
+CLZR, Candela Corporation
+ICAB, i-CABLE Communications Limited
+CFFN, Capitol Federal Financial
+NOVB, North Valley Bancorp
+MVIS, Microvision, Inc.
+HBHCP, Hancock Holding Company
+EVLV, Evolve Software, Inc.
+IBHVF, International Briquettes Holding
+SDIX, Strategic Diagnostics Inc.
+ARXX, Aeroflex Incorporated
+HARL, Harleysville Savings Bank
+RENT, Rentrak Corporation
+RAWL, Rawlings Sporting Goods Company, Inc.
+ROYL, Royale Energy, Inc.
+QSII, Quality Systems, Inc.
+WNNB, Wayne Bancorp, Inc.
+IONA, IONA Technologies PLC
+SCES, Successories Inc.
+KFRC, Kforce, Inc.
+RDVW, RadView Software, Ltd.
+ARTNA, Artesian Resources Corporation
+ADPT, Adaptec, Inc.
+IKOS, IKOS Systems, Inc.
+FSCR, Federal Screw Works
+GCOR, Genencor International, Inc.
+COHU, Cohu, Inc.
+ASIPY, Anangel-American Shipholdings Limited
+CENT, Central Garden & Pet Company
+CGEN, Compugen Ltd.
+CTTY, Catuity Inc.
+SHRP, Sharper Image Corporation
+DISH, EchoStar Communications Corporation
+GGNS, Genus, Inc.
+GIFI, Gulf Island Fabrication, Inc.
+CGCP, CardioGenesis Corporation
+LNDC, Landec Corporation
+FIVEC, 5B Technologies Corporation
+CTZN, Citizens First Bancorp, Inc.
+FDCC, Factual Data Corp.
+TKTX, Transkaryotic Therapies, Inc.
+PDYN, Paradyne Networks, Inc.
+TACX, A Consulting Team, Inc. (The)
+MCLN, McLaren Performance Technologies, Inc.
+CMGI, CMGI, Inc.
+SASRP, Sandy Spring Bancorp, Inc.
+WAVE, NuWave Technologies, Inc.
+FRDM, Friedman's Inc.
+NVMI, Nova Measuring Instruments Ltd.
+GWRX, Geoworks Corporation
+UFBS, Union Financial Bancshares, Inc.
+MOIL, Maynard Oil Company
+NTFY, Notify Technology Corporation
+FISV, Fiserv, Inc.
+CRRB, Carrollton Bancorp
+CFGI, Community Financial Group Inc.
+MAIN, Main Street and Main Incorporated
+KSWS, K-Swiss Inc.
+OCLR, Ocular Sciences, Inc.
+BKST, Brookstone, Inc.
+STRS, Stratus Properties, Inc.
+MASB, MASSBANK Corp.
+QUST, Questron Technology, Inc.
+BAMM, Books-A-Million, Inc.
+ATLRS, Atlantic Realty Trust
+DSSI, Data Systems & Software Inc.
+GTAX, Gilman & Ciocia, Inc.
+AMZN, Amazon.com, Inc.
+CRTK, CoorsTek, Inc.
+ACTM, ACT Manufacturing, Inc.
+CKFR, CheckFree Corporation
+HSTD, Homestead Bancorp, Inc.
+STRZ, Star Buffet, Inc.
+URBN, Urban Outfitters, Inc.
+OPNT, OPNET Technologies Inc.
+RSAS, RSA Security, Inc.
+NYHC, New York Health Care, Inc.
+CRXL, Crucell NV
+BVSN, BroadVision, Inc.
+PXLW, Pixelworks, Inc.
+NOPT, NEON Communications Inc
+HMSY, Health Management Systems, Inc.
+IATV, ACTV Inc.
+CNBD, CNBC Bancorp
+VFNX, Voiceflash Networks Inc.
+ERNA, Merrill Lynch & Co., Inc.
+USAB, USABancShares.com, Inc.
+RIVR, River Valley Bancorp.
+BARZ, BARRA, Inc.
+WEBX, WebEx Communications, Inc.
+FOOT, Foothill Independent Bancorp
+WTFCP, Wintrust Financial Corporation
+MAPX, MAPICS Inc.
+AALA, AmerAlia, Inc.
+CORV, Corvis Corporation
+VSTN, Vestin Group Inc.
+ICST, Integrated Circuit Systems, Inc.
+DAVE, Famous Dave's of America, Inc.
+SSCC, Smurfit-Stone Container Corporation
+EDUC, Educational Development Corporation
+PRLS, Peerless Systems Corporation
+LAVA, Magma Design Automation, Inc.
+TSFT, Telesoft Corp.
+PSCOW, ProtoSource Corporation
+VASC, Vascular Solutions, Inc.
+ELON, Echelon Corporation
+HAVNP, New York Community Bancorp, Inc.
+GMRK, GulfMark Offshore, Inc.
+LVMHY, LVMH Moet Hennessy Louis Vuitton
+DISK, Image Entertainment, Inc.
+SCNYB, Saucony, Inc.
+LIBHB, Liberty Homes, Inc.
+ISPH, Inspire Pharmaceuticals, Inc.
+LMNX, Luminex Corporation
+SENG, Storage Engine, Inc.
+SNIC, Sonic Solutions
+LNCR, Lincare Holdings Inc.
+NMCOF, Namibian Minerals Corporation
+MFRI, MFRI, Inc.
+WCAP, Winfield Capital Corp.
+TKIOY, Tokio Marine & Fire Insurance Company, Limited (
+CLTX, Collateral Therapeutics, Inc.
+ISLE, Isle of Capris Casinos, Inc.
+BBDC, Brantley Capital Corporation
+SNDK, SanDisk Corporation
+CHMD, Chronimed Inc.
+CALD, Caldera International, Inc.
+CGNX, Cognex Corporation
+HYBD, Hycor Biomedical Inc.
+RCCC, Rural Cellular Corporation
+SASR, Sandy Spring Bancorp, Inc.
+CWBS, Commonwealth Bankshares, Inc.
+RECN, Resources Connection, Inc.
+TIBX, TIBCO Software, Inc.
+KEST, Kestrel Energy, Inc.
+IHIIL, Industrial Holdings, Inc.
+MGEN, Micro General Corporation
+DWSN, Dawson Geophysical Company
+MLAB, Mesa Laboratories, Inc.
+SABA, Saba Software, Inc.
+ATTL, AT&T Latin America Corp.
+AMRSW, AmerUs Group Company
+IMMR, Immersion Corporation
+FNBN, FNB Corp.
+CLWY, Calloway's Nursery, Inc.
+CNGR, Crown Group Inc.
+CFBC, Community First Banking Company
+HGPI, Horizon Group Properties, Inc.
+CHRD, Chordiant Software, Inc.
+SKBO, Skibo Financial Corporation
+FUSA, Fotoball USA, Inc.
+HMGN, Hemagen Diagnostics, Inc.
+THTH, Thinkpath Inc.
+TZIX, TriZetto Group, Inc. (The)
+CLCI, Cadiz, Inc.
+SUMM, Summit Financial Corporation
+MCAF, McAfee.com Corporation
+DRIV, Digital River, Inc.
+CSPI, CSP Inc.
+APAC, APAC Customer Services, Inc.
+VNWI, VIA NET.WORKS, Inc.
+QUSTW, Questron Technology, Inc.
+REGN, Regeneron Pharmaceuticals, Inc.
+ACET, Aceto Corporation
+EXPD, Expeditors International of Washington, Inc.
+UBSCP, Union Bankshares, Ltd.
+KOREA, Korea Thrunet Co., Ltd.
+IDTI, Integrated Device Technology, Inc.
+MHCO, Moore-Handley, Inc.
+MCCL, McClain Industries, Inc.
+CACH, Cache, Inc.
+MDLK, Medialink Worldwide Incorporated
+PHFC, Pittsburgh Financial Corporation
+MDST, Mid-State Bancshares
+ASTT, ASAT Holdings Limited
+STXN, DMC Stratex Networks Inc
+INDBP, Independent Bank Corp.
+ANSI, Advanced Neuromodulation Systems, Inc.
+ILGN, Interleukin Genetics, Inc.
+MEGO, Mego Financial Corp.
+IFSIA, Interface, Inc.
+PEFX, S&P 500 Protected Equity Fund, Inc. (The)
+PSTA, Monterey Pasta Company
+ACHI, American Country Holdings Inc.
+IPXL, Impax Laboratories, Inc.
+PVCC, PVC Container Corporation
+LCRY, LeCroy Corporation
+PICO, PICO Holdings Inc.
+LWIN, Leap Wireless International, Inc.
+DVNT, Diversinet Corp.
+MBAY, MediaBay, Inc.
+MFSF, MutualFirst Financial Inc.
+SMCS, Star Multi Care Services, Inc.
+CCFH, CCF Holding Company
+HERBB, Herbalife International, Inc.
+ETOPW, Entropin, Inc.
+MCHM, MacroChem Corporation
+SMXC, Smithway Motor Xpress Corp.
+ZILA, Zila, Inc.
+EDEL, Edelbrock Corporation
+APOL, Apollo Group, Inc.
+IRSN, Irvine Sensors Corporation
+HIST, Gallery of History, Inc.
+NAVR, Navarre Corporation
+AMGP, AMERIGROUP Corporation
+SHET, Shenandoah Telecommunications Co
+NPLS, Network Plus Corp.
+WIRE, Encore Wire Corporation
+BLUE, Blue Martini Software, Inc.
+ESST, ESS Technology, Inc
+FDRY, Foundry Networks, Inc.
+SCIO, Scios, Inc.
+STEM, StemCells, Inc.
+NYFX, NYFIX, Inc.
+MPWG, MPW Industrial Services Group, Inc.
+TRST, TrustCo Bank Corp NY
+SFBI, Security Financial Bancorp, Inc.
+LIQWF, Liquidation World, Inc.
+RATL, Rational Software Corporation
+BDCO, Blue Dolphin Energy Company
+ARTL, The Aristotle Corporation
+IFUL, Insightful Corporation
+SOFO, Sonic Foundry, Inc.
+SIVBP, Silicon Valley Bancshares
+AICX, Applied Imaging Corp.
+PNTE, Pointe Financial Corporation
+DTHK, DigitalThink, Inc.
+STMI, S T M Wireless, Inc.
+PFFB, PFF Bancorp, Inc.
+BTEK, Baltek Corporation
+WGRD, WatchGuard Technologies, Inc.
+IEIB, International Electronics,Inc.
+TELN, Telenor ASA
+CRESY, Cresud S.A.C.I.F. y A.
+CCNE, CNB Financial Corporation
+TNTX, T-NETIX Inc.
+GEMP, Gemplus International S.A.
+LASE, LaserSight Incorporated
+DRVR, driversshield.com Corporation
+KOSS, Koss Corporation
+JKHY, Jack Henry & Associates, Inc.
+CYTR, CytRx Corporation
+TARR, Tarragon Realty Investors, Inc.
+ZNDT, Zindart Limited
+SABB, Pacific Capital Bancorp
+SEIC, SEI Investments Company
+AGEN, Antigenics Inc.
+SATH, Shop at Home, Inc.
+TLXNG, Telxon Corporation
+RBIN, R & B, Inc.
+EVCI, Educational Video Conferencing, Inc.
+CCRN, Cross Country, Inc.
+DXPE, DXP Enterprises, Inc.
+CRRC, Courier Corporation
+PNRG, PrimeEnergy Corporation
+SNFCA, Security National Financial Corporation
+MIND, Mitcham Industries, Inc.
+ELAM, Elamex S.A. de C.V.
+CHNL, Channell Commercial Corporation
+FLIR, FLIR Systems, Inc.
+CYLK, Cylink Corporation
+AMTC, Ameritrans Capital Corporation
+CNET, CNET Networks, Inc.
+RINO, Blue Rhino Corporation
+DUCK, Duckwall-Alco Stores, Inc.
+TDSC, 3D Systems Corporation
+SUMX, Summa Industries
+IFCJ, Interchange Financial Services Corporation
+ACEC, ACE*COMM Corporation
+DATX, Data Translation Inc.
+CEGE, Cell Genesys, Inc.
+ORPH, Orphan Medical, Inc.
+TAXI, Medallion Financial Corp.
+TCAM, Transport Corporation of America, Inc.
+NMTI, NMT Medical Inc.
+PRGX, The Profit Recovery Group International, Inc.
+IHCO, Interstate Hotels Corporation
+ACXM, Acxiom Corporation
+CASS, Cass Information Systems, Inc
+TXCO, The Exploration Company
+EMON, Emons Transportation Group, Inc.
+SCON, Superconductor Technologies Inc.
+PHST, Pharsight Corporation
+JCOM, j2 Global Communications Inc
+AKRN, Akorn, Inc.
+SMAN, Standard Management Corporation
+SCHR, Scherer Healthcare, Inc.
+ACHIW, American Country Holdings Inc.
+CLBK, Commercial Bankshares, Inc.
+STSAO, Sterling Financial Corporation
+PRBZ, ProBusiness Services, Inc.
+PTRS, Potters Financial Corporation
+IDNX, Identix Incorporated
+QTRN, Quintiles Transnational Corp.
+ASTM, Aastrom Biosciences, Inc.
+BOYD, Boyd Bros. Transportation Inc.
+VDATW, Visual Data Corporation
+AIQTW, Active IQ Technologies, Inc.
+AVXT, AVAX Technologies, Inc.
+EONC, eOn Communications Corporation
+SYXI, IXYS Corporation
+ONES, OneSource Information Services, Inc.
+DBLEW, Double Eagle Petroleum Company
+CHDX, U.S.-China Industrial Exchange, Inc.
+HGGR, Haggar Corp.
+WORK, Workflow Management, Inc.
+VARI, Varian, Inc.
+JXVL, Jacksonville Bancorp, Inc.
+INFN, Independent Financial Network Inc.
+SHLM, A. Schulman, Inc.
+IAIS, International Aircraft Investors
+FSON, Fusion Medical Technologies, Inc.
+HABKP, Hamilton Bancorp, Inc.
+WMGI, Wright Medical Group, Inc.
+SMSC, Standard Microsystems Corporation
+BIKE, Cannondale Corporation
+CTCO, Commonwealth Telephone Enterprises, Inc.
+MTCH, Metron Technology N.V.
+PHSB, PHS Bancorp Inc.
+TRMB, Trimble Navigation Limited
+AMXC, AMX Corporation
+CNBKA, Century BanCorp, Inc.
+SRCEO, 1st Source Corporation
+MIPSB, MIPS Technologies, Inc.
+SSFC, South Street Financial Corporation
+SSTI, Silicon Storage Technology, Inc.
+OZRK, Bank of the Ozarks
+HABC, Habersham Bancorp
+CPHD, CEPHEID
+SBAC, SBA Communications Corporation
+EBSI, Eagle Bancshares, Inc.
+CATT, Catapult Communicatons Corporation
+TIER, Tier Technologies, Inc.
+AIII, Autologic Information International, Inc.
+SSYS, Stratasys, Inc.
+ESIM, e-SIM Ltd.
+NHHC, National Home Health Care Corp.
+ARTW, Art's-Way Manufacturing Co., Inc.
+QLGC, QLogic Corporation
+ALOT, Astro-Med, Inc.
+IMDC, Inamed Corporation
+JFBC, Jeffersonville Bancorp
+ALLY, Alliance Gaming Corporation
+EEGLW, Eagle Supply Group, Inc.
+IDCO, Interactive Data Corporation
+BEBE, bebe stores, inc.
+NIPNY, NEC Corporation
+MCBI, MetroCorp Bancshares, Inc.
+PGLD, Phoenix Gold International, Inc.
+EPAY, Bottomline Technologies, Inc.
+USHG, U.S. Home & Garden, Inc.
+WFMI, Whole Foods Market, Inc.
+BDAL, Bruker Daltonics, Inc.
+RCMT, RCM Technologies, Inc.
+SIMN, Simon Transportation Services, Inc.
+HIFS, Hingham Institution for Savings
+BSET, Bassett Furniture Industries, Incorporated
+ELUX, A B Electrolux
+PBIZ, Private Business, Inc.
+IMCI, Infinite Group Inc.
+FSCI, Fisher Communications, Inc.
+TMAR, Trico Marine Services, Inc.
+MDCI, Medical Action Industries Inc.
+OTGS, OTG Software, Inc.
+YHOO, Yahoo! Inc.
+GFLS, Greater Community Bancorp
+REMX, RemedyTemp, Inc.
+BOBS, Brazil Fast Food Corp.
+AMRN, Amarin Corporation PLC
+BHWK, Black Hawk Gaming & Development Company, Inc.
+VRLK, Verilink Corporation
+STRA, Strayer Education, Inc.
+JOSB, Jos. A. Bank Clothiers, Inc.
+NHCH, Newmark Homes Corp.
+MTROA, Metro International SA
+BANCP, BankAtlantic Bancorp, Inc.
+ADST, AdStar, Inc.
+NEOM, NeoMedia Technologies, Inc
+LTCHP, Litchfield Financial Corporation
+SCRM, ScreamingMedia Inc.
+FPIC, FPIC Insurance Group, Inc.
+SEEC, SEEC, Inc.
+PVSA, Parkvale Financial Corporation
+FFBK, FloridaFirst Bancorp Inc.
+PRSF, Portal Software, Inc.
+BDJI, First Federal Bancorporation
+LNOP, LanOptics Ltd.
+SLFI, Sterling Financial Corporation
+STRME, StarMedia Network, Inc.
+CRZO, Carrizo Oil & Gas, Inc.
+YSTM, YouthStream Media Networks Inc
+ALAO, Alcatel
+NWLIA, National Western Life Insurance Company
+VALU, Value Line, Inc.
+ADAM, A.D.A.M. Inc.
+RESY, Reconditioned Systems, Inc.
+CMPP, Champps Entertainment, Inc
+NAFC, Nash-Finch Company
+NCNX, Nucentrix Broadband Networks, Inc.
+VTAL, Vital Images, Inc.
+RGFCP, R&G Financial Corporation
+SWTX, Southwall Technologies, Inc.
+SPAN, Span-America Medical Systems, Inc.
+WBKCP, WestBank Corporation
+SCAI, Sanchez Computer Associates, Inc.
+WBSTP, Webster Financial Corporation
+BVEW, Bindview Development Corporation
+BVAS, Bio-Vascular, Inc.
+RGCI, Regent Communications, Inc.
+XOMA, XOMA Ltd.
+APRS, Apropos Technology, Inc.
+PSCOZ, ProtoSource Corporation
+COMS, 3Com Corporation
+TUES, Tuesday Morning Corp.
+CFNLP, Cardinal Financial Corporation
+SYNQ, SynQuest, Inc.
+TWDE, DECS Trust V
+CCSIC, Chromatics Color Sciences International, Inc.
+PBKS, Provident Bankshares Corporation
+MVBI, Mississippi Valley Bancshares, Inc.
+ALGN, Align Technology, Inc.
+CHKE, Cherokee Inc.
+RESP, Respironics, Inc.
+PERF, PerfectData Corporation
+PERL, Perle Systems Limited
+BTHS, Benthos, Inc
+SCMR, Sycamore Networks, Inc.
+NATK, North American Technologies Group, Inc.
+ROXI, Roxio, Inc.
+HIPC, High Plains Corporation
+CENI, Conestoga Enterprises, Inc.
+GNOM, Genomica Corporation
+HIRE, Webhire Inc.
+TCNJ, Trust Company of New Jersey (The)
+NEXM, NexMed, Inc.
+SBLU, SONICblue Incorporated
+ZBRA, Zebra Technologies Corporation
+SWRG, Smith & Wollensky Restaurant Group, Inc. (The)
+NTOL, Natrol, Inc.
+GENI, GenesisIntermedia, Inc.
+SATC, SatCon Technology Corporation
+DVID, Digital Video Systems, Inc.
+SWWC, Southwest Water Company
+AUBN, Auburn National Bancorporation, Inc.
+ABMC, American Bio Medica Corp.
+SCKT, Socket Communications, Inc.
+SNVT, Synavant Inc.
+CLRS, Clarus Corporation
+RADIF, Rada Electronics Industries Limited
+PRGS, Progress Software Corporation
+SENEA, Seneca Foods Corp.
+INOD, Innodata Corporation
+JLMI, JLM Industries, Inc.
+ISKO, Isco, Inc.
+SEMI, All American Semiconductor, Inc.
+HRZB, Horizon Financial Corp.
+MLHR, Herman Miller, Inc.
+HLFC, Home Loan Financial Corporation
+BOGN, Bogen Communications International Inc.
+GPTX, Global Payment Technologies, Inc.
+SMTF, SmartForce plc
+NTESE, Netease.com, Inc.
+PFACP, Pro-Fac Cooperative, Inc.
+SFFC, StateFed Financial Corporation
+CNLG, Conolog Corporation
+SMCX, Special Metals Corporation
+PGLAF, Progen Industries Limited
+LUFK, Lufkin Industries, Inc.
+CBSH, Commerce Bancshares, Inc.
+NOVA, NovaMed Eyecare, Inc.
+PRTH, Parthus Technologies plc
+IMNX, Immunex Corporation
+INSN, inSilicon Corporation
+GOLD, Gold Fields Ltd.
+IUSA, infoUSA, Inc.
+CERN, Cerner Corporation
+RELV, Reliv' International, Inc.
+GILD, Gilead Sciences, Inc.
+ILUM, Illuminet Holdings, Inc.
+DATM, Datum, Inc.
+CSLR, Consulier Engineering, Inc.
+FMCO, FMS Financial Corporation
+SECX, SED International Holdings Inc
+BNTNW, Benton Oil and Gas Company
+GNSL, Genomic Solutions Inc.
+ROAD, Roadway Corporation
+RBPAA, Royal Bancshares of Pennsylvania, Inc.
+EDEN, EDEN Bioscience Corporation
+AMOV, America Movil, S.A. de C.V.
+HIHO, Highway Holdings Limited
+ASVI, A.S.V., Inc.
+TRBO, TurboChef Technologies, Inc.
+SBSE, SBS Technologies, Inc.
+KEQU, Kewaunee Scientific Corporation
+NWAYW, NuWay Energy Inc.
+BFSC, Bingham Financial Services Corporation
+ACTU, Actuate Corporation
+GIII, G-III Apparel Group, LTD.
+ODETA, Odetics, Inc.
+APROZ, America First Apartment Investors, L.P.
+USTR, United Stationers Inc.
+AABC, Access Anytime Bancorp, Inc.
+ENON, Euro909.com A/S
+LTWC, Learn2 Corporation
+XRAY, DENTSPLY International Inc.
+HGAT, HealthGate Data Corp.
+FINL, Finish Line, Inc. (The)
+MIDD, Middleby Corporation (The)
+VECO, Veeco Instruments Inc.
+NRRD, Norstan, Inc.
+ATSN, Artesyn Technologies, Inc.
+EPIQ, EPIQ Systems, Inc.
+LVLT, Level 3 Communications, Inc.
+ROSS, Ross Systems, Inc.
+SIZL, Steakhouse Partners, Inc.
+TTIL, TTI Team Telecom International Ltd.
+NXTV, Next Level Communications, Inc.
+HAXS, HealthAxis Inc.
+MBWMP, Mercantile Bank Corporation
+PKOH, Park-Ohio Holdings Corp.
+CMTO, Com21, Inc.
+BANF, BancFirst Corporation
+VAST, Vastera, Inc.
+WAIN, Wainwright Bank & Trust Company
+DXCPP, Dynex Capital Inc.
+ISNS, Image Sensing Systems, Inc.
+XPRSA, U.S. Xpress Enterprises, Inc.
+NVDA, NVIDIA Corporation
+VETX, Vertex Interactive, Inc.
+CCPCO, Capital Crossing Preferred Corporation
+NTRO, Netro Corporation
+MENT, Mentor Graphics Corporation
+SMTI, SMTEK International, Inc.
+MBBC, Monterey Bay Bancorp, Inc.
+IMTV, ImagicTV Inc.
+MCIT, WorldCom, Inc.
+DGEN, Deltagen, Inc.
+RVDP, Riverdeep Group plc
+ZAPS, Berkshire Bancorp, Inc.
+IPIC, Interneuron Pharmaceuticals, Inc.
+HLIT, Harmonic Inc.
+MRTI, Maxus Realty Trust Inc
+IISX, Integrated Information Systems, Inc.
+CACC, Credit Acceptance Corporation
+NTSL, NetSolve, Inc.
+GERN, Geron Corporation
+SPAR, Spartan Motors, Inc.
+TISA, Top Image Systems, Ltd.
+EVRT, EverTrust Financial Group, Inc.
+CLWT, Euro Tech Holdings Company Limited
+SLMC, Select Medical Corporation
+GEHL, Gehl Company
+DCTH, Delcath Systems, Inc.
+MDKI, Medicore, Inc.
+ABMD, ABIOMED, Inc.
+IBKC, IBERIABANK Corporation
+AQCR, Aqua Care Systems, Inc. New
+WEFN, WebFinancial Corporation
+SSTR, Silverstar Holdings Ltd
+RONC, Ronson Corporation
+APAT, APA Optics, Inc.
+LEXR, Lexar Media, Inc.
+MXICY, Macronix International Co. Ltd
+SCVL, Shoe Carnival, Inc.
+TUTR, PLATO Learning Inc.
+CHIC, Charlotte Russe Holding, Inc.
+FRED, Fred's, Inc.
+IFCO, IFCO Systems N.V.
+RTST, Right Start, Inc. (The)
+EMRT, E.mergent Inc
+FFWC, FFW Corporation
+TDDD, 3Dlabs Inc., Ltd.
+TGCI, TGC Industries, Inc.
+BRKS, Brooks Automation, Inc.
+PFSW, PFSweb, Inc.
+MSBF, MSB Financial, Inc.
+EDGW, Edgewater Technology, Inc.
+UHCO, Universal American Financial Corp.
+MRSA, Marisa Christina, Incorporated
+VRGE, Virage, Inc.
+MCLD, McLeodUSA Incorporated
+PLNQ, Morgan Stanley Dean Witter & Co.
+AMSWA, American Software, Inc.
+TFCO, Tufco Technologies, Inc.
+DDIC, DDi Corp.
+CMTL, Comtech Telecommunications Corp.
+SYNP, Synplicity, Inc.
+SBIBO, Sterling Bancshares, Inc.
+PNRA, Panera Bread Company
+SPEIG, USA Networks, Inc.
+NANX, Nanophase Technologies Corporation
+GBTSW, Gateway Financial Holdings, Inc.
+FLBK, Florida Banks, Inc.
+UCTN, CTN Media Group Inc
+GTSI, GTSI Corp.
+PCOM, P-COM, Inc.
+AWLDW, Activeworlds Corporation
+MIEC, Magna Entertainment Corporation
+FISB, First Indiana Corporation
+CIMA, Cima Labs Inc.
+DNCR, Dynacare, Inc.
+BBGI, Beasley Broadcast Group, Inc.
+PLNR, Planar Systems, Inc.
+HDIIW, Hypertension Diagnostics, Inc.
+HATH, Hathaway Corporation
+INLQ, INTERLINQ Software Corporation
+IBCA, Intervest Bancshares Corp.
+BONT, Bon-Ton Stores, Inc. (The)
+HDSN, Hudson Technologies, Inc.
+LQNT, ESPS, Inc.
+VYSI, Vysis, Inc.
+AVGO, AvantGo, Inc.
+BRCM, Broadcom Corporation
+PMEDW, Paradigm Medical Industries, Inc.
+VALM, Valmont Industries, Inc.
+NCEH, New Century Equity Holdings Corporation
+MAXS, Maxwell Shoe Company Inc.
+NERX, NeoRx Corporation
+AEHR, Aehr Test Systems
+LOJN, LoJack Corporation
+MERCS, Mercer International Inc.
+SNAP, Synaptic Pharmaceutical Corporation
+PRSW, Persistence Software, Inc.
+ENPT, En Pointe Technologies, Inc.
+HUMP, Humphrey Hospitality Trust, Inc.
+WAVX, Wave Systems Corp.
+NEOG, Neogen Corporation
+DUSA, DUSA Pharmaceuticals, Inc.
+MYST, Mystic Financial, Inc.
+BZBC, Business Bancorp
+STOR, StorageNetworks, Inc.
+FFIN, First Financial Bankshares, Inc.
+TLXS, Telaxis Communications Corporation
+NBTB, NBT Bancorp Inc.
+SNDT, Sand Technology Inc
+SAESY, SAES Getters S.p.A.
+PMTC, Parametric Technology Corporation
+SBCFA, Seacoast Banking Corporation of Florida
+HRVEW, Harvey Electronics, Inc.
+DLIA, delia*s Corporation
+TSRC, Technisource, Inc.
+PSON, Paul-Son Gaming Corporation
+RUSH, Rush Enterprises, Inc.
+ISIP, Isis Pharmaceuticals, Inc.
+HTEI, H.T.E., Inc.
+MAGS, Magal Security Systems Ltd.
+WTSLA, Wet Seal, Inc. (The)
+SNBC, Sun Bancorp, Inc.
+OFIX, Orthofix International N.V.
+OWOS, Owosso Corporation
+DRAX, Draxis Health Inc.
+ISIL, Intersil Corporation
+MHLXU, microHelix, Inc.
+SDAY, SUNDAY Communications Limited
+PROX, Proxim, Inc.
+SBGA, Summit Bank Corporation
+VNGD, Vanguard Airlines, Inc.
+EBSC, Elder-Beerman Stores Corp. (The)
+OBCI, Ocean Bio-Chem, Inc.
+CHTT, Chattem, Inc.
+REHB, Rehabilicare Inc.
+FNLC, First National Lincoln Corporation
+CLIK, clickNsettle.com Inc.
+CERT, Certicom Corporation
+WSTM, Workstream Inc.
+ESBK, Elmira Savings Bank, FSB (The)
+TEVA, Teva Pharmaceutical Industries Limited
+COHT, Cohesant Technologies Inc.
+BITS, Bitstream Inc.
+WSBA, Western Sierra Bancorp
+KINDZ, Kindred Healthcare, Inc.
+CERI, Capital Environmental Resource, Inc.
+KWIC, Kennedy-Wilson, Inc.
+ACBA, American Community Bancshares
+SONS, Sonus Networks, Inc.
+ESPD, eSpeed, Inc.
+LIQB, Liqui-Box Corporation
+ENGEF, Engel General Developers Ltd.
+SBIT, Summit Bancshares, Inc.
+VFLX, Variflex, Inc.
+ACAS, American Capital Strategies, Ltd.
+RELL, Richardson Electronics, Ltd.
+OBAS, Optibase Ltd.
+INAGY, Incam AG
+AGIL, Agile Software Corporation
+SPLS, Staples, Inc.
+AMAC, American Medical Alert Corp.
+FTFC, First Federal Capital Corp.
+PRGO, Perrigo Company
+HTCH, Hutchinson Technology Incorporated
+TRAC, Track Data Corporation
+INEI, Insituform East, Incorporated
+COBH, Pennsylvania Commerce Bancorp, Inc.
+LARK, Landmark Bancorp Inc.
+JNPR, Juniper Networks, Inc.
+CENX, Century Aluminum Company
+ALLE, Allegiant Bancorp, Inc.
+LDMK, Landmark Systems Corporation
+GOSHA, Oshkosh B'Gosh, Inc.
+INAI, IntelliCorp Inc.
+DVIN, divine, inc.
+ELNT, Elantec Semiconductor, Inc.
+ZOOM, Zoom Telephonics, Inc.
+EMIS, Emisphere Technologies, Inc.
+PMBC, Pacific Mercantile Bancorp
+CELG, Celgene Corporation
+ZONS, Zones Inc.
+RADN, Radyne ComStream, Inc.
+FFFL, Fidelity Bankshares, Inc.
+PRED, Orlando Predators Entertainment, Inc. (The)
+CBCL, Capitol Bancorp Ltd.
+ORTC, Ortec International, Inc.
+UCBH, UCBH Holdings, Inc.
+HSII, Heidrick & Struggles International, Inc.
+CHEZ, Suprema Specialties, Inc.
+CPWM, Cost Plus, Inc.
+WBCO, Washington Banking Company
+NEWC, New China Homes, Ltd.
+FOUR, Fourthstage Technologies, Inc.
+ANTP, PHAZAR CORP
+SCLN, SciClone Pharmaceuticals, Inc.
+SNBJ, SNB Bancshares, Inc.
+BGEN, Biogen, Inc.
+KVHI, KVH Industries, Inc.
+SFNT, SafeNet Inc
+NTIA, Netia Holdings S.A.
+PHAR, PharmaNetics, Inc.
+RIFL, Royal Precision, Inc.
+ASAA, ASA International Ltd.
+VSNT, Versant Corporation
+EWST, Energy West, Inc.
+PNTA, PentaStar Communications, Inc.
+BIOM, Biomira Inc.
+FOSL, Fossil, Inc.
+PROA, Polymer Research Corp. of America
+MKSI, MKS Instruments, Inc.
+CASC, Casco International Inc.
+MITT, Merrill Lynch & Co., Inc.
+LAND, Landair Corporation
+COST, Costco Wholesale Corporation
+MAJR, Major Automotive Companies Inc.
+MCRS, MICROS Systems, Inc.
+GMCR, Green Mountain Coffee, Inc.
+DSET, DSET Corporation
+SFEF, Santa Fe Financial Corporation
+AFBC, Advance Financial Bancorp
+BELFB, Bel Fuse Inc.
+ECTX, ECtel Ltd.
+PEOP, PeoplePC, Inc.
+SCHS, School Specialty, Inc.
+DIGE, Digene Corporation
+MCSI, MCSi Inc
+FUNC, First United Corporation
+JAKK, JAKKS Pacific, Inc.
+AZPN, Aspen Technology, Inc.
+WMSI, Williams Industries, Inc.
+JDSU, JDS Uniphase Corporation
+ECMN, eChapman.com, Inc.
+PWER, Power-One, Inc.
+GCFBU, Founders Food & Firkins, Ltd.
+FLEX, Flextronics International Ltd.
+GBBKO, Greater Bay Bancorp
+NOOF, New Frontier Media, Inc.
+IVAC, Intevac, Inc.
+WFSI, WFS Financial Inc.
+TSYS, TeleCommunication Systems, Inc.
+TONS, Novamerican Steel, Inc.
+BBUCU, Big Buck Brewery & Steakhouse Inc.
+BUCK, Buckhead America Corporation
+GYRO, Gyrodyne Company of America, Inc.
+GKSRA, G&K Services, Inc.
+BLSI, Boston Life Sciences, Inc.
+ASIA, AsiaInfo Holdings, Inc.
+DTLK, Datalink Corporation
+DGLVZ, Digital Lava Inc.
+EBAY, eBay Inc.
+TENF, TenFold Corporation
+FMFC, First M & F Corporation
+HYSQ, Hyseq, Inc.
+BSTE, Biosite, Inc.
+FSTW, Firstwave Technologies Inc.
+ISEC, I-Sector Corporation
+MOCO, MOCON, Inc.
+TMED, Trimedyne, Inc.
+BKHM, Bookham Technology plc
+WONE, Wire One Technologies, Inc.
+DVSA, Diversa Corporation
+WDFC, WD-40 Company
+CALGL, California Federal Bank, FSB
+UFHI, United Financial Holdings, Inc.
+DXCPN, Dynex Capital Inc.
+BWCF, BWC Financial Corporation
+SMMX, Symyx Technologies, Inc.
+JBOH, JB Oxford Holdings, Inc.
+MEDS, Medstone International Inc.
+CCPRZ, Coast Federal Litigation Contingent Payment Righ
+UFPT, UFP Technologies, Inc.
+FRBK, Republic First Bancorp, Inc.
+VCLK, ValueClick, Inc.
+SCOT, Scottish Annuity & Life Holdings, Ltd.
+RBBR, R-B Rubber Products, Inc.
+HCBB, HCB Bancshares, Inc.
+MBLA, National Mercantile Bancorp
+INTL, Inter-Tel, Incorporated
+ONXX, ONYX Pharmaceuticals, Inc.
+SMPX, Symphonix Devices, Inc.
+SYGR, Synagro Technologies, Inc.
+DHIL, Diamond Hill Investment Group, Inc.
+ECIN, EMCEE Broadcast Products Inc.
+ILOG, Ilog S.A.
+BMET, Biomet, Inc.
+PDFS, PDF Solutions, Inc.
+TFCE, TFC Enterprises, Inc.
+PRBC, Prestige Bancorp, Inc.
+TTEN, 3TEC Energy Corporation
+RBOW, Rainbow Rentals, Inc.
+FSLA, First Sentinel Bancorp, Inc.
+WPPGY, WPP Group plc
+MAXM, Maxim Pharmaceuticals, Inc.
+MAXC, Maxco, Inc.
+CIEN, CIENA Corporation
+MDEA, Media 100 Inc.
+ATSI, ATS Medical, Inc.
+GBCI, Glacier Bancorp, Inc.
+MITSY, Mitsui & Company, Ltd.
+PRVO, Previo, Inc.
+LENS, Concord Camera Corp.
+NSYS, Nortech Systems Incorporated
+RVSN, RADVision Ltd.
+GNVH, Geneva Steel Holdings Corp.
+KINDW, Kindred Healthcare, Inc.
+CFLO, CacheFlow Inc.
+CKCM, Click Commerce, Inc.
+WSCC, Waterside Capital Corporation
+VLNK, viaLink Company (The)
+INAP, Internap Network Services Corporation
+BKNW, Bank of the Northwest
+ISWI, Interactive Systems Worldwide Inc.
+CYBS, CyberSource Corporation
+CNTY, Century Casinos, Inc.
+ENWV, Endwave Corporation
+ORCI, Opinion Research Corporation
+EXBD, Corporate Executive Board Company (The)
+CLHB, Clean Harbors, Inc.
+SONC, Sonic Corp.
+MDII, Mechanical Dynamics, Inc.
+PCOP, Pharmacopeia, Inc.
+GOLF, Women's Golf Unlimited Inc
+NWAY, NuWay Energy Inc.
+KFBI, Klamath First Bancorp, Inc.
+ITIC, Investors Title Company
+TFONY, Telefonos de Mexico SA de CV Ser A Spons ADR
+STRC, SRI/Surgical Express, Inc.
+FPFC, First Place Financial Corp.
+MAYS, J. W. Mays, Inc.
+LFINP, Local Financial Corporation
+SANYY, Sanyo Electric Co., Ltd.
+CAFE, Host America Corporation
+VSCI, Vision-Sciences, Inc.
+PTSX, Point.360
+NZYM, Synthetech, Inc.
+MFLR, Mayflower Co-operative Bank
+CBBI, CB Bancshares, Inc.
+ISSC, Innovative Solutions and Support, Inc.
+ADPI, American Dental Partners, Inc.
+GREY, Grey Global Group Inc
+MTSL, MER Telemanagement Solutions Ltd.
+DPAC, DPAC Technologies Corporation

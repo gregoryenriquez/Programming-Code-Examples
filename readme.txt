@@ -1,0 +1,1 @@
+Folder containing source code examples primarily from educational assignments.

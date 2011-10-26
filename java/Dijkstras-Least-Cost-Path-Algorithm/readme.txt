@@ -1,0 +1,1 @@
+(Networking) Simulates Dijkstra's least cost algorithm between a many-to-many nodes in a graph input.
