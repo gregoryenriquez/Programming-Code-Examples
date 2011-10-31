@@ -1,0 +1,15 @@
+1	obama	michelle	freshman
+3	lin	frank	freshman
+2	bush	george sr.	junior
+5	obama	barack	senior
+4	linear	francisco	senior
+7	linux	fran	freshman
+10	lockeed	bally	junior
+8	oracle	greg	senior
+12	google	kunal	senior
+11	yahoo	amol	junior
+14	cisco	chris	junior
+16	apple	felix	senior
+15	broadcom	steve	senior
+13	intel	ryan	senior
+6	regan	ronald	junior
