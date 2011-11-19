@@ -15,6 +15,7 @@ import android.widget.Toast;
 
 public class WelcomeScreen extends Activity{
 		private static final int RECOGNIZER_EXAMPLE = 1001;
+		private static final int QRSCANNER_EXAMPLE = 1003;
 		private String searchText = "Enter a keword";
 		private EditText searchBox;
 		private String stringToSearch;
@@ -98,6 +99,12 @@ public class WelcomeScreen extends Activity{
 				if (!result.isEmpty())
 					searchBox.setText(result.get(0));
 			}
+			else if (requestCode==QRSCANNER_EXAMPLE && resultCode==RESULT_OK)
+			{
+				//Read result from QR Droid (it's stored in la.droid.qr.result)
+				String result = data.getExtras().getString(Services.RESULT);
+				toaster.makeText(welcome, result, Toast.LENGTH_LONG).show();
+			}
 			super.onActivityResult(requestCode, resultCode, data);
 		}
 		private void startSearch()
@@ -105,9 +112,17 @@ public class WelcomeScreen extends Activity{
 			Intent search = new Intent(this, Search.class);
 			startActivity(search);
 		}
-		private void startQR()
+		protected void startQR()
         {
-
+			Intent qrscan = new Intent(Services.SCAN);
+			try
+			{
+				startActivityForResult(qrscan, QRSCANNER_EXAMPLE);
+			}
+			catch (ActivityNotFoundException activity)
+			{
+				Services.qrDroidRequired(WelcomeScreen.this);
+			}
         }
 		private void startNewUser()
 	    {
@@ -116,7 +131,7 @@ public class WelcomeScreen extends Activity{
 	    }
 		private void startLogin()
 		{
-			Intent login = new Intent(this, LoggedIn.class);
+			Intent login = new Intent(this, LogIn.class);
 			startActivity(login);
 		}
 		
