@@ -40,4 +40,15 @@
         android:layout_centerInParent="true"
         android:text="Log In" />
 
+    <TextView
+        android:id="@+id/ForgotPassword"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ButtonLogIn"
+        android:layout_centerHorizontal="true"
+        android:text="Forgot Password?"
+        android:textColor="#666666"
+        android:paddingTop="30sp"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
 </RelativeLayout>
