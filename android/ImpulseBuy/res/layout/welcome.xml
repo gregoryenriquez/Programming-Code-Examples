@@ -6,7 +6,7 @@
 
 
 	<ImageView
-        android:id="@+id/imageView1"
+        android:id="@+id/banner"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
@@ -19,25 +19,52 @@
 	    android:layout_height="wrap_content"
 	    android:layout_alignParentLeft="true"
 	    android:layout_alignParentRight="true"
-	    android:layout_below="@+id/imageView1" >
+	    android:layout_below="@id/banner" >
 	
 	    <requestFocus />
 	</EditText>
 	
 	<Button
-	    android:id="@+id/button1"
+	    android:id="@+id/SearchButton"
 	    android:layout_width="wrap_content"
 	    android:layout_height="wrap_content"
-	    android:layout_below="@+id/SearchBox"
+	    android:layout_below="@id/SearchBox"
 	    android:layout_centerHorizontal="true"
-	    android:text="Button" />
-
-	<Button
+	    android:text="Search" />
+	
+	<ImageButton
 	    android:id="@+id/Speak"
 	    android:layout_width="wrap_content"
 	    android:layout_height="wrap_content"
 	    android:layout_below="@+id/SearchBox"
-	    android:layout_toRightOf="@+id/button1"
-	    android:text="Speak" />
+	    android:layout_toRightOf="@+id/SearchButton"
+	    android:src="@android:drawable/ic_btn_speak_now" />
+	
+	<Button
+	    android:id="@+id/QRButton"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_below="@+id/SearchBox"
+	    android:layout_toLeftOf="@id/SearchButton"
+	    android:text="Scan QR" />
+
+	
+
+	<Button
+	    android:id="@+id/NewUserButton"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_centerInParent="true"
+	    android:text="New User?" />
+
+	<Button
+	    android:id="@+id/LoginButton"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_centerHorizontal="true"
+	    android:layout_below="@+id/NewUserButton"
+	    android:text="Login" />
+
+	
 
 </RelativeLayout>

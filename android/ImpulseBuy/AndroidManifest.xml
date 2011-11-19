@@ -20,7 +20,7 @@
         </activity>
         <activity
            android:label = "@string/app_name"
-           android:name=".SearchActivity" >
+           android:name=".Search" >
             <intent-filter>
                 	<action android:name="android.intent.action.VIEW"	/>
                 	<category android:name="android.intent.category.DEFAULT"	/>
@@ -35,7 +35,70 @@
        	        	<category android:name="android.intent.category.DEFAULT"	/>
        	    </intent-filter>
        	</activity>
-       	    
+       	<activity
+       	    android:name=".LoggedIn">
+       	    <intent-filter>
+       	        	<action android:name="android.intent.action.VIEW"	/>
+       	        	<category android:name="android.intent.category.DEFAULT"	/>
+       	    </intent-filter>
+       	</activity>
+       	<activity
+       	    android:name=".NewUser">
+       	    <intent-filter>
+       	        	<action android:name="android.intent.action.VIEW"	/>
+       	        	<category android:name="android.intent.category.DEFAULT"	/>
+       	    </intent-filter>
+       	</activity>
+       	<activity
+       	    android:name=".NewUserScreenCont">
+       	    <intent-filter>
+       	        <action android:name="android.intent.action.VIEW"	/>
+     	        <category android:name="android.intent.category.DEFAULT"	/>
+       	    </intent-filter>
+       	</activity>
+       	       	<activity
+       	    android:name=".MyAccount">
+       	    <intent-filter>
+       	        <action android:name="android.intent.action.VIEW"	/>
+     	        <category android:name="android.intent.category.DEFAULT"	/>
+       	    </intent-filter>
+       	</activity>
+       	       	<activity
+       	    android:name=".SavedItems">
+       	    <intent-filter>
+       	        <action android:name="android.intent.action.VIEW"	/>
+     	        <category android:name="android.intent.category.DEFAULT"	/>
+       	    </intent-filter>
+       	</activity>
+      	<activity
+       	    android:name=".Browse">
+       	    <intent-filter>
+       	        <action android:name="android.intent.action.VIEW"	/>
+     	        <category android:name="android.intent.category.DEFAULT"	/>
+       	    </intent-filter>
+       	</activity>
+       	<activity
+       	    android:name=".Buying">
+       	    <intent-filter>
+       	        <action android:name="android.intent.action.VIEW"	/>
+     	        <category android:name="android.intent.category.DEFAULT"	/>
+       	    </intent-filter>
+       	</activity>
+       	<activity
+       	    android:name=".ChoosePayment">
+       	    <intent-filter>
+       	        <action android:name="android.intent.action.VIEW"	/>
+     	        <category android:name="android.intent.category.DEFAULT"	/>
+       	    </intent-filter>
+       	</activity>
+       	<activity
+       	    android:name=".Confirmation">
+       	    <intent-filter>
+       	        <action android:name="android.intent.action.VIEW"	/>
+     	        <category android:name="android.intent.category.DEFAULT"	/>
+       	    </intent-filter>
+       	</activity>
+       	
     </application>
 
 </manifest>

@@ -15,11 +15,13 @@ public class ShoppingAppActivity extends Activity {
     
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
-      
+   
+        
     }
     public boolean onTouchEvent(MotionEvent event)
 	{
-		startWelcome();
+    	if (event.getAction() == (MotionEvent.ACTION_UP))
+    		startWelcome();
 		return true;
 	}
     

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <ImageView
+        android:id="@+id/banner"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/banner" />
+
+
+	<EditText
+	    android:id="@+id/SearchBox"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_alignParentLeft="true"
+	    android:layout_alignParentRight="true"
+	    android:layout_below="@id/banner" >
+	
+	    <requestFocus />
+	</EditText>
+	
+	<Button
+	    android:id="@+id/SearchButton"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_below="@id/SearchBox"
+	    android:layout_centerHorizontal="true"
+	    android:text="Search" />
+	
+	<ImageButton
+	    android:id="@+id/Speak"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_below="@+id/SearchBox"
+	    android:layout_toRightOf="@+id/SearchButton"
+	    android:src="@android:drawable/ic_btn_speak_now" />
+	
+	<Button
+	    android:id="@+id/QRButton"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_below="@+id/SearchBox"
+	    android:layout_toLeftOf="@id/SearchButton"
+	    android:text="Scan QR" />
+	
+	<Button
+	    android:id="@+id/MyAccountButton"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_centerInParent="true"
+	    android:text="MyAccount" />
+	
+	<Button
+	    android:id="@+id/SavedItems"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_below="@id/MyAccountButton"
+	    android:text="Saveditems"
+	    />
+	
+	<Button 
+	    android:id="@+id/Browse"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_below="@id/SavedItems"
+	    android:text="Browse Items"
+	    />
+
+</RelativeLayout>
