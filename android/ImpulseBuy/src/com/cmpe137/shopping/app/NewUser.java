@@ -1,6 +1,7 @@
 package com.cmpe137.shopping.app;
 
 import android.app.Activity;
+import android.content.ActivityNotFoundException;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
@@ -8,12 +9,14 @@ import android.widget.ArrayAdapter;
 import android.widget.AutoCompleteTextView;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.Toast;
 
 public class NewUser extends Activity{
 	EditText streetName;
 	EditText personName;
 	Button continueButton;
 	AutoCompleteTextView state;
+	Toast toaster;
 	public void onCreate(Bundle savedInstanceState) {
 		    
 	        super.onCreate(savedInstanceState);
@@ -67,8 +70,14 @@ public class NewUser extends Activity{
 	
 	protected void startContinue()
 	{
+		try {
 		Intent continueIntent = new Intent(this, NewUserContinue.class);
 		startActivity(continueIntent);
+		}
+		catch (ActivityNotFoundException afne)
+		{
+			toaster.makeText(this, "Activity not found!", Toast.LENGTH_SHORT).show();
+		}
 	}
 	
 	static final String[] STATES = new String[] 

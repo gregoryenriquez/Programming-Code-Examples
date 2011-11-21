@@ -1,6 +1,7 @@
 package com.cmpe137.shopping.app;
 
 import android.app.Activity;
+import android.content.ActivityNotFoundException;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
@@ -38,8 +39,14 @@ public class LogIn extends Activity{
 	}
 	public void startLogin()
     {
-    	Intent logIn = new Intent(this, LoggedIn.class);
-    	startActivity(logIn);
+		try {
+	    	Intent logIn = new Intent(this, LoggedIn.class);
+	    	startActivity(logIn);
+		}
+		catch (ActivityNotFoundException afne)
+		{
+			toaster.makeText(this, "Activity not found!", Toast.LENGTH_SHORT).show();
+		}
     }
 	
 }

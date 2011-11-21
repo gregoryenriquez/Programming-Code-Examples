@@ -2,6 +2,7 @@
 <resources>
 
     <string name="hello">Press to continue...</string>
+        
     <string name="app_name">ImpulseBuy</string>
 	<string name="scan">Scan</string>
     <string name="encode">Generate</string>

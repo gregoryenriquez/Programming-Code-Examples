@@ -76,13 +76,16 @@ public final class R {
         public static final int login=0x7f030008;
         public static final int main=0x7f030009;
         public static final int myaccount=0x7f03000a;
-        public static final int newuser=0x7f03000b;
-        public static final int newusercont=0x7f03000c;
-        public static final int saveditems=0x7f03000d;
-        public static final int scan=0x7f03000e;
-        public static final int searchresults=0x7f03000f;
-        public static final int tabs=0x7f030010;
-        public static final int welcome=0x7f030011;
+        public static final int mypreferences=0x7f03000b;
+        public static final int newuser=0x7f03000c;
+        public static final int newusercont=0x7f03000d;
+        public static final int saveditems=0x7f03000e;
+        public static final int scan=0x7f03000f;
+        public static final int searchresults=0x7f030010;
+        public static final int tabs=0x7f030011;
+        public static final int transactions=0x7f030012;
+        public static final int update=0x7f030013;
+        public static final int welcome=0x7f030014;
     }
     public static final class string {
         public static final int app_name=0x7f050001;

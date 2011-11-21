@@ -118,29 +118,57 @@ public class LoggedIn extends Activity{
 	}
 	private void startSearch()
 	{
-		Intent search = new Intent(this, Search.class);
-		startActivity(search);
+		try
+		{
+			Intent search = new Intent(this, Search.class);
+			startActivity(search);
+		}
+		catch (ActivityNotFoundException afne)
+		{
+			toaster.makeText(this, "Activity not found!", Toast.LENGTH_SHORT).show();
+		}
 	}
 	private void startMyAccount()
 	{
-		Intent myaccount = new Intent(this, MyAccount.class);
-		startActivity(myaccount);
+		try
+		{
+			Intent myaccount = new Intent(this, MyAccount.class);
+			startActivity(myaccount);
+		}
+		catch (ActivityNotFoundException afne)
+		{
+			toaster.makeText(this, "Activity not found!", Toast.LENGTH_SHORT).show();
+		}
 	}
 	private void startSavedItems()
 	{
-		Intent saveditems = new Intent(this, SavedItems.class);
-		startActivity(saveditems);
+		try
+		{
+			Intent saveditems = new Intent(this, SavedItems.class);
+			startActivity(saveditems);
+		}
+		catch (ActivityNotFoundException afne)
+		{
+			toaster.makeText(this, "Activity not found!", Toast.LENGTH_SHORT).show();
+		}
 	}
 	private void startBrowse()
 	{
-		Intent browse = new Intent(this, Browse.class);
-		startActivity(browse);
+		try
+		{
+			Intent browse = new Intent(this, Browse.class);
+			startActivity(browse);
+		}
+		catch (ActivityNotFoundException afne)
+		{
+			toaster.makeText(this, "Activity not found!", Toast.LENGTH_SHORT).show();
+		}
 	}
 	protected void startQR()
     {
-		Intent qrscan = new Intent(Services.SCAN);
 		try
 		{
+			Intent qrscan = new Intent(Services.SCAN);
 			startActivityForResult(qrscan, QRSCANNER_EXAMPLE);
 		}
 		catch (ActivityNotFoundException activity)

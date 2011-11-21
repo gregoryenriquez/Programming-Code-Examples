@@ -102,16 +102,23 @@ public class WelcomeScreen extends Activity{
 		}
 		super.onActivityResult(requestCode, resultCode, data);
 	}
+	
 	private void startSearch()
 	{
-		Intent search = new Intent(this, Search.class);
-		startActivity(search);
+		try{
+			Intent search = new Intent(this, Search.class);
+			startActivity(search);
+		}
+		catch (ActivityNotFoundException afne)
+		{
+			toaster.makeText(this, "Activity not found!", Toast.LENGTH_SHORT).show();
+		}
 	}
 	protected void startQR()
     {
-		Intent qrscan = new Intent(Services.SCAN);
 		try
 		{
+			Intent qrscan = new Intent(Services.SCAN);
 			startActivityForResult(qrscan, QRSCANNER_EXAMPLE);
 		}
 		catch (ActivityNotFoundException activity)
@@ -121,12 +128,54 @@ public class WelcomeScreen extends Activity{
     }
 	private void startNewUser()
     {
+		try {
 		Intent newuser = new Intent(this, NewUser.class);
 		startActivity(newuser);
+		}
+		catch (ActivityNotFoundException afne)
+		{
+			toaster.makeText(this, "Activity not found!", Toast.LENGTH_SHORT).show();
+		}
     }
 	private void startLogin()
 	{
+		try {
 		Intent login = new Intent(this, LogIn.class);
 		startActivity(login);
+		}
+		catch (ActivityNotFoundException afne)
+		{
+			toaster.makeText(this, "Activity not found!", Toast.LENGTH_SHORT).show();
+		}
 	}	
+	@Override
+    protected void onStart(){
+    	super.onStart();
+    }
+    
+    @Override
+    protected void onResume(){
+    	super.onResume();
+    }
+    
+    @Override
+    protected void onRestart(){
+    	super.onRestart();
+    }
+    
+    @Override
+    protected void onPause(){
+    	super.onPause();
+    }
+    
+    @Override
+    protected void onStop(){
+    	super.onStop();
+    }
+    
+    @Override
+    protected void onDestroy(){
+    	super.onDestroy();
+    }
+    
 }
