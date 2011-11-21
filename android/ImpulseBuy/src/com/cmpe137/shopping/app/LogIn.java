@@ -41,13 +41,28 @@ public class LogIn extends Activity{
         {	
 			@Override
 			public void onClick(View v) {
-				toaster.makeText(loginscreen, "...jump to pw recovery", Toast.LENGTH_LONG).show();
+				startForgotPassword();
 			}
 		});
         email = (EditText)findViewById(R.id.Email);
         password = (EditText) findViewById(R.id.Password);
        
 	}
+	
+	public void startForgotPassword()
+	{
+		try
+		{
+			Intent forgotpw = new Intent(this, ForgotPassword.class);
+			forgotpw.putExtra("email", email.getText().toString());
+			startActivity(forgotpw);
+		}
+		catch (ActivityNotFoundException afne)
+		{
+			toaster.makeText(this, "Activity not found!", Toast.LENGTH_SHORT).show();
+		}
+	}
+	
 	public void startLogin()
     {
 		int index = -1;

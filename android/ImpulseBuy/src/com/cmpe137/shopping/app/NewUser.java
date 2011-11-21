@@ -14,8 +14,10 @@ import android.widget.Toast;
 public class NewUser extends Activity{
 	EditText streetName;
 	EditText personName;
+	EditText cityName;
+	EditText zipCode;
 	Button continueButton;
-	AutoCompleteTextView state;
+	AutoCompleteTextView stateName;
 	Toast toaster;
 	public void onCreate(Bundle savedInstanceState) {
 		    
@@ -38,10 +40,13 @@ public class NewUser extends Activity{
 				}
 			});
 	        
-	        state = (AutoCompleteTextView) findViewById(R.id.State);
+	        cityName = (EditText) findViewById(R.id.CityName);
+	        zipCode = (EditText) findViewById(R.id.ZipCode);
+	        
+	        stateName = (AutoCompleteTextView) findViewById(R.id.State);
 	        initState();
 	        
-	        state.setOnClickListener(new View.OnClickListener() 
+	        stateName.setOnClickListener(new View.OnClickListener() 
 	        {	
 				@Override
 				public void onClick(View v) {
@@ -64,15 +69,47 @@ public class NewUser extends Activity{
 	{
 		 ArrayAdapter<String> adapter = 
 	        	new ArrayAdapter<String>(this, R.layout.list_item, STATES);
-	        state.setAdapter(adapter);
-	        state.setThreshold(1);
+	        stateName.setAdapter(adapter);
+	        stateName.setThreshold(1);
 	}
 	
 	protected void startContinue()
 	{
+		if (personName.getText().toString().equals("")) 
+		{
+			toaster.makeText(this, "Enter your name", Toast.LENGTH_SHORT).show();
+			return;
+		}
+
+		else if (streetName.getText().toString().equals(""))
+		{
+			toaster.makeText(this, "Enter a street name", Toast.LENGTH_SHORT).show();
+			return;
+		}
+		else if (cityName.getText().toString().equals(""))
+		{
+			toaster.makeText(this, "Enter a city", Toast.LENGTH_SHORT).show();
+			return;
+		}
+		else if (stateName.getText().toString().equals("")) 
+		{
+			toaster.makeText(this, "Enter a state", Toast.LENGTH_SHORT).show();
+			return;
+		}
+		else if (zipCode.getText().toString().equals(""))
+		{
+			toaster.makeText(this, "Enter a zip code", Toast.LENGTH_SHORT).show();
+			return;
+		}
+		
 		try {
-		Intent continueIntent = new Intent(this, NewUserContinue.class);
-		startActivity(continueIntent);
+			Intent continueIntent = new Intent(this, NewUserContinue.class);
+			continueIntent.putExtra("personNamePass", personName.getText().toString());
+			continueIntent.putExtra("streetNamePass", streetName.getText().toString());
+			continueIntent.putExtra("cityNamePass", cityName.getText().toString());
+			continueIntent.putExtra("stateNamePass", stateName.getText().toString());
+			continueIntent.putExtra("zipCodePass", zipCode.getText().toString());
+			startActivity(continueIntent);
 		}
 		catch (ActivityNotFoundException afne)
 		{
