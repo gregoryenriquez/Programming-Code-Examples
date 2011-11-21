@@ -3,6 +3,15 @@
 
     <string name="hello">Press to continue...</string>
         
+    <!--  dummy login name/pws -->
+    <string-array name="loginNames">
+        <item>batman@gmail.com</item>
+    </string-array>
+    
+    <string-array name="loginPasswords">
+        <item>robin</item>
+    </string-array>
+        
     <string name="app_name">ImpulseBuy</string>
 	<string name="scan">Scan</string>
     <string name="encode">Generate</string>

@@ -10,11 +10,13 @@
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_name" 
         android:theme="@android:style/Theme.NoTitleBar"
+        
         >
         <activity
             android:label="@string/app_name"
             android:name=".ShoppingAppActivity"
-
+			android:screenOrientation="portrait"
+			android:configChanges="orientation|keyboardHidden"
             >
             <intent-filter >
                 <action android:name="android.intent.action.MAIN" />
@@ -23,7 +25,9 @@
         </activity>
         <activity
            android:label = "@string/app_name"
-           android:name=".Search" >
+           android:name=".Search" 
+           android:screenOrientation="portrait"
+		   android:configChanges="orientation|keyboardHidden">
             <intent-filter>
                 	<action android:name="android.intent.action.VIEW"	/>
                 	<category android:name="android.intent.category.DEFAULT"	/>
@@ -32,98 +36,126 @@
         </activity>
        	<activity
        	    android:label = "@string/app_name"
-       	    android:name=".WelcomeScreen">
+       	    android:name=".WelcomeScreen"
+       	    android:screenOrientation="portrait"
+			android:configChanges="orientation|keyboardHidden">
        	    <intent-filter>
        	        	<action android:name="android.intent.action.VIEW"	/>
        	        	<category android:name="android.intent.category.DEFAULT"	/>
        	    </intent-filter>
        	</activity>
        	<activity
-       	    android:name=".LoggedIn">
+       	    android:name=".LoggedIn"
+       	    android:screenOrientation="portrait"
+			android:configChanges="orientation|keyboardHidden">
        	    <intent-filter>
        	        	<action android:name="android.intent.action.VIEW"	/>
        	        	<category android:name="android.intent.category.DEFAULT"	/>
        	    </intent-filter>
        	</activity>
        	<activity
-       	    android:name=".NewUser">
+       	    android:name=".NewUser"
+       	    android:screenOrientation="portrait"
+			android:configChanges="orientation|keyboardHidden">
        	    <intent-filter>
        	        	<action android:name="android.intent.action.VIEW"	/>
        	        	<category android:name="android.intent.category.DEFAULT"	/>
        	    </intent-filter>
        	</activity>
        	<activity
-       	    android:name=".NewUserContinue">
+       	    android:name=".NewUserContinue"
+       	    android:screenOrientation="portrait"
+			android:configChanges="orientation|keyboardHidden">
        	    <intent-filter>
        	        <action android:name="android.intent.action.VIEW"	/>
      	        <category android:name="android.intent.category.DEFAULT"	/>
        	    </intent-filter>
        	</activity>
       	<activity
-       	    android:name=".MyAccount">
+       	    android:name=".MyAccount"
+       	    android:screenOrientation="portrait"
+			android:configChanges="orientation|keyboardHidden">
        	    <intent-filter>
        	        <action android:name="android.intent.action.VIEW"	/>
      	        <category android:name="android.intent.category.DEFAULT"	/>
        	    </intent-filter>
        	</activity>
        	<activity
-       	    android:name=".MyPreferences">
+       	    android:name=".MyPreferences"
+       	    android:screenOrientation="portrait"
+			android:configChanges="orientation|keyboardHidden">
        	    <intent-filter>
        	        <action android:name="android.intent.action.VIEW"	/>
      	        <category android:name="android.intent.category.DEFAULT"	/>
        	    </intent-filter>
        	</activity>
        	<activity
-       	    android:name=".Update">
+       	    android:name=".Update"
+       	    android:screenOrientation="portrait"
+			android:configChanges="orientation|keyboardHidden">
        	    <intent-filter>
        	        <action android:name="android.intent.action.VIEW"	/>
      	        <category android:name="android.intent.category.DEFAULT"	/>
        	    </intent-filter>
        	</activity>
        	<activity
-       	    android:name=".Transactions">
+       	    android:name=".Transactions"
+       	    android:screenOrientation="portrait"
+			android:configChanges="orientation|keyboardHidden">
        	    <intent-filter>
        	        <action android:name="android.intent.action.VIEW"	/>
      	        <category android:name="android.intent.category.DEFAULT"	/>
        	    </intent-filter>
        	</activity>
        	<activity
-       	    android:name=".SavedItems">
+       	    android:name=".SavedItems"
+       	    android:screenOrientation="portrait"
+			android:configChanges="orientation|keyboardHidden">
        	    <intent-filter>
        	        <action android:name="android.intent.action.VIEW"	/>
      	        <category android:name="android.intent.category.DEFAULT"	/>
        	    </intent-filter>
        	</activity>
       	<activity
-       	    android:name=".Browse">
+       	    android:name=".Browse"
+       	    android:screenOrientation="portrait"
+			android:configChanges="orientation|keyboardHidden">
        	    <intent-filter>
        	        <action android:name="android.intent.action.VIEW"	/>
      	        <category android:name="android.intent.category.DEFAULT"	/>
        	    </intent-filter>
        	</activity>
        	<activity
-       	    android:name=".Buying">
+       	    android:name=".Buying"
+       	    android:screenOrientation="portrait"
+			android:configChanges="orientation|keyboardHidden">
        	    <intent-filter>
        	        <action android:name="android.intent.action.VIEW"	/>
      	        <category android:name="android.intent.category.DEFAULT"	/>
        	    </intent-filter>
        	</activity>
        	<activity
-       	    android:name=".ChoosePayment">
+       	    android:name=".ChoosePayment"
+       	    android:screenOrientation="portrait"
+			android:configChanges="orientation|keyboardHidden">
        	    <intent-filter>
        	        <action android:name="android.intent.action.VIEW"	/>
      	        <category android:name="android.intent.category.DEFAULT"	/>
        	    </intent-filter>
        	</activity>
        	<activity
-       	    android:name=".Confirmation">
+       	    android:name=".Confirmation"
+       	    android:screenOrientation="portrait"
+			android:configChanges="orientation|keyboardHidden">
        	    <intent-filter>
        	        <action android:name="android.intent.action.VIEW"	/>
      	        <category android:name="android.intent.category.DEFAULT"	/>
        	    </intent-filter>
        	</activity>
        	<activity
-       	    android:name=".LogIn">
+       	    android:name=".LogIn"
+       	    android:screenOrientation="portrait"
+			android:configChanges="orientation|keyboardHidden">
        	    <intent-filter>
        	        <action android:name="android.intent.action.VIEW"	/>
      	        <category android:name="android.intent.category.DEFAULT"	/>

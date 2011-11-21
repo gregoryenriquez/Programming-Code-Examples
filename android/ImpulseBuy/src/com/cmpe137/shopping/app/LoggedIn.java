@@ -11,6 +11,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ImageButton;
+import android.widget.TextView;
 import android.widget.Toast;
 
 public class LoggedIn extends Activity{
@@ -22,10 +23,18 @@ public class LoggedIn extends Activity{
 	private Button myAccount;
 	private Button savedItems;
 	private Button browse;
+	String currentuser;
+	private TextView useremail;
 	public void onCreate(Bundle savedInstanceState) {
 		    
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.loggedinscreen);
+		
+		Intent intent = getIntent();
+		currentuser = intent.getStringExtra("useremail");
+		
+		useremail = (TextView) findViewById(R.id.UserEmail);
+		useremail.setText("Logged in as: " + currentuser);
 		ImageButton speakButton = (ImageButton) findViewById(R.id.Speak);
 	        
 		speakButton.setOnClickListener(new View.OnClickListener()
@@ -121,6 +130,7 @@ public class LoggedIn extends Activity{
 		try
 		{
 			Intent search = new Intent(this, Search.class);
+			search.putExtra("searchInput", searchBox.getText());
 			startActivity(search);
 		}
 		catch (ActivityNotFoundException afne)

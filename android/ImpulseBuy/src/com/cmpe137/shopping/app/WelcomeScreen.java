@@ -14,10 +14,11 @@ import android.widget.ImageButton;
 import android.widget.Toast;
 
 public class WelcomeScreen extends Activity{
+	
 	private static final int RECOGNIZER_EXAMPLE = 1001;
 	private static final int QRSCANNER_EXAMPLE = 1003;
 	private EditText searchBox;
-	private Toast toaster;
+	private static Toast toaster;
 	private WelcomeScreen welcome = this;
 	public void onCreate(Bundle savedInstanceState) {
 			
@@ -27,6 +28,7 @@ public class WelcomeScreen extends Activity{
         
         speakButton.setOnClickListener(new View.OnClickListener()
         {
+        	
 			@Override
 			public void onClick(View v) {
 					// RecognizerIntent prompts for speech and returns text
@@ -91,14 +93,19 @@ public class WelcomeScreen extends Activity{
 			ArrayList<String> result = data.getStringArrayListExtra(RecognizerIntent.EXTRA_RESULTS);
 			if (!result.isEmpty())
 				searchBox.setText(result.get(0));
+			
 		}
 		else if (requestCode==QRSCANNER_EXAMPLE && resultCode==RESULT_OK)
 		{
 			//Read result from QR Droid (it's stored in la.droid.qr.result)
 			String result = data.getExtras().getString(Services.RESULT);
 			//toaster.makeText(welcome, result, Toast.LENGTH_LONG).show();
+			//toaster.makeText(welcome, "TEST", Toast.LENGTH_LONG).show();
 			if (result != null)
+			{
 				searchBox.setText(result);
+				
+			}
 		}
 		super.onActivityResult(requestCode, resultCode, data);
 	}
@@ -107,6 +114,8 @@ public class WelcomeScreen extends Activity{
 	{
 		try{
 			Intent search = new Intent(this, Search.class);
+			search.putExtra("searchInput", searchBox.getText());
+			toaster.makeText(welcome, "Sending \"" + searchBox.getText() + "\" to next Activity", Toast.LENGTH_LONG).show();
 			startActivity(search);
 		}
 		catch (ActivityNotFoundException afne)
@@ -129,8 +138,8 @@ public class WelcomeScreen extends Activity{
 	private void startNewUser()
     {
 		try {
-		Intent newuser = new Intent(this, NewUser.class);
-		startActivity(newuser);
+			Intent newuser = new Intent(this, NewUser.class);
+			startActivity(newuser);
 		}
 		catch (ActivityNotFoundException afne)
 		{
@@ -140,8 +149,8 @@ public class WelcomeScreen extends Activity{
 	private void startLogin()
 	{
 		try {
-		Intent login = new Intent(this, LogIn.class);
-		startActivity(login);
+			Intent login = new Intent(this, LogIn.class);
+			startActivity(login);
 		}
 		catch (ActivityNotFoundException afne)
 		{

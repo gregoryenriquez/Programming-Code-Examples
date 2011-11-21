@@ -12,6 +12,15 @@
         android:layout_centerHorizontal="true"
         android:src="@drawable/banner" />
 
+     <TextView 
+         android:id="@+id/MyAccount"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_below="@id/banner"
+         android:layout_centerHorizontal="true"
+         android:text="My Account"
+         />
+     
      <Button
          android:id="@+id/Update"
          android:layout_width="fill_parent"

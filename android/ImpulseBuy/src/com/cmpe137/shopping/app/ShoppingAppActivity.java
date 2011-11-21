@@ -11,6 +11,7 @@ import android.widget.Toast;
 
 
 public class ShoppingAppActivity extends Activity {
+	
 	Toast toaster;
     /** Called when the activity is first created. */
     @Override

@@ -52,14 +52,22 @@
 	    android:src="@android:drawable/ic_btn_speak_now" />
 	
 	</LinearLayout>
-	
-	<Button
+
+    <Button
 	    android:id="@+id/MyAccountButton"
 	    android:layout_width="fill_parent"
 	    android:layout_height="wrap_content"
 	    android:layout_centerInParent="true"
 	    android:text="My Account" />
-	
+	    
+	<TextView
+	    android:id="@+id/UserEmail"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_above="@+id/MyAccountButton"
+	    android:layout_centerHorizontal="true"
+	   	/>
+	    
 	<Button
 	    android:id="@+id/SavedItems"
 	    android:layout_width="fill_parent"
