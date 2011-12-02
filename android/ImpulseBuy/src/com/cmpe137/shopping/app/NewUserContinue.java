@@ -66,6 +66,7 @@ public class NewUserContinue extends Activity{
 		
 		try {
 			Intent register = new Intent(this, LoggedIn.class);
+			register.putExtra("useremail", personEmail.getText().toString());
 			startActivity(register);
 		}
 		catch (ActivityNotFoundException afne)

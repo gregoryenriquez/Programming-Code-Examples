@@ -5,16 +5,19 @@ import java.util.ArrayList;
 import android.app.Activity;
 import android.content.ActivityNotFoundException;
 import android.content.Intent;
+import android.database.Cursor;
+import android.database.sqlite.SQLiteDatabase;
 import android.os.Bundle;
 import android.speech.RecognizerIntent;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ImageButton;
+import android.widget.ListAdapter;
 import android.widget.Toast;
 
 public class WelcomeScreen extends Activity{
-	
+    private SQLiteDatabase db;
 	private static final int RECOGNIZER_EXAMPLE = 1001;
 	private static final int QRSCANNER_EXAMPLE = 1003;
 	private EditText searchBox;
@@ -25,7 +28,7 @@ public class WelcomeScreen extends Activity{
         super.onCreate(savedInstanceState);
         setContentView(R.layout.welcome);
         ImageButton speakButton = (ImageButton) findViewById(R.id.Speak);
-        
+        db = (new DatabaseHelper(this)).getWritableDatabase();
         speakButton.setOnClickListener(new View.OnClickListener()
         {
         	
@@ -114,7 +117,7 @@ public class WelcomeScreen extends Activity{
 	{
 		try{
 			Intent search = new Intent(this, Search.class);
-			search.putExtra("searchInput", searchBox.getText());
+			search.putExtra("searchInput", searchBox.getText().toString());
 			toaster.makeText(welcome, "Sending \"" + searchBox.getText() + "\" to next Activity", Toast.LENGTH_LONG).show();
 			startActivity(search);
 		}
