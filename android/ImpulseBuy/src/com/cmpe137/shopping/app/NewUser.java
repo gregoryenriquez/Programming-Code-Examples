@@ -14,10 +14,11 @@ import android.widget.Toast;
 public class NewUser extends Activity{
 	EditText streetName;
 	EditText personName;
-	EditText cityName;
 	EditText zipCode;
+	EditText cityName;
+	AutoCompleteTextView state;
 	Button continueButton;
-	AutoCompleteTextView stateName;
+	
 	Toast toaster;
 	public void onCreate(Bundle savedInstanceState) {
 		    
@@ -30,6 +31,8 @@ public class NewUser extends Activity{
 					streetName.requestFocus();
 				}
 			});
+	        zipCode = (EditText) findViewById(R.id.ZipCode);
+	        cityName = (EditText) findViewById(R.id.CityName);
 	        personName = (EditText) findViewById(R.id.PersonName);
 	        personName.setOnClickListener(new View.OnClickListener()
 	        {
@@ -40,18 +43,13 @@ public class NewUser extends Activity{
 				}
 			});
 	        
-	        cityName = (EditText) findViewById(R.id.CityName);
-	        zipCode = (EditText) findViewById(R.id.ZipCode);
-	        
-	        stateName = (AutoCompleteTextView) findViewById(R.id.State);
+	        state = (AutoCompleteTextView) findViewById(R.id.State);
 	        initState();
 	        
-	        stateName.setOnClickListener(new View.OnClickListener() 
+	        state.setOnClickListener(new View.OnClickListener() 
 	        {	
 				@Override
 				public void onClick(View v) {
-					
-					
 				}
 			});
 	
@@ -69,47 +67,34 @@ public class NewUser extends Activity{
 	{
 		 ArrayAdapter<String> adapter = 
 	        	new ArrayAdapter<String>(this, R.layout.list_item, STATES);
-	        stateName.setAdapter(adapter);
-	        stateName.setThreshold(1);
+	        state.setAdapter(adapter);
+	        state.setThreshold(1);
 	}
 	
 	protected void startContinue()
 	{
-		if (personName.getText().toString().equals("")) 
-		{
-			toaster.makeText(this, "Enter your name", Toast.LENGTH_SHORT).show();
-			return;
-		}
-
-		else if (streetName.getText().toString().equals(""))
-		{
-			toaster.makeText(this, "Enter a street name", Toast.LENGTH_SHORT).show();
-			return;
-		}
-		else if (cityName.getText().toString().equals(""))
-		{
-			toaster.makeText(this, "Enter a city", Toast.LENGTH_SHORT).show();
-			return;
-		}
-		else if (stateName.getText().toString().equals("")) 
-		{
-			toaster.makeText(this, "Enter a state", Toast.LENGTH_SHORT).show();
-			return;
-		}
-		else if (zipCode.getText().toString().equals(""))
-		{
-			toaster.makeText(this, "Enter a zip code", Toast.LENGTH_SHORT).show();
-			return;
-		}
-		
 		try {
-			Intent continueIntent = new Intent(this, NewUserContinue.class);
-			continueIntent.putExtra("personNamePass", personName.getText().toString());
-			continueIntent.putExtra("streetNamePass", streetName.getText().toString());
-			continueIntent.putExtra("cityNamePass", cityName.getText().toString());
-			continueIntent.putExtra("stateNamePass", stateName.getText().toString());
-			continueIntent.putExtra("zipCodePass", zipCode.getText().toString());
+		Intent continueIntent = new Intent(this, NewUserContinue.class);
+		/*EditText streetName;
+		EditText personName;
+		EditText zipCode;
+		EditText cityName;
+		AutoCompleteTextView state;*/
+		boolean check = true;
+		if (personName.getText().toString().equals("")) check = false;
+		continueIntent.putExtra("name", personName.getText().toString());
+		if (streetName.getText().toString().equals("")) check = false;
+		continueIntent.putExtra("streetname",  streetName.getText().toString());
+		if (cityName.getText().toString().equals("")) check = false;
+		continueIntent.putExtra("cityname", cityName.getText().toString());
+		if (state.getText().toString().equals("")) check = false;
+		continueIntent.putExtra("statename", state.getText().toString());
+		if (zipCode.getText().toString().equals("")) check = false;
+		continueIntent.putExtra("zipcode", zipCode.getText().toString());
+		if (check)
 			startActivity(continueIntent);
+		else
+			toaster.makeText(this, "Invalid entries", Toast.LENGTH_SHORT).show();
 		}
 		catch (ActivityNotFoundException afne)
 		{

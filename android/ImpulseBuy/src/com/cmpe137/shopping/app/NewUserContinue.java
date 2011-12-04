@@ -3,6 +3,9 @@ package com.cmpe137.shopping.app;
 import android.app.Activity;
 import android.content.ActivityNotFoundException;
 import android.content.Intent;
+import android.database.SQLException;
+import android.database.sqlite.SQLiteDatabase;
+import android.database.sqlite.SQLiteOpenHelper;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
@@ -11,29 +14,27 @@ import android.widget.Toast;
 
 public class NewUserContinue extends Activity{
 	private Button register;
+	private String name, streetname, cityname, statename, zipcode;
+	EditText email, password;
+	SQLiteDatabase db;
 	Toast toaster;
-	String personName;
-	String streetName;
-	String cityName;
-	String stateName;
-	String zipCode;
-	EditText personEmail;
-	EditText personPassword;
-	
 	public void onCreate(Bundle savedInstanceState) {
 	    
         super.onCreate(savedInstanceState);
         setContentView(R.layout.newusercont);
         
-        Intent getData = getIntent();
-        personName = getData.getStringExtra("personNamePass");
-        streetName = getData.getStringExtra("streetNamePass");
-        cityName = getData.getStringExtra("cityNamePass");
-        stateName = getData.getStringExtra("stateNamePass");
-        zipCode = getData.getStringExtra("zipCodePass");
+        Intent prevIntent = getIntent();
         
-        personEmail = (EditText) findViewById(R.id.PersonEmail);
-        personPassword = (EditText) findViewById(R.id.PersonPassword);
+        DatabaseHelper dbhelper = new DatabaseHelper(this);
+        db = dbhelper.getWritableDatabase();
+        
+        name = prevIntent.getStringExtra("name");
+        streetname = prevIntent.getStringExtra("streetname");
+        cityname = prevIntent.getStringExtra("cityname");
+        statename = prevIntent.getStringExtra("statename");
+        zipcode = prevIntent.getStringExtra("zipcode");
+        email = (EditText) findViewById(R.id.PersonEmail);
+        password = (EditText) findViewById(R.id.PersonPassword);
         
         register = (Button)findViewById(R.id.Register);
         register.setOnClickListener(new View.OnClickListener() 
@@ -46,33 +47,44 @@ public class NewUserContinue extends Activity{
 	}
 	private void startRegister()
 	{
-		// check credentials, blah blah
+		// enter user data into database
+		boolean check = true;
+		if (email.getText().toString().equals("")) check = false;
+		if (password.getText().toString().equals("")) check = false;
 		
-		
-		if (personEmail.getText().toString().equals(""))
-		{
-			toaster.makeText(this, "Enter an email", Toast.LENGTH_SHORT).show();
-			return;
+		if (check)
+		{	boolean dbcheck = true;
+			// db name = item_directory
+			String dbstring = "INSERT INTO customers VALUES('";
+			dbstring += email.getText().toString() + "', '";
+			dbstring += password.getText().toString() + "', '";
+			dbstring += name + "', '";
+			dbstring += streetname + "', '";
+			dbstring += cityname + "', '";
+			dbstring += statename + "', '";
+			dbstring += zipcode + "')";
+			
+			try {
+				db.execSQL(dbstring);
+			}
+			catch (SQLException e)
+			{
+				dbcheck = false;
+				toaster.makeText(this, "Invalid: " + dbstring, Toast.LENGTH_SHORT);
+			}
+			try {
+				
+				if (dbcheck)
+				{
+					toaster.makeText(this, password.getText().toString(), Toast.LENGTH_SHORT).show();
+					Intent register = new Intent(this, LoggedIn.class);
+					startActivity(register);
+				}
+			}
+			catch (ActivityNotFoundException afne)
+			{
+				toaster.makeText(this, "Activity not found!", Toast.LENGTH_SHORT).show();
+			}
 		}
-		else if (personPassword.getText().toString().equals(""))
-		{
-			toaster.makeText(this, "Enter a password", Toast.LENGTH_SHORT).show();
-			return;
-		}	
-		
-		/**
-		 * Reserved space to save person registration to database
-		 */
-		
-		try {
-			Intent register = new Intent(this, LoggedIn.class);
-			register.putExtra("useremail", personEmail.getText().toString());
-			startActivity(register);
-		}
-		catch (ActivityNotFoundException afne)
-		{
-			toaster.makeText(this, "Activity not found!", Toast.LENGTH_SHORT).show();
-		}
-		
 	}
 }

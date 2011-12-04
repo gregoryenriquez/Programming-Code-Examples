@@ -2,7 +2,7 @@
 <resources>
 
     <string name="hello">Press to continue...</string>
-        
+    <string name="dbname">item_directory</string>
     <!--  dummy login name/pws -->
     <string-array name="loginNames">
         <item>batman@gmail.com</item>
@@ -39,4 +39,5 @@
 	<string name="qrDroid">Get QR Droid</string>
 	<string name="source">Get demo docs</string>
 	<string name="close">Close</string>
+	<string name="imagename">blank</string>
 </resources>

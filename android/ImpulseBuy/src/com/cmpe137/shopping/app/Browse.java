@@ -51,6 +51,8 @@ public class Browse extends Activity
                     startSimilar();
                  }
               });
+      
+
 	}
 	
 	
@@ -84,7 +86,7 @@ public class Browse extends Activity
 	{
 	   try
 	   {
-	      Intent similar = new Intent(this, SearchAll.class);
+	      Intent similar = new Intent(this, SearchSimilar.class);
 	      startActivity(similar);
 	   }
 	   catch (ActivityNotFoundException anfe)

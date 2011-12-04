@@ -5,6 +5,8 @@ import java.util.ArrayList;
 import android.app.Activity;
 import android.content.ActivityNotFoundException;
 import android.content.Intent;
+import android.database.Cursor;
+import android.database.sqlite.SQLiteDatabase;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
@@ -21,12 +23,17 @@ public class LogIn extends Activity{
 	String[] passwords;
 	EditText email;
 	EditText password;
+	Cursor cursor;
+	SQLiteDatabase db;
 	String currentuser = "";
 	public void onCreate(Bundle savedInstanceState) {
 		usernames = getResources().getStringArray(R.array.loginNames);
 		passwords = getResources().getStringArray(R.array.loginPasswords);
         super.onCreate(savedInstanceState);
         setContentView(R.layout.login);
+        
+        DatabaseHelper dbhelper = new DatabaseHelper(this);
+        db = dbhelper.getWritableDatabase();
         
         logIn = (Button) findViewById(R.id.ButtonLogIn);
         logIn.setOnClickListener(new View.OnClickListener() 
@@ -41,30 +48,49 @@ public class LogIn extends Activity{
         {	
 			@Override
 			public void onClick(View v) {
-				startForgotPassword();
+				toaster.makeText(loginscreen, "...jump to pw recovery", Toast.LENGTH_LONG).show();
 			}
 		});
         email = (EditText)findViewById(R.id.Email);
         password = (EditText) findViewById(R.id.Password);
        
 	}
-	
-	public void startForgotPassword()
-	{
-		try
-		{
-			Intent forgotpw = new Intent(this, ForgotPassword.class);
-			forgotpw.putExtra("email", email.getText().toString());
-			startActivity(forgotpw);
-		}
-		catch (ActivityNotFoundException afne)
-		{
-			toaster.makeText(this, "Activity not found!", Toast.LENGTH_SHORT).show();
-		}
-	}
-	
 	public void startLogin()
     {
+		String querybuilder = email.getText().toString();
+		cursor = db.query("customers", new String[]{"email", "password"}, 
+					"email=?", new String[] {querybuilder}, null, null, null);
+		boolean check = false;
+		
+		if (cursor.getCount() > 0)
+		{
+			cursor.moveToFirst();
+			//int passwordIndex = cursor.getColumnIndex("password");
+			//toaster.makeText(this, "index: " + passwordIndex, Toast.LENGTH_LONG).show();
+			String tempPw = cursor.getString(1);
+			//toaster.makeText(this, "pw found: " + tempPw, Toast.LENGTH_LONG).show();
+			
+			if (password.getText().toString().equals(tempPw))
+				check = true;
+		}
+		
+		if (check)
+			{
+			try {
+		    	Intent logIn = new Intent(this, LoggedIn.class);
+		    	logIn.putExtra("useremail", querybuilder);
+		    	startActivity(logIn);
+			}
+			catch (ActivityNotFoundException afne)
+			{
+				toaster.makeText(this, "Activity not found!", Toast.LENGTH_SHORT).show();
+			}
+		}
+		else
+		{
+			toaster.makeText(this, "Invalid pw", Toast.LENGTH_LONG).show();
+		}
+		/*
 		int index = -1;
 		for (int i = 0; i < usernames.length; i++)
 		{
@@ -88,15 +114,8 @@ public class LogIn extends Activity{
 			toaster.makeText(loginscreen, "Invalid Email/Password!", Toast.LENGTH_LONG).show();
 			return;
 		}
-		try {
-	    	Intent logIn = new Intent(this, LoggedIn.class);
-	    	logIn.putExtra("useremail", currentuser);
-	    	startActivity(logIn);
-		}
-		catch (ActivityNotFoundException afne)
-		{
-			toaster.makeText(this, "Activity not found!", Toast.LENGTH_SHORT).show();
-		}
+		*/
+		
     }
 	
 }

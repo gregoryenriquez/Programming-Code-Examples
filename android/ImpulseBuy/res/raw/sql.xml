@@ -1,30 +1,52 @@
 <sql>
 <statement>
-CREATE TABLE IF NOT EXISTS employee (
-	_id INTEGER PRIMARY KEY AUTOINCREMENT, 
-	firstName VARCHAR(50), 
-	lastName VARCHAR(50), 
-	title VARCHAR(50), 
-	department VARCHAR(50), 
-	managerId INTEGER, 
-	city VARCHAR(50), 
-	officePhone VARCHAR(30), 
-	cellPhone VARCHAR(30), 
-	email VARCHAR(30), 
-	picture VARCHAR(200))
+CREATE TABLE IF NOT EXISTS customers (
+	email 		VARCHAR(40) PRIMARY KEY,
+	password	VARCHAR(50),
+	name 		VARCHAR(40),
+	streetname	VARCHAR(30),
+	cityname	VARCHAR(30),
+	statename	VARCHAR(2),
+	zipcode		VARCHAR(10))
 </statement>
-<statement>INSERT INTO employee VALUES(1,'Ryan','Howard','Vice President, North East', 'Management', NULL, 'Scranton','570-999-8888','570-999-8887','ryan@dundermifflin.com','howard.jpg')</statement>
-<statement>INSERT INTO employee VALUES(2,'Michael','Scott','Regional Manager','Management',1,'Scranton','570-888-9999','570-222-3333','michael@dundermifflin.com','scott.jpg')</statement>
-<statement>INSERT INTO employee VALUES(3,'Dwight','Schrute','Assistant Regional Manager','Management',2,'Scranton','570-444-4444','570-333-3333','dwight@dundermifflin.com','schrute.jpg')</statement>
-<statement>INSERT INTO employee VALUES(4,'Jim','Halpert','Assistant Regional Manager','Manage',2,'Scranton','570-222-2121','570-999-1212','jim@dundermifflin.com','halpert.jpg')</statement>
-<statement>INSERT INTO employee VALUES(5,'Pamela','Beesly','Receptionist','',2,'Scranton','570-999-5555','570-999-7474','pam@dundermifflin.com','beesly.jpg')</statement>
-<statement>INSERT INTO employee VALUES(6,'Angela','Martin','Senior Accountant','Accounting',2,'Scranton','570-555-9696','570-999-3232','angela@dundermifflin.com','martin.jpg')</statement>
-<statement>INSERT INTO employee VALUES(7,'Kevin','Malone','Accountant','Accounting',6,'Scranton','570-777-9696','570-111-2525','kmalone@dundermifflin.com','malone.jpg')</statement>
-<statement>INSERT INTO employee VALUES(8,'Oscar','Martinez','Accountant','Accounting',6,'Scranton','570-321-9999','570-585-3333','oscar@dundermifflin.com','martinez.jpg')</statement>
-<statement>INSERT INTO employee VALUES(9,'Creed','Bratton','Quality Assurance','Customer Services',2,'Scranton','570-222-6666','333-8585','creed@dundermifflin.com','bratton.jpg')</statement>
-<statement>INSERT INTO employee VALUES(10,'Andy','Bernard','Sales Director','Sales',2,'Scranton','570-555-0000','570-546-9999','andy@dundermifflin.com','bernard.jpg')</statement>
-<statement>INSERT INTO employee VALUES(11,'Phyllis','Lapin','Sales Representative','Sales',10,'Scranton','570-141-3333','570-888-6666','phyllis@dundermifflin.com','lapin.jpg')</statement>
-<statement>INSERT INTO employee VALUES(12,'Stanley','Hudson','Sales Representative','Sales',10,'Scranton','570-700-6666','570-777-6666','shudson@dundermifflin.com','hudson.jpg')</statement>
-<statement>INSERT INTO employee VALUES(13,'Meredith','Palmer','Supplier Relations','Customer Services',2,'Scranton','570-555-8888','570-777-2222','meredith@dundermifflin.com','palmer.jpg')</statement>
-<statement>INSERT INTO employee VALUES(14,'Kelly','Kapoor','Customer Service Rep.','Customer Services',2,'Scranton','570-123-9654','570-125-3666','kelly@dundermifflin.com','kapoor.jpg')</statement>
+<statement>
+CREATE TABLE IF NOT EXISTS transactions (
+	transactionid	VARCHAR(50) PRIMARY KEY,
+	itemname		VARCHAR(40),
+	date			VARCHAR(20),
+	totalamount		VARCHAR(40))
+</statement>
+<statement>
+CREATE TABLE IF NOT EXISTS items (
+	_id INTEGER PRIMARY KEY, 
+	itemTitle VARCHAR(100), 
+	itemCompany VARCHAR(50), 
+	itemPrice VARCHAR(650), 
+	itemIcon VARCHAR(50))
+</statement>
+<statement>INSERT INTO items VALUES(1, 'Starcraft II: Wings of Liberty', 'Blizzard Entertainment', '$54.96', 'sc2')</statement>
+<statement>INSERT INTO items VALUES(2, 'Batman Arkham City (PlayStation 3)', 'Warner Bros', '$49.96', 'BatmanArkhamCity_PS3')</statement>
+<statement>INSERT INTO items VALUES(3, 'Batman Arkham City (Xbox 360)', 'Warner Bros', '$49.99', 'BatmanArkhamCity_Xbox360')</statement>
+<statement>INSERT INTO items VALUES(4, 'Batman Arkham City (PC)', 'Warner Bros', '$39.99', 'BatmanArkhamCity_PC')</statement>
+<statement>INSERT INTO items VALUES(5, 'Portal 2 (PlayStation 3)', 'Valve', '$55.75', 'Portal2_PS3')</statement>
+<statement>INSERT INTO items VALUES(6, 'Portal 2 (Xbox 360)', 'Valve', '$56.95', 'Portal2_Xbox360')</statement>
+<statement>INSERT INTO items VALUES(7, 'Portal 2 (PC)', 'Valve', '$39.95', 'Portal2_PC')</statement>
+<statement>INSERT INTO items VALUES(8, 'Amnesia: The Dark Descent', 'ValuSoft', '$19.96', 'Amnesia_TheDarkDescent_PC')</statement>
+<statement>INSERT INTO items VALUES(9, 'Call of Duty: Modern Warfare 3 (Nintendo Wii)', 'ACTIVISION', '$49.99', 'CallOfDuty_ModernWarfare_III_Wii')</statement>
+<statement>INSERT INTO items VALUES(10, 'Call of Duty: Modern Warfare 3 (PlayStation 3)', 'ACTIVISION', '$51.99', 'CallOfDuty_ModernWarfare_III_PS3')</statement>
+<statement>INSERT INTO items VALUES(11, 'Call of Duty: Modern Warfare 3 (Xbox 360)', 'ACTIVISION', '$51.99', 'CallOfDuty_ModernWarfare_III_Xbox360')</statement>
+<statement>INSERT INTO items VALUES(12, 'Call of Duty: Modern Warfare 3 (Nintendo DS)', 'ACTIVISION', '$29.99', CallOfDuty_ModernWarfare_III_NDS')</statement>
+<statement>INSERT INTO items VALUES(13, 'Call of Duty: Modern Warfare 3 (PC)', 'ACTIVISION', $57.99', 'CallOfDuty_ModernWarfare_III_PC')</statement>
+
+
+
+<statement>
+CREATE TABLE IF NOT EXISTS saveditems	(
+	item			VARCHAR(40) PRIMARY KEY,
+	manufacturer 	VARCHAR(40),
+	price			VARCHAR(10)
+
+	)
+</statement>
+
 </sql>

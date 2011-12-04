@@ -32,6 +32,7 @@ public class ShoppingAppActivity extends Activity {
     	try {
 	    	Intent search = new Intent(this, WelcomeScreen.class);
 			startActivity(search);
+
     	}
     	catch (ActivityNotFoundException afne)
 		{

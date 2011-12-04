@@ -1,10 +1,8 @@
 package com.cmpe137.shopping.app;
 
 import android.app.Activity;
+import android.database.sqlite.SQLiteDatabase;
 import android.os.Bundle;
-import android.view.MotionEvent;
-import android.view.View;
-import android.view.View.OnTouchListener;
 
 public class SearchActivity extends Activity {
 	@Override
@@ -12,7 +10,9 @@ public class SearchActivity extends Activity {
     
         super.onCreate(savedInstanceState);
         setContentView(R.layout.search);
-                
+        DatabaseHelper dbhelper = new DatabaseHelper(this);
+        SQLiteDatabase db = dbhelper.getWritableDatabase();
+        dbhelper.onCreate(db);
     }
     
 	

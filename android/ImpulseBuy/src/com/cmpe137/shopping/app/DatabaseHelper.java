@@ -14,7 +14,7 @@ import android.widget.Toast;
 
 public class DatabaseHelper extends SQLiteOpenHelper
 {
-   public static final String DATABASE_NAME = "employee_directory2";
+   public static final String DATABASE_NAME = "item_directory";
    
    protected Context context;
    
