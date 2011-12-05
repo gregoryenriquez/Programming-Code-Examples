@@ -130,7 +130,7 @@ public class LoggedIn extends Activity{
 		try
 		{
 			Intent search = new Intent(this, Search.class);
-			search.putExtra("searchInput", searchBox.getText());
+			search.putExtra("searchInput", searchBox.getText().toString());
 			startActivity(search);
 		}
 		catch (ActivityNotFoundException afne)
