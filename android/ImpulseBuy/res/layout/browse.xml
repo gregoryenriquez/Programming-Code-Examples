@@ -20,28 +20,20 @@
         android:layout_below="@+id/banner"
         android:text="Browse" />
 
-	<!-- <Button
-        android:id="@+id/Nearby"
+	<Button
+        android:id="@+id/all"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentLeft="true"
         android:layout_centerInParent="true"
-        android:text="By Nearby Stores" />
+        android:text="All" />
 
 	<Button
-        android:id="@+id/Type"
+        android:id="@+id/company"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentLeft="true"
-        android:layout_below="@+id/Nearby"
-        android:text="By Item Type" />
-    
-    <Button
-        android:id="@+id/Similar"
-        android:layout_width="fill_parent"
-        android:layout_height="wrap_content"
-        android:layout_alignParentLeft="true"
-        android:layout_below="@+id/Type"
-        android:text="By Similar Items" /> -->
+        android:layout_below="@+id/all"
+        android:text="By Company" />
 
 </RelativeLayout>

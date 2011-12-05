@@ -11,9 +11,8 @@ import android.content.ActivityNotFoundException;
 
 public class Browse extends Activity
 {
-   Button nearby;
-   Button type;
-   Button similar;
+   Button allButton;
+   Button company;
    Toast toaster;
    
 	public void onCreate(Bundle savedInstanceState) 
@@ -21,77 +20,53 @@ public class Browse extends Activity
         super.onCreate(savedInstanceState);
         setContentView(R.layout.browse);
         
-        /*nearby = (Button) findViewById(R.id.Nearby);
-        nearby.setOnClickListener(new View.OnClickListener()
-        {
+        allButton = (Button) findViewById(R.id.all);
+        allButton.setOnClickListener(new View.OnClickListener()
+      {
          
          @Override
          public void onClick(View v)
          {
-            startNearby();
+            startAll();
             
          }
-      	});*/
+      });
         
-       // type = (Button) findViewById(R.id.Type);
-        /*type.setOnClickListener(new View.OnClickListener()
+        company = (Button) findViewById(R.id.company);
+        company.setOnClickListener(new View.OnClickListener()
         {
            public void onClick(View v)
            {
-              startTypes();
+              startCompany();
            }
         });
-        
-        
-        similar = (Button) findViewById(R.id.Similar);
-        similar.setOnClickListener(new View.OnClickListener()
-              {
-                 public void onClick(View v)
-                 {
-                    startSimilar();
-                 }
-              });*/
-      
 
 	}
+	protected void startAll()
+    {
+       try
+       {
+          Intent all = new Intent(this, SearchAll.class);
+          startActivity(all);
+       }
+       catch (ActivityNotFoundException anfe)
+       {
+          toaster.makeText(this, "Nearby activity not found!", Toast.LENGTH_SHORT).show();
+       }
+    }
+    
+    protected void startCompany()
+    {
+       try
+       {
+          Intent company = new Intent(this, SearchCompany.class);
+          startActivity(company);
+       }
+       catch (ActivityNotFoundException anfe)
+       {
+          toaster.makeText(this, "Types activity not found!", Toast.LENGTH_SHORT).show();
+       }
+    }
 	
 	
-	/*protected void startNearby()
-	{
-	   try
-	   {
-	      Intent nearby = new Intent(this, SearchNearby.class);
-	      startActivity(nearby);
-	   }
-	   catch (ActivityNotFoundException anfe)
-	   {
-	      toaster.makeText(this, "Nearby activity not found!", Toast.LENGTH_SHORT).show();
-	   }
-	}*/
-	
-	/*protected void startTypes()
-	{
-	   try
-	   {
-	      Intent type = new Intent(this, SearchType.class);
-	      startActivity(type);
-	   }
-	   catch (ActivityNotFoundException anfe)
-	   {
-	      toaster.makeText(this, "Types activity not found!", Toast.LENGTH_SHORT).show();
-	   }
-	}*/
-	
-	/*protected void startSimilar()
-	{
-	   try
-	   {
-	      Intent similar = new Intent(this, SearchSimilar.class);
-	      startActivity(similar);
-	   }
-	   catch (ActivityNotFoundException anfe)
-	   {
-	      toaster.makeText(this, "Similar activity not found!", Toast.LENGTH_SHORT).show();
-	   }
-	}*/
 }

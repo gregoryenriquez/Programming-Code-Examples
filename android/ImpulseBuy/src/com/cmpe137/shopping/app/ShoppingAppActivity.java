@@ -21,7 +21,7 @@ public class ShoppingAppActivity extends Activity {
         setContentView(R.layout.main);
         DatabaseHelper dbhelper = new DatabaseHelper(this);
         db = dbhelper.getWritableDatabase();
-        db.execSQL("DROP TABLE transactions");
+        db.execSQL("DROP TABLE saveditems");
         dbhelper.onCreate(db);
         //db.close();
     }

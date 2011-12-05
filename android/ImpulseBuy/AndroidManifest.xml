@@ -211,6 +211,24 @@
                 <action android:name="android.intent.action.VIEW" />
             </intent-filter>
         </activity>
+		<activity android:name=".SearchAll">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+            </intent-filter>
+            </activity>
+            
+            <activity android:name=".SearchCompany">
+                <intent-filter>
+                    <action android:name="android.intent.action.VIEW" />
+                    <category android:name="android.intent.category.DEFAULT" />
+                </intent-filter>
+                </activity>
+ 		<activity android:name=".ItemsByCompany">
+                <intent-filter>
+                    <action android:name="android.intent.action.VIEW" />
+                    <category android:name="android.intent.category.DEFAULT" />
+                </intent-filter>
+                </activity>
         <!-- <activity android:name=".SearchNearby">
             <intent-filter>
                 <action android:name="android.intent.action.VIEW" />

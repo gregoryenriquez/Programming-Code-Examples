@@ -1,5 +1,12 @@
 <sql>
 <statement>
+CREATE TABLE IF NOT EXISTS saveditems (
+	_id				INTEGER PRIMARY KEY AUTOINCREMENT,
+	item			VARCHAR(40),
+	manufacturer 	VARCHAR(40),
+	price			VARCHAR(10))
+</statement>
+<statement>
 CREATE TABLE IF NOT EXISTS customers (
 	email 		VARCHAR(40) PRIMARY KEY,
 	password	VARCHAR(50),

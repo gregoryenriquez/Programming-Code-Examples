@@ -12,12 +12,26 @@
         android:layout_centerHorizontal="true"
         android:src="@drawable/banner" />
     
-    <TextView
+    <EditText
+        android:id="@+id/email"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/banner"
+        android:hint="Enter your Email Address" />
+    
+    <CheckBox
+        android:id="@+id/emailChkBox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/email"
+        android:text="Same as Account" />
+            
+   	<TextView
         android:id="@+id/paywith"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-		android:layout_centerInParent="true"
-        android:layout_below="@+id/banner"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/emailChkBox"
         android:text="Pay With" />
 
     <ImageView

@@ -14,39 +14,36 @@
 	
 	<TextView 
 	    android:id="@+id/itemInfo"
-	    android:layout_width="wrap_content"
+	    android:layout_width="fill_parent"
 	    android:layout_height="wrap_content"
 	    android:layout_below="@id/banner"
-	    android:layout_centerHorizontal="true"
 	    android:text="Item Info"
-	    android:textSize="20dp"	/>
+	    android:textSize="16dp"	/>
 	
 	<TextView
 	    android:id="@+id/itemTitle"
 	    android:layout_width="wrap_content"
 	    android:layout_height="wrap_content"
-	    android:layout_centerHorizontal="true"
 	    android:layout_below="@id/itemInfo" />
 	    
 	<TextView
 	    android:id="@+id/itemCompany"
 	    android:layout_width="wrap_content"
 	    android:layout_height="wrap_content"
-	    android:layout_centerHorizontal="true"
 	    android:layout_below="@id/itemTitle" />
 	    
 	<TextView
 	    android:id="@+id/itemPrice"
 	    android:layout_width="wrap_content"
 	    android:layout_height="wrap_content"
-	    android:layout_centerHorizontal="true"
-	    android:layout_below="@id/itemCompany" />	    	    
-		
+	    android:layout_below="@id/itemCompany" />	    	
+	
 	<TextView 
-	    android:id="@+id/title"
-	    android:layout_width="wrap_content"
+	    android:id="@+id/shippingInfo"
+	    android:layout_width="fill_parent"
 	    android:layout_height="wrap_content"
 	    android:layout_below="@id/itemPrice"
+	    android:layout_marginTop="20dp"
 	    android:text="Shipping Info"
 	    android:textSize="16dp"	/>	
 	
@@ -54,12 +51,12 @@
 	    android:id="@+id/personName"
 	    android:layout_width="fill_parent"
 	    android:layout_height="wrap_content"
-	    android:layout_below="@id/title"
+	    android:layout_below="@id/shippingInfo"
 	    android:layout_alignParentLeft="true"
 	    android:hint="Enter your name" />	
 	
 	<EditText
-	    android:id="@+id/StreetName"
+	    android:id="@+id/streetName"
 	    android:layout_width="fill_parent"
 	    android:layout_height="wrap_content"
 	    android:layout_below="@id/personName"
@@ -70,7 +67,7 @@
 	    android:id="@+id/linearAddress"
 	    android:layout_width="fill_parent"
 	    android:layout_height="wrap_content"
-	    android:layout_below="@id/StreetName"
+	    android:layout_below="@id/streetName"
 	    android:weightSum="1.0" >
 		
 	    <EditText
@@ -100,13 +97,5 @@
 	    android:layout_below="@id/linearAddress"
 	    android:layout_centerHorizontal="true"
 	    android:text="Continue" />
-
-	<CheckBox
-	    android:id="@+id/checkBox1"
-	    android:layout_width="wrap_content"
-	    android:layout_height="wrap_content"
-	    android:layout_below="@id/shippingContinue"
-	    android:layout_marginBottom="26dp"
-	    android:text="Use account address?" />
 	    
 </RelativeLayout>

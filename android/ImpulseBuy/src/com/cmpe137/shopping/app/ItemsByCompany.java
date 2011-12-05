@@ -12,38 +12,42 @@ import android.widget.Button;
 import android.widget.ListAdapter;
 import android.widget.SimpleCursorAdapter;
 import android.widget.Toast;
-
-public class SearchAll extends ListActivity
+public class ItemsByCompany extends ListActivity
 {
+   String companySelected;
    private SQLiteDatabase db;
    private Cursor cursor;
    private ListAdapter adapter;
    private Toast toaster;
    
-   public void onCreate(Bundle savedInstanceState) 
+   public void onCreate(Bundle savedInstanceState)
    {
-      
       super.onCreate(savedInstanceState);
-      setContentView(R.layout.searchall);
+      setContentView(R.layout.itemsbycompany);
       
+      Intent itemIntent = getIntent();
+      companySelected = itemIntent.getStringExtra("companySelected");
+            
       db = (new DatabaseHelper(this)).getWritableDatabase();
-      searchAll();
+      searchItems();
    }
    
-   public void searchAll()
+   public void searchItems()
    {
-      cursor = db.rawQuery("SELECT * FROM items", null);
+      cursor = db.rawQuery("SELECT _id, itemTitle, itemPrice from items where itemCompany LIKE ?", new String[]{"%" + companySelected + "%"});
       cursor.moveToFirst();
       
       adapter = new SimpleCursorAdapter(
             this,
-            R.layout.allresults,
+            R.layout.itemsbycompanyresults,
             cursor,
-            new String[] {"itemTitle", "itemCompany", "itemPrice"},
-            new int[] {R.id.itemTitle, R.id.itemCompany, R.id.itemPrice}
+            new String[]{"itemTitle", "itemPrice"},
+            new int[] {R.id.itemTitle, R.id.itemPrice}
             );
-           
+      
       setListAdapter(adapter);
    }
+   
+   
 
 }

@@ -10,40 +10,50 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.ListAdapter;
+import android.widget.ListView;
 import android.widget.SimpleCursorAdapter;
 import android.widget.Toast;
 
-public class SearchAll extends ListActivity
+public class SearchCompany extends ListActivity
 {
    private SQLiteDatabase db;
    private Cursor cursor;
    private ListAdapter adapter;
    private Toast toaster;
    
-   public void onCreate(Bundle savedInstanceState) 
+   public void onCreate(Bundle savedInstanceState)
    {
-      
       super.onCreate(savedInstanceState);
-      setContentView(R.layout.searchall);
+      setContentView(R.layout.searchcompany);
       
       db = (new DatabaseHelper(this)).getWritableDatabase();
-      searchAll();
+      searchCompany();
+      
    }
    
-   public void searchAll()
+   public void searchCompany()
    {
-      cursor = db.rawQuery("SELECT * FROM items", null);
+      cursor = db.rawQuery("SELECT _id, itemCompany from items GROUP BY itemCompany", null);
       cursor.moveToFirst();
       
       adapter = new SimpleCursorAdapter(
             this,
-            R.layout.allresults,
+            R.layout.companyresults,
             cursor,
-            new String[] {"itemTitle", "itemCompany", "itemPrice"},
-            new int[] {R.id.itemTitle, R.id.itemCompany, R.id.itemPrice}
+            new String[] {"itemCompany"},
+            new int[] {R.id.itemCompany}
             );
-           
+            
       setListAdapter(adapter);
+            
+   }
+   
+   public void onListItemClick(ListView parent, View view, int position, long id)
+   {
+      Intent itemsByCompany = new Intent(this, ItemsByCompany.class);
+      Cursor cursor = (Cursor)adapter.getItem(position);
+      itemsByCompany.putExtra("companySelected", cursor.getString(cursor.getColumnIndex("itemCompany")));
+      startActivity(itemsByCompany);
    }
 
 }
