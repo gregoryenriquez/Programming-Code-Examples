@@ -48,13 +48,29 @@ public class LogIn extends Activity{
         {	
 			@Override
 			public void onClick(View v) {
-				toaster.makeText(loginscreen, "...jump to pw recovery", Toast.LENGTH_LONG).show();
+				startForgotPw();
+				//toaster.makeText(loginscreen, "...jump to pw recovery", Toast.LENGTH_LONG).show();
 			}
 		});
         email = (EditText)findViewById(R.id.Email);
         password = (EditText) findViewById(R.id.Password);
        
 	}
+	
+	public void startForgotPw()
+	{
+		try {
+			Intent forgotpw = new Intent(this, ForgotPassword.class);
+			forgotpw.putExtra("currentemail", email.getText().toString());
+			startActivity(forgotpw);
+		}
+		catch (Exception e)
+		{
+			toaster.makeText(this, "Err: Activity not found", Toast.LENGTH_LONG).show();
+		}
+
+	}
+	
 	public void startLogin()
     {
 		String querybuilder = email.getText().toString();
@@ -89,33 +105,6 @@ public class LogIn extends Activity{
 		else
 		{
 			toaster.makeText(this, "Invalid pw", Toast.LENGTH_LONG).show();
-		}
-		/*
-		int index = -1;
-		for (int i = 0; i < usernames.length; i++)
-		{
-			if (usernames[i].equals(email.getText().toString()))
-			{	index = i;
-				currentuser=usernames[i];
-			}
-		}
-		boolean passwordCheck = false;
-		if (index == -1)
-		{
-			toaster.makeText(loginscreen, "Invalid Email", Toast.LENGTH_LONG).show();
-			return;
-		}
-		else if (password.getText().toString().equals(passwords[index]))
-			passwordCheck = true;
-		
-		if (!passwordCheck && index != -1)
-		{
-			//toaster.makeText(loginscreen, "" + email.getText() + password.getText(), Toast.LENGTH_LONG).show();
-			toaster.makeText(loginscreen, "Invalid Email/Password!", Toast.LENGTH_LONG).show();
-			return;
-		}
-		*/
-		
+		}	
     }
-	
 }

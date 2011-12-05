@@ -51,7 +51,7 @@ public class Search extends ListActivity
 	        db = (new DatabaseHelper(this)).getWritableDatabase();
 
 	        search();
-	        img = (ImageView) findViewById(R.id.img);
+	      
 	 }
 	 
 	 public void search() 
@@ -63,29 +63,7 @@ public class Search extends ListActivity
         		"' ' || itemCompany LIKE ?", 
                         new String[]{"%" + searchInput + "%"});
         cursor.moveToFirst();
-        /*
-        if (cursor == null) 
-        {	
-        	toaster.makeText(this, "Err: null cursor", Toast.LENGTH_LONG);
-        	return;
-        }
-        if (cursor.isFirst())
-        {
-        	do
-        	{
-        		View tempView = (View) findViewById(R.layout.searchresults);
-		        int titleIndex = cursor.getColumnIndex("itemTitle");
-		        int companyIndex = cursor.getColumnIndex("itemCompany");
-		        int priceIndex = cursor.getColumnIndex("itemPrice");
-		        int iconIndex = cursor.getColumnIndex("itemIcon");
-		        
-		        String title, company, price, icon;
-		        title = cursor.getString(titleIndex);
-		        company = cursor.getString(companyIndex);
-		        price = cursor.getString(priceIndex);
-		        icon = cursor.getString(iconIndex);
-        	} while (cursor.moveToNext());
-        }*/
+       
         
         adapter = new SimpleCursorAdapter(
               this, 
@@ -93,36 +71,12 @@ public class Search extends ListActivity
               cursor, 
               new String[] {"itemTitle", "itemCompany", "itemPrice", "itemIcon"}, 
               new int[] {R.id.itemTitle, R.id.itemCompany, R.id.itemPrice, 
-            		  getSource()}
+            		  R.drawable.defaulticon}
               );
          
         setListAdapter(adapter);
 	 }
 	 
-	 public int getSource()
-	 {
-		 //toaster.makeText(this, cursor.getColumnIndex("itemIcon"), Toast.LENGTH_LONG);
-		 /*
-		 String temp = cursor.getString(cursor.getColumnIndex("itemIcon"));
-		 int id = 0;
-		 try {
-		 id = getResources().getIdentifier("drawable/" + 
-				 temp.substring(0, temp.length()-3), null, getPackageName());
-		 }
-		 catch (Exception e)
-		 {
-			 
-		 }
-		 if (id != 0)
-			 img.setImageResource(id);
-		 else
-			 img.setImageResource(getResources().getIdentifier("drawable/defaulticon", null, getPackageName()));
-		 //toaster.makeText(this, temp, Toast.LENGTH_LONG).show();
-		 //arrStrTemp.add(temp);
-		  * */
-		  
-		 return R.drawable.defaulticon;
-	 }
 	 public void onListItemClick(ListView parent, View view, int position, long id) {
 		 Intent shippingInfo = new Intent(this, ShippingInfo.class);
 		 Cursor cursor = (Cursor)adapter.getItem(position);

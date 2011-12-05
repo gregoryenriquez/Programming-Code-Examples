@@ -11,14 +11,16 @@ CREATE TABLE IF NOT EXISTS customers (
 </statement>
 <statement>
 CREATE TABLE IF NOT EXISTS transactions (
-	transactionid	VARCHAR(50) PRIMARY KEY,
+	_id				INTEGER PRIMARY KEY AUTOINCREMENT,
+	transactionid	VARCHAR(50),
 	itemname		VARCHAR(40),
 	date			VARCHAR(20),
-	totalamount		VARCHAR(40))
+	totalamount		VARCHAR(40),
+	email			VARCHAR(40))
 </statement>
 <statement>
 CREATE TABLE IF NOT EXISTS items (
-	_id INTEGER PRIMARY KEY, 
+	_id INTEGER PRIMARY KEY AUTOINCREMENT, 
 	itemTitle VARCHAR(100), 
 	itemCompany VARCHAR(50), 
 	itemPrice VARCHAR(650), 
@@ -42,7 +44,8 @@ CREATE TABLE IF NOT EXISTS items (
 
 <statement>
 CREATE TABLE IF NOT EXISTS saveditems	(
-	item			VARCHAR(40) PRIMARY KEY,
+	_id				INTEGER PRIMARY KEY AUTOINCREMENT,
+	item			VARCHAR(40),
 	manufacturer 	VARCHAR(40),
 	price			VARCHAR(10)
 

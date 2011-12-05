@@ -28,30 +28,30 @@ public class NewUser extends Activity{
 	        streetName.setOnClickListener(new View.OnClickListener() {
 				@Override
 				public void onClick(View v) {
-					streetName.requestFocus();
+					
 				}
 			});
 	        zipCode = (EditText) findViewById(R.id.ZipCode);
 	        cityName = (EditText) findViewById(R.id.CityName);
 	        personName = (EditText) findViewById(R.id.PersonName);
-	        personName.setOnClickListener(new View.OnClickListener()
+	        /*personName.setOnClickListener(new View.OnClickListener()
 	        {
 				@Override
 				public void onClick(View v) {
 					
 					
 				}
-			});
+			});*/
 	        
 	        state = (AutoCompleteTextView) findViewById(R.id.State);
 	        initState();
 	        
-	        state.setOnClickListener(new View.OnClickListener() 
+	        /*state.setOnClickListener(new View.OnClickListener() 
 	        {	
 				@Override
 				public void onClick(View v) {
 				}
-			});
+			});*/
 	
 	        continueButton = (Button) findViewById(R.id.NewUserContinue);
 	        continueButton.setOnClickListener(new View.OnClickListener() 
@@ -75,11 +75,7 @@ public class NewUser extends Activity{
 	{
 		try {
 		Intent continueIntent = new Intent(this, NewUserContinue.class);
-		/*EditText streetName;
-		EditText personName;
-		EditText zipCode;
-		EditText cityName;
-		AutoCompleteTextView state;*/
+		
 		boolean check = true;
 		if (personName.getText().toString().equals("")) check = false;
 		continueIntent.putExtra("name", personName.getText().toString());

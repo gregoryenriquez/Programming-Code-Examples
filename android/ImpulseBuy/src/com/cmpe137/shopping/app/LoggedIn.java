@@ -143,6 +143,7 @@ public class LoggedIn extends Activity{
 		try
 		{
 			Intent myaccount = new Intent(this, MyAccount.class);
+			myaccount.putExtra("currentemail", currentuser);
 			startActivity(myaccount);
 		}
 		catch (ActivityNotFoundException afne)

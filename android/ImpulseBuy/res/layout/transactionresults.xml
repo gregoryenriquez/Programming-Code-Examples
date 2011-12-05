@@ -7,27 +7,24 @@
 
     
 	<TextView
-		android:id="@+id/itemTitle"
+		android:id="@+id/tranTitle"
 	    android:layout_width="wrap_content"
 	    android:layout_height="wrap_content"/>
-	
-		<TextView
-		android:id="@+id/itemCompany"
+    
+	<TextView
+		android:id="@+id/tranDate"
 		android:layout_marginLeft="6px"
 	    android:layout_width="wrap_content"
 	    android:layout_height="wrap_content"
-	    android:layout_below="@id/itemTitle"/>
+	    android:layout_below="@id/tranTitle"/>
 	    	    
 
 	<TextView
-		android:id="@+id/itemPrice"
+		android:id="@+id/tranPrice"
 	    android:layout_width="wrap_content"
 	    android:layout_height="wrap_content"
-	    android:layout_below="@id/itemCompany"/>
-
-	<!-- transactionid	VARCHAR(50) PRIMARY KEY,
-	itemname		VARCHAR(40),
-	date			VARCHAR(20),
-	totalamount		VARCHAR(40)) -->
+	    android:layout_below="@id/tranDate"/>
+	
+	
         
 </RelativeLayout>

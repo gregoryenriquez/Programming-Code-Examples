@@ -78,6 +78,7 @@ public class NewUserContinue extends Activity{
 				{
 					toaster.makeText(this, password.getText().toString(), Toast.LENGTH_SHORT).show();
 					Intent register = new Intent(this, LoggedIn.class);
+					register.putExtra("useremail", email.getText().toString());
 					startActivity(register);
 				}
 			}

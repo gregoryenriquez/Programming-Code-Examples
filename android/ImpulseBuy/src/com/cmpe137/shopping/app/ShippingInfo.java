@@ -40,5 +40,8 @@ public class ShippingInfo extends Activity {
 		itemPriceView = (TextView) findViewById(R.id.itemPrice);
 		itemPriceView.setText(itemPriceStr);
 		
+		streetName = (EditText) findViewById(R.id.StreetName);
+		
+		
 	}
 }

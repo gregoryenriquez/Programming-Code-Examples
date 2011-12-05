@@ -20,7 +20,7 @@
         android:layout_below="@+id/banner"
         android:text="Browse" />
 
-	<Button
+	<!-- <Button
         android:id="@+id/Nearby"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
@@ -42,6 +42,6 @@
         android:layout_height="wrap_content"
         android:layout_alignParentLeft="true"
         android:layout_below="@+id/Type"
-        android:text="By Similar Items" />
+        android:text="By Similar Items" /> -->
 
 </RelativeLayout>

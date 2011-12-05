@@ -13,8 +13,8 @@ public class ForgotPassword extends Activity{
 	Toast toaster;
 	ForgotPassword forgotpasswordscreen;
 	Button resetButton;
-	boolean flag;
 	EditText emailBox;
+	String currentemail;
 	public void onCreate(Bundle savedInstanceBundle)
 	{
 		super.onCreate(savedInstanceBundle);
@@ -26,23 +26,16 @@ public class ForgotPassword extends Activity{
 			@Override
 			public void onClick(View v) {
 				toaster.makeText(ForgotPassword.this, "A new random password has been sent to your email", Toast.LENGTH_SHORT).show();
+				finish();
 			}
 		});
 		
-		flag = false;
+		Checkbox check;
 		Intent tempIntent = getIntent();
-		emailBox = (EditText) findViewById(R.id.Email);
-		if (!flag)
-			emailBox.setText(tempIntent.getStringExtra("email"));
+		currentemail = tempIntent.getStringExtra("currentemail");
 		
+		emailBox = (EditText) findViewById(R.id.Email);	
+		emailBox.setText(currentemail);
 	}
-	
-	@Override
-	protected void onResume()
-	{
-		super.onResume();
-		flag = true;
-	}
-	
 
 }

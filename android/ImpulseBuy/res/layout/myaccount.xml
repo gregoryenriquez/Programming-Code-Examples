@@ -38,13 +38,13 @@
          android:layout_below="@+id/Update"
          android:text="View Transaction History" />
 
-     <Button
+    <!--  <Button
          android:id="@+id/Preferences"
          android:layout_width="fill_parent"
          android:layout_height="wrap_content"
          android:layout_alignLeft="@+id/Transactions"
          android:layout_alignRight="@+id/Transactions"
          android:layout_below="@+id/Transactions"
-         android:text="My Preferences" />
+         android:text="My Preferences" /> -->
      
 </RelativeLayout>

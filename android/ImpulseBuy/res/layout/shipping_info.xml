@@ -14,33 +14,37 @@
 	
 	<TextView 
 	    android:id="@+id/itemInfo"
-	    android:layout_width="fill_parent"
+	    android:layout_width="wrap_content"
 	    android:layout_height="wrap_content"
 	    android:layout_below="@id/banner"
+	    android:layout_centerHorizontal="true"
 	    android:text="Item Info"
-	    android:textSize="16dp"	/>
+	    android:textSize="20dp"	/>
 	
 	<TextView
 	    android:id="@+id/itemTitle"
 	    android:layout_width="wrap_content"
 	    android:layout_height="wrap_content"
+	    android:layout_centerHorizontal="true"
 	    android:layout_below="@id/itemInfo" />
 	    
 	<TextView
 	    android:id="@+id/itemCompany"
 	    android:layout_width="wrap_content"
 	    android:layout_height="wrap_content"
+	    android:layout_centerHorizontal="true"
 	    android:layout_below="@id/itemTitle" />
 	    
 	<TextView
 	    android:id="@+id/itemPrice"
 	    android:layout_width="wrap_content"
 	    android:layout_height="wrap_content"
+	    android:layout_centerHorizontal="true"
 	    android:layout_below="@id/itemCompany" />	    	    
 		
 	<TextView 
 	    android:id="@+id/title"
-	    android:layout_width="fill_parent"
+	    android:layout_width="wrap_content"
 	    android:layout_height="wrap_content"
 	    android:layout_below="@id/itemPrice"
 	    android:text="Shipping Info"
@@ -55,18 +59,18 @@
 	    android:hint="Enter your name" />	
 	
 	<EditText
-	    android:id="@+id/streetName"
+	    android:id="@+id/StreetName"
 	    android:layout_width="fill_parent"
 	    android:layout_height="wrap_content"
 	    android:layout_below="@id/personName"
-	    android:hint="Stress Name" />
+	    android:hint="Street Name" />
 	
 	<LinearLayout
 	    xmlns:android="http://schemas.android.com/apk/res/android"
 	    android:id="@+id/linearAddress"
 	    android:layout_width="fill_parent"
 	    android:layout_height="wrap_content"
-	    android:layout_below="@id/streetName"
+	    android:layout_below="@id/StreetName"
 	    android:weightSum="1.0" >
 		
 	    <EditText
@@ -96,5 +100,13 @@
 	    android:layout_below="@id/linearAddress"
 	    android:layout_centerHorizontal="true"
 	    android:text="Continue" />
+
+	<CheckBox
+	    android:id="@+id/checkBox1"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_below="@id/shippingContinue"
+	    android:layout_marginBottom="26dp"
+	    android:text="Use account address?" />
 	    
 </RelativeLayout>

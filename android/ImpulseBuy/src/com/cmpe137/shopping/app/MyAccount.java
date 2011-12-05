@@ -13,10 +13,15 @@ public class MyAccount extends Activity{
 	Button transactions;
 	Button preferences;
 	Toast toaster;
+	String currentemail;
 	public void onCreate(Bundle savedInstanceState) {
 		
         super.onCreate(savedInstanceState);
         setContentView(R.layout.myaccount);
+        
+        Intent tempIntent = getIntent();
+        currentemail = tempIntent.getStringExtra("currentemail");
+        
         update = (Button) findViewById(R.id.Update);
         update.setOnClickListener(new View.OnClickListener() 
         {	
@@ -35,20 +40,21 @@ public class MyAccount extends Activity{
 			}
 		});
         
-        preferences = (Button) findViewById(R.id.Preferences);
+       /* preferences = (Button) findViewById(R.id.Preferences);
         preferences.setOnClickListener(new View.OnClickListener() 
         {
 			@Override
 			public void onClick(View v) {
 				startPreferences();
 			}
-		});
+		});*/
 	}
 	protected void startUpdate()
 	{
 		try
 		{
 			Intent update = new Intent(this, Update.class);
+			update.putExtra("currentemail", currentemail);
 			startActivity(update);
 		}
 		catch (ActivityNotFoundException anfe)
@@ -61,6 +67,7 @@ public class MyAccount extends Activity{
 		try
 		{
 			Intent transactions = new Intent(this, Transactions.class);
+			transactions.putExtra("currentemail", currentemail);
 			startActivity(transactions);
 		}
 		catch (ActivityNotFoundException anfe)
@@ -68,7 +75,7 @@ public class MyAccount extends Activity{
 			toaster.makeText(this, "Transaction activity not found!", Toast.LENGTH_SHORT).show();
 		}
 	}
-	protected void startPreferences()
+	/*protected void startPreferences()
 	{
 		try
 		{
@@ -79,6 +86,6 @@ public class MyAccount extends Activity{
 		{
 			toaster.makeText(this, "Preferences activity not found!", Toast.LENGTH_SHORT).show();
 		}
-	}
+	}*/
 	
 }

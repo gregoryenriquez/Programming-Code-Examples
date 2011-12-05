@@ -89,8 +89,17 @@
      	        <category android:name="android.intent.category.DEFAULT"	/>
        	    </intent-filter>
        	</activity>
-       	<activity
+       	<!-- <activity
        	    android:name=".MyPreferences"
+       	    android:screenOrientation="portrait"
+			android:configChanges="orientation|keyboardHidden">
+       	    <intent-filter>
+       	        <action android:name="android.intent.action.VIEW"	/>
+     	        <category android:name="android.intent.category.DEFAULT"	/>
+       	    </intent-filter>
+       	</activity> -->
+       	<activity
+       	    android:name=".Update"
        	    android:screenOrientation="portrait"
 			android:configChanges="orientation|keyboardHidden">
        	    <intent-filter>
@@ -99,7 +108,7 @@
        	    </intent-filter>
        	</activity>
        	<activity
-       	    android:name=".Update"
+       	    android:name=".ForgotPassword"
        	    android:screenOrientation="portrait"
 			android:configChanges="orientation|keyboardHidden">
        	    <intent-filter>
@@ -202,23 +211,23 @@
                 <action android:name="android.intent.action.VIEW" />
             </intent-filter>
         </activity>
-        <activity android:name=".SearchNearby">
+        <!-- <activity android:name=".SearchNearby">
             <intent-filter>
                 <action android:name="android.intent.action.VIEW" />
             </intent-filter>
-            </activity>
+            </activity> -->
             
-            <activity android:name=".SearchType">
-                <intent-filter>
-                    <action android:name="android.intent.action.VIEW" />
-                </intent-filter>
-                </activity>
+        <!-- <activity android:name=".SearchType">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+            </intent-filter>
+            </activity> -->
                 
-                <activity android:name=".SearchSimilar">
-                    <intent-filter>
-                        <action android:name="android.intent.action.VIEW" />
-                    </intent-filter>
-                    </activity>
+        <!-- <activity android:name=".SearchSimilar">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+            </intent-filter>
+            </activity> -->
        
     </application>
 

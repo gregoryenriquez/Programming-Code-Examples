@@ -3,22 +3,27 @@ package com.cmpe137.shopping.app;
 import android.app.Activity;
 import android.content.ActivityNotFoundException;
 import android.content.Intent;
+import android.database.sqlite.SQLiteDatabase;
 import android.os.Bundle;
 import android.view.MotionEvent;
-import android.view.View;
-import android.widget.Button;
 import android.widget.Toast;
 
 
 public class ShoppingAppActivity extends Activity {
 	
 	Toast toaster;
+	SQLiteDatabase db;
     /** Called when the activity is first created. */
     @Override
     public void onCreate(Bundle savedInstanceState) {
     
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
+        DatabaseHelper dbhelper = new DatabaseHelper(this);
+        db = dbhelper.getWritableDatabase();
+        db.execSQL("DROP TABLE transactions");
+        dbhelper.onCreate(db);
+        //db.close();
     }
     public boolean onTouchEvent(MotionEvent event)
 	{

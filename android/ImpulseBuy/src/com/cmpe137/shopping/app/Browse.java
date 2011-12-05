@@ -21,9 +21,9 @@ public class Browse extends Activity
         super.onCreate(savedInstanceState);
         setContentView(R.layout.browse);
         
-        nearby = (Button) findViewById(R.id.Nearby);
+        /*nearby = (Button) findViewById(R.id.Nearby);
         nearby.setOnClickListener(new View.OnClickListener()
-      {
+        {
          
          @Override
          public void onClick(View v)
@@ -31,10 +31,10 @@ public class Browse extends Activity
             startNearby();
             
          }
-      });
+      	});*/
         
-        type = (Button) findViewById(R.id.Type);
-        type.setOnClickListener(new View.OnClickListener()
+       // type = (Button) findViewById(R.id.Type);
+        /*type.setOnClickListener(new View.OnClickListener()
         {
            public void onClick(View v)
            {
@@ -50,13 +50,13 @@ public class Browse extends Activity
                  {
                     startSimilar();
                  }
-              });
+              });*/
       
 
 	}
 	
 	
-	protected void startNearby()
+	/*protected void startNearby()
 	{
 	   try
 	   {
@@ -67,9 +67,9 @@ public class Browse extends Activity
 	   {
 	      toaster.makeText(this, "Nearby activity not found!", Toast.LENGTH_SHORT).show();
 	   }
-	}
+	}*/
 	
-	protected void startTypes()
+	/*protected void startTypes()
 	{
 	   try
 	   {
@@ -80,9 +80,9 @@ public class Browse extends Activity
 	   {
 	      toaster.makeText(this, "Types activity not found!", Toast.LENGTH_SHORT).show();
 	   }
-	}
+	}*/
 	
-	protected void startSimilar()
+	/*protected void startSimilar()
 	{
 	   try
 	   {
@@ -93,5 +93,5 @@ public class Browse extends Activity
 	   {
 	      toaster.makeText(this, "Similar activity not found!", Toast.LENGTH_SHORT).show();
 	   }
-	}
+	}*/
 }
