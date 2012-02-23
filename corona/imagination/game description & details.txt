@@ -1,0 +1,102 @@
+game: imagination war
+
+----------------------------
+genre
+----------------------------
+aeon of strife
+	base vs. base
+	automated combat system
+	spawn units 
+	spawn heroes?
+	player combat interaction?
+
+----------------------------
+themes
+----------------------------
+free:
+	vampires
+	werewolves
+	
+paid:
+	beasts
+	undead
+	unicorns
+	spartans
+	bears
+	spacemen
+	spec ops
+	ninjas
+	&more
+	
+----------------------------
+heroes
+----------------------------
+possibly? paid
+
+----------------------------
+automated combat
+----------------------------
+radial distance checking
+
+----------------------------
+currency
+----------------------------
+non-paid:
+	gold (recruit in combat)
+		attain by killing units
+		attain over time
+
+optionally-paid:
+	tokens? diamonds, thought clouds
+
+----------------------------
+upgrade system
+----------------------------
+	purchaseable through gold or tokens
+	10 total upgrades per unit
+
+----------------------------
+screen
+----------------------------
+
+--------------------------------------------------
+[$$][pop]	 								[pause]
+
+		
+		<basic, purchaseable battle fields>
+
+		heroes?->					<-heroes?
+[base] 	units->						<-units [base]
+--------------------------------------------------
+[unit1][unit2][unit3][...]
+--------------------------------------------------
+
+----------------------------
+modes
+----------------------------
+single-player
+multi-player
+
+----------------------------
+player combat interaction
+----------------------------
+???????????????
+
+----------------------------
+units (general)
+----------------------------
+food cap
+
+----------------------------
+level (purchasable)
+----------------------------
+hills
+teleporters
+
+----------------------------
+iteration 1
+----------------------------
+	get 1 unit vs 1 unit combat work
+	display combat text?
+	display unit hp?
+	get level scrolling working

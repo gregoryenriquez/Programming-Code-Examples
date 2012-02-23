@@ -1,0 +1,31 @@
+settings =
+{
+	orientation	 =
+	{
+		default = "landscape",
+	},
+   androidPermissions =
+   {
+        
+   },
+   
+   content =
+   {
+		width = 480,
+		height = 320,
+		scale = "letterbox"
+   },
+
+	iphone =
+	{
+		plist =
+		{
+	        CFBundleIconFile = "Icon.png",
+	        CFBundleIconFiles = {
+	           "Icon.png", 
+	           "Icon@2x.png", 
+	           "Icon-72.png", 
+	        },
+		},
+	}
+}
