@@ -1,0 +1,65 @@
+# Connected to Nexys onBoard USB controller
+
+#========================================================
+# clock and reset
+#========================================================
+ NET CLK            LOC = B8;  # ON BOARD CLOCK WITH 50 MHz
+#NET reset          LOC = R17; # RESET PIN
+
+#========================================================
+# buttons & switches 
+#========================================================
+# 4 push buttons 
+ NET "reset"        LOC = "B18";
+#NET "start"        LOC = "D18";
+#NET "btn<2>"       LOC = "E18";
+#NET "btn<3>"       LOC = "H13"; #btn<3> also used as reset
+
+#========================================================
+# 4-digit time-multiplexed 7-segment LED display
+#========================================================
+# digit enable
+ NET "top_an<0>"    LOC = "F17";
+ NET "top_an<1>"    LOC = "H17";
+ NET "top_an<2>"    LOC = "C18";
+ NET "top_an<3>"    LOC = "F15";
+
+# 7-segment led segments 
+ NET "top_sseg<7>"  LOC = "C17"; # dicimal point
+ NET "top_sseg<6>"  LOC = "L18"; # segment a
+ NET "top_sseg<5>"  LOC = "F18"; # segment b
+ NET "top_sseg<4>"  LOC = "D17"; # segment c
+ NET "top_sseg<3>"  LOC = "D16"; # segment d
+ NET "top_sseg<2>"  LOC = "G14"; # segment e
+ NET "top_sseg<1>"  LOC = "J17"; # segment f 
+ NET "top_sseg<0>"  LOC = "H14"; # segment g 
+
+# 8 slide switches
+ NET "switches<0>"  LOC = "G18";
+ NET "switches<1>"  LOC = "H18";
+ NET "switches<2>"  LOC = "K18";
+ NET "switches<3>"  LOC = "K17";
+ NET "switches<4>"  LOC = "L14";
+ NET "switches<5>"  LOC = "L13";
+ NET "switches<6>"  LOC = "N17";
+ NET "switches<7>"  LOC = "R17";
+
+#========================================================
+# 8 discrete led
+#========================================================
+#
+ NET "memwrite"     LOC = "J14";
+#NET "load"         LOC = "J15";
+#NET "CS<2>"        LOC = "K15";
+#NET "CS<3>"        LOC = "K14";
+#NET "CS<4>"        LOC = "E17";
+#NET "CS<5>"        LOC = "P15";
+#NET "CS<6>"        LOC = "F4";
+ NET "sinkBit"      LOC = "R4";
+
+#========================================================
+# Timing constraint of S3 50-MHz onboard oscillator
+# name of the clock signal is clk
+#========================================================
+#NET "clk" TNM_NET = "clk";
+#TIMESPEC "TS_clk" = PERIOD "clk" 40 ns HIGH 50 %;
